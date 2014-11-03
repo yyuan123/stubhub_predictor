@@ -1,0 +1,47 @@
+stubhub account
+dstuckey@gwmail.gwu.edu
+gwuProject098)
+
+API keys:
+Application Token	BSPtXk8aDTAlUgG1gcMQzrBE5koa
+Consumer Key		YBGRfdI6FC5rEK96RfEHqCcfKpsa
+Consumer Secret		8kMiGhWnySVlocvhQ8SuXGwFEEEa
+
+example calls:
+https://api.stubhub.com/search/inventory/v1?eventid=4270639
+http://www.stubhub.com/listingCatalog/select%3Fq%3DstubhubDocumentType%3Aevent%20AND%20description%3A%22oakland%20raiders%22%20AND%20ancestorGenreDescriptions%3ANFL%20AND%20-description%3Aeagles%26start%3D0%26rows%3D50%26wt%3Djson%26indent%3Don%26fl%3Devent_id%20description%20event_date%20venue_name
+http://www.stubhub.com/listingCatalog/select%3Fq%3DstubhubDocumentType%3Aevent%20AND%20genre_parent%3A115fl%3Devent_id%20description%20event_date%20venue_name
+
+http://www.stubhub.com/listingCatalog/select%3Fq%3DstubhubDocumentType%3Aevent%20AND%20description:%22washington%20wizards%22&fl%3Devent_id%20description%20event_date%20venue_name
+	-all events with "Washington Wizards" in description
+
+http://www.stubhub.com/listingCatalog/select%3Fq%3DstubhubDocumentType%3Aevent%20AND%20description:%22washington%20wizards%22&fl%3Devent_id+description+event_date+venue_name
+	-same as above
+
+http://www.stubhub.com/listingCatalog/select?q=stubhubDocumentType:genre%20AND%20id:115&fl=genreId+description+leaf+genre_parent+ancestorGenreIds
+	-finds Genre ID 115
+
+http://www.stubhub.com/listingCatalog/select?q=stubhubDocumentType:event%20AND%20ancestorGenreIds:81016&fl=event_id+description+ancestorGenreIds
+	-all events with "2014 NBA Regular Season Tickets" genre in ancestors
+	
+http://www.stubhub.com/listingCatalog/select?q=stubhubDocumentType:event%20AND%20ancestorGenreIds:81016%20AND%20event_date:[NOW%20TO%20*]&fl=event_id+description+ancestorGenreIds
+	-same as above with date > 'now'
+	
+http://www.stubhub.com/listingCatalog/select?q=stubhubDocumentType:ticket%20AND%20event_id:9107795&fl=curr_price+section+row_desc+seats+zonedesc
+	-all tickets on sale for event id 9107795 (an NBA game)
+
+Genres:
+Basketball genre:30
+NBA genre:115
+2014 NBA Regular Season Tickets:	81016
+
+Query formatting:
+base url= http://www.stubhub.com/listingCatalog/select?
+q=<query>, in format (unescaped):
+	q=stubhubDocumentType:ticket AND event_id:9107795
+fl=<fields to display>, in format (unescaped):
+	fl=curr_price+section+row_desc+seats+zonedesc
+	
+*separate q, fl with '&'
+*query params separated with ' AND ', and key:value pairs separated with ':' rather than '='
+
