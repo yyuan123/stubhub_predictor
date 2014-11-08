@@ -8,12 +8,51 @@ Created on Mon Nov  3 15:29:22 2014
 import urllib2
 from bs4 import BeautifulSoup
 import pandas as pd
+import datetime
+import MySQLdb as myDB
+from sqlalchemy import create_engine
 
 baseUrl = 'http://www.stubhub.com/listingCatalog/select?'
 nbaRegSeasonGenre = 81016
 saveDir = './csvs'
+mysql_user = "root"
+mysql_pass = ""
+mysql_db = "stubhub"
 
 ### Functions ###
+def getDBConnect():
+    return myDB.connect(host='localhost',
+                                user=mysql_user,
+                                passwd=mysql_pass,
+                                db=mysql_db)
+
+# Function to save DataFrame to MySQL database
+def saveToDB(df, table, dbConnect, replace):
+    if (replace):
+        action='replace'
+    else:
+        action='append'
+    #clean up any 'NaN' fields which mysql doesn't understand
+    dfClean = df.where((pd.notnull(df)), None)
+    dfClean.to_sql(con=dbConnect,
+                    name=table,
+                    if_exists=action,
+                    flavor='mysql')
+
+# Missing sqlalchemy.schema module
+def readFromDB(termId, dbConnect):
+    engine = create_engine('mysql+mysqldb://' + mysql_user + ':' + mysql_pass + '@localhost/' + mysql_db)
+    
+    df = pd.read_sql_table('sp_' + termId, con=engine)
+    #clean up SUBJ column
+    #df.SUBJ = df.SUBJ.str.strip()
+    return df
+    
+# Get Current time formatted
+def now():
+    dt = datetime.datetime.now()
+    return str(dt)
+
 # Function to save a dataframe to CSV
 def saveToCsv(df, name):
     df.to_csv(saveDir + '/' + name + '.csv')
@@ -31,6 +70,8 @@ def runTicketQuery(event_id):
     ticketQuery = constructTicketQueryUrl(event_id)
     firstTicketResponse = urllib2.urlopen(ticketQuery)
     ticketSoup = BeautifulSoup(firstTicketResponse)
+    
+    queryTime = now()
 
     #print(ticketQuery)
     prices = []
@@ -38,26 +79,33 @@ def runTicketQuery(event_id):
     seats = []
     zones = []
     rows = []
+    eventIds = []
+    queryTimes = []
     
     ticketDocs = ticketSoup.findAll('doc')
     for doc in ticketDocs:
-        price = str(doc.find('float', {'name':'curr_price'}).text)
+        price = str(doc.find('float', {'name':'curr_price'}).text)[:63]
         prices.append(price)
-        section = str(doc.find('str', {'name':'section'}).text)
+        section = str(doc.find('str', {'name':'section'}).text)[:63]
         sections.append(section)
-        seat = str(doc.find('str', {'name':'seats'}).text)
+        seat = str(doc.find('str', {'name':'seats'}).text)[:63]
         seats.append(seat)
-        zone = str(doc.find('str', {'name':'zonedesc'}).text)
+        zone = str(doc.find('str', {'name':'zonedesc'}).text)[:63]
         zones.append(zone)
-        row = str(doc.find('str', {'name':'row_desc'}).text)
+        row = str(doc.find('str', {'name':'row_desc'}).text)[:63]
         rows.append(row)
+        #add constant vals
+        eventIds.append(eventId)
+        queryTimes.append(queryTime)
     
     ticketDict = {
         'section': sections,
         'price': prices,
         'seats': seats,
         'zone': zones,
-        'row': rows
+        'row': rows,
+        'event_id': eventIds,
+        'query_time': queryTimes
     }
     
     return pd.DataFrame(ticketDict)
@@ -80,9 +128,9 @@ eventDocs = eventSoup.findAll('doc')
 for doc in eventDocs:
     eventId = str(doc.find('str', {'name':'event_id'}).text)
     eventIds.append(eventId)
-    eventDesc = str(doc.find('str', {'name':'description'}).text)
+    eventDesc = str(doc.find('str', {'name':'description'}).text)[:63]
     eventDescriptions.append(eventDesc)
-    eventDate = str(doc.find('date', {'name':'event_date'}).text)
+    eventDate = str(doc.find('date', {'name':'event_date'}).text)[:63]
     eventDates.append(eventDate)
     
 eventDict = {
@@ -92,6 +140,8 @@ eventDict = {
 }
 
 eventDF = pd.DataFrame(eventDict)
+#truncate 'description' column to 64 chars max
+eventDF['description'] = eventDF['description'].str[:63]
 
 saveToCsv(eventDF, 'upcoming_nba_games')
 
@@ -100,8 +150,11 @@ saveToCsv(eventDF, 'upcoming_nba_games')
 #event_ids = [str(x.text) for x in event_ids]
 #print len(event_ids), " events found"
 
+dbCon = getDBConnect()
+
 ### For each event, pull available ticket info ###
-for i in range(0,5):
+for i in range(0,len(eventDF)-1):
     event_id = eventDF['event_id'][i]
     ticketsDF = runTicketQuery(event_id)
     saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
+    saveToDB(ticketsDF, "available_tickets", dbCon, replace=False)
