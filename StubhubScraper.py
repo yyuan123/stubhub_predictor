@@ -159,8 +159,11 @@ dbCon = getDBConnect()
 
 ### For each event, pull available ticket info ###
 for i in range(0,len(eventDF)-1):
-    event_id = eventDF['event_id'][i]
-    ticketsDF = runTicketQuery(event_id)
-    #saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
-    saveToDB(ticketsDF, "available_tickets", dbCon, replace=False)
-    print "scraped for number ", i, " id ", event_id
+    try:    
+        event_id = eventDF['event_id'][i]
+        ticketsDF = runTicketQuery(event_id)
+        #saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
+        saveToDB(ticketsDF, "available_tickets", dbCon, replace=False)
+        print "scraped for eventDF[ ", i, "], id ", event_id
+    except:
+        print "unable to scrape for number ", i, " id ", event_id
