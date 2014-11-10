@@ -40,10 +40,10 @@ def saveToDB(df, table, dbConnect, replace):
                     flavor='mysql')
 
 # Missing sqlalchemy.schema module
-def readFromDB(termId, dbConnect):
+def readFromDB(table, dbConnect):
     engine = create_engine('mysql+mysqldb://' + mysql_user + ':' + mysql_pass + '@localhost/' + mysql_db)
     
-    df = pd.read_sql_table('sp_' + termId, con=engine)
+    df = pd.read_sql_table(table, con=engine)
     #clean up SUBJ column
     #df.SUBJ = df.SUBJ.str.strip()
     return df
@@ -65,7 +65,8 @@ def constructEventQueryUrl():
 def constructTicketQueryUrl(eventId):
     url = baseUrl + "q=stubhubDocumentType:ticket%20AND%20event_id:" + str(eventId) + "&fl=curr_price+section+row_desc+seats+zonedesc"
     return url
-# 
+    
+# For a given event_id, scrape tickets available for that event
 def runTicketQuery(event_id):
     ticketQuery = constructTicketQueryUrl(event_id)
     firstTicketResponse = urllib2.urlopen(ticketQuery)
@@ -84,19 +85,23 @@ def runTicketQuery(event_id):
     
     ticketDocs = ticketSoup.findAll('doc')
     for doc in ticketDocs:
-        price = str(doc.find('float', {'name':'curr_price'}).text)[:63]
-        prices.append(price)
-        section = str(doc.find('str', {'name':'section'}).text)[:63]
-        sections.append(section)
-        seat = str(doc.find('str', {'name':'seats'}).text)[:63]
-        seats.append(seat)
-        zone = str(doc.find('str', {'name':'zonedesc'}).text)[:63]
-        zones.append(zone)
-        row = str(doc.find('str', {'name':'row_desc'}).text)[:63]
-        rows.append(row)
-        #add constant vals
-        eventIds.append(eventId)
-        queryTimes.append(queryTime)
+        try:
+            price = str(doc.find('float', {'name':'curr_price'}).text)[:63]
+            section = str(doc.find('str', {'name':'section'}).text)[:63]
+            seat = str(doc.find('str', {'name':'seats'}).text)[:63]
+            zone = str(doc.find('str', {'name':'zonedesc'}).text)[:63]
+            row = str(doc.find('str', {'name':'row_desc'}).text)[:63]
+            # Only append anything if all queries worked
+            prices.append(price)
+            sections.append(section)
+            seats.append(seat)
+            zones.append(zone)
+            rows.append(row)
+            #add constant vals
+            eventIds.append(eventId)
+            queryTimes.append(queryTime)
+        except:
+            print "error parsing ticket data for ", event_id
     
     ticketDict = {
         'section': sections,
@@ -156,5 +161,6 @@ dbCon = getDBConnect()
 for i in range(0,len(eventDF)-1):
     event_id = eventDF['event_id'][i]
     ticketsDF = runTicketQuery(event_id)
-    saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
+    #saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
     saveToDB(ticketsDF, "available_tickets", dbCon, replace=False)
+    print "scraped for number ", i, " id ", event_id
