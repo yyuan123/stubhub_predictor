@@ -15,13 +15,15 @@ from sqlalchemy import create_engine
 baseUrl = 'http://www.stubhub.com/listingCatalog/select?'
 nbaRegSeasonGenre = 81016
 saveDir = './csvs'
+
+mysql_host = "173.194.241.40"
 mysql_user = "root"
-mysql_pass = ""
+mysql_pass = "beer"
 mysql_db = "stubhub"
 
 ### Functions ###
 def getDBConnect():
-    return myDB.connect(host='localhost',
+    return myDB.connect(host=mysql_host,
                                 user=mysql_user,
                                 passwd=mysql_pass,
                                 db=mysql_db)
@@ -41,7 +43,7 @@ def saveToDB(df, table, dbConnect, replace):
 
 # Missing sqlalchemy.schema module
 def readFromDB(table, dbConnect):
-    engine = create_engine('mysql+mysqldb://' + mysql_user + ':' + mysql_pass + '@localhost/' + mysql_db)
+    engine = create_engine('mysql+mysqldb://' + mysql_user + ':' + mysql_pass + '@' + mysql_host + '/' + mysql_db)
     
     df = pd.read_sql_table(table, con=engine)
     #clean up SUBJ column
@@ -156,6 +158,9 @@ saveToCsv(eventDF, 'upcoming_nba_games')
 #print len(event_ids), " events found"
 
 dbCon = getDBConnect()
+
+# Save eventsDF to DB
+#saveToDB(eventDF, 'events', dbCon, replace=True)
 
 ### For each event, pull available ticket info ###
 for i in range(0,len(eventDF)-1):
