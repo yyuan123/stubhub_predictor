@@ -1,0 +1,79 @@
+Google MySQL instance:
+
+host: 173.194.241.40
+user: root
+password: beer
+database: stubhub
+
+mysql -u root -h 173.194.241.40 -p
+
+
+***basic join query***
+select e.*, a.* from available_tickets a join events e on a.event_id = e.event_id limit 1;
+
+***number of ticket entries per game***
+select e.*, count(*) from available_tickets a join events e on a.event_id = e.event_id group by event_id;
+
+***index creation***
+create unique index event_eid_idx on events (event_id);
+create index event_date_idx on events (date);
+create index at_evid_idx on available_tickets (event_id);
+create index at_qt_idx on available_tickets (query_time);
+
+***data cleaning***
+*section*
+select convert(substring_index(section,' ',-1),unsigned) from available_tickets limit 50;
+	-pretty good job of converting 'section' to integer
+create table test_sections as (select convert(substring_index(section,' ',-1),unsigned) as section_num from available_tickets limit 500);
+	-creates test table with 500 sections converted to unsigned int
+	select count(*) from (select * from test_sections where section_num = 0) a;
+		-counts number of 0's in test_sections table
+alter table test_tickets add section_category integer;
+	-add integer column to table
+	update test_tickets set section_category = convert(substring_index(section,' ',-1),unsigned);
+		-updates all section_category to a number
+	update test_tickets set section_category = NULL where section_category = 0;
+		-nulls out 0 values for section_category (use -100 instead?)
+	update test_tickets set section_category = section_category / 100;
+		-divides section_category by 100
+
+*date*
+select date_format(date, '%Y_%j') from events;
+	-gets year + julian day
+alter table test_events add julian_day char(3);
+	-adds 3-character julian day column
+	update test_events set julian_day = date_format(date, '%j');
+		-sets julian day appropriately
+		
+select a.date, b.query_time, (a.date - b.query_time) as diff from test_events a join test_tickets b on a.event_id = b.event_id limit 1
+	-gets difference between query time and date, but expressed as an integer in years
+
+select e.date, t.query_time, datediff(e.date, t.query_time) from available_tickets t join events e on e.event_id = t.event_id limit 1;
+	-gets difference in days between event date and query time
+
+select datediff(e.date, t.query_time), count(*) from test_tickets t join test_events e on e.event_id = t.event_id group by datediff(e.date, t.query_time);
+	-gets counts for date diff values
+		
+*teams*
+alter table test_events add away_team varchar(256);
+alter table test_events add home_team varchar(256);
+	-create new columns for home, away teams
+	update test_events set away_team = substring_index(description,' at ',1);
+	update test_events set home_team = substring_index(substring_index(description,' at ',-1),' Tickets',1);
+		-extract team names into appropriate columns
+
+
+***aggregation***
+select section, event_id, avg(price) as avg_price, count(price) as count from test_tickets group by event_id, section;
+	-avg and count of price by event_id, section
+		-need to add days_til_game variable
+
+
+***general info***
+SELECT TABLE_NAME, TABLE_ROWS FROM `information_schema`.`tables` WHERE `table_schema` = 'stubhub';
+	-shows number of rows for each table in the database
+
+output format: game id, days til game, section, avg. price, std. dev. price, away team, home team
+	2 versions: 1 with 3-digit section values, 1 with 1-digit section value
+
+
