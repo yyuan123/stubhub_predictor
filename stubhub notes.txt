@@ -45,3 +45,6 @@ fl=<fields to display>, in format (unescaped):
 *separate q, fl with '&'
 *query params separated with ' AND ', and key:value pairs separated with ':' rather than '='
 
+Reminders:
+-add query timestamp when inserting into DB
+

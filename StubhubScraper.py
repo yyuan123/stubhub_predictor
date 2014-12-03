@@ -20,6 +20,7 @@ mysql_host = "173.194.241.40"
 mysql_user = "root"
 mysql_pass = "beer"
 mysql_db = "stubhub"
+ticket_table = "available_tickets_new"
 
 ### Functions ###
 def getDBConnect():
@@ -100,7 +101,7 @@ def runTicketQuery(event_id):
             zones.append(zone)
             rows.append(row)
             #add constant vals
-            eventIds.append(eventId)
+            eventIds.append(event_id)
             queryTimes.append(queryTime)
         except:
             print "error parsing ticket data for ", event_id
@@ -117,7 +118,17 @@ def runTicketQuery(event_id):
     
     return pd.DataFrame(ticketDict)
 
-
+# For each event, pull available ticket info ###
+def ticketIterate(eventDF, dbCon):
+    for i in range(0,len(eventDF)-1):
+        try:    
+            event_id = eventDF['event_id'][i]
+            ticketsDF = runTicketQuery(event_id)
+            #saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
+            saveToDB(ticketsDF, ticket_table, dbCon, replace=False)
+            print "scraped for eventDF[ ", i, "], id ", event_id
+        except:
+            print "unable to scrape and/or save to DB for events[", i, "], id ", event_id
 ### End Functions ###
 
 #print eventQueryUrl
@@ -162,13 +173,4 @@ dbCon = getDBConnect()
 # Save eventsDF to DB
 #saveToDB(eventDF, 'events', dbCon, replace=True)
 
-### For each event, pull available ticket info ###
-for i in range(0,len(eventDF)-1):
-    try:    
-        event_id = eventDF['event_id'][i]
-        ticketsDF = runTicketQuery(event_id)
-        #saveToCsv(ticketsDF, 'event_' + event_id + '_tickets')
-        saveToDB(ticketsDF, "available_tickets", dbCon, replace=False)
-        print "scraped for eventDF[ ", i, "], id ", event_id
-    except:
-        print "unable to scrape for number ", i, " id ", event_id
+ticketIterate(eventDF, dbCon)
