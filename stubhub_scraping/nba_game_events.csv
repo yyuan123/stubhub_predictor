@@ -1,0 +1,1151 @@
+index,date,description,event_id,away_team,home_team,julian_day
+0,2014-11-16T03:00:00Z,San Antonio Spurs at Sacramento Kings Tickets,9107213,San Antonio Spurs,Sacramento Kings,2014_320
+1,2015-04-04T02:00:00Z,New Orleans Pelicans at Sacramento Kings Tickets,9107219,New Orleans Pelicans,Sacramento Kings,2015_094
+2,2015-02-04T03:00:00Z,Golden State Warriors at Sacramento Kings Tickets,9107203,Golden State Warriors,Sacramento Kings,2015_035
+3,2015-03-02T02:00:00Z,Portland Trail Blazers at Sacramento Kings Tickets,9107206,Portland Trail Blazers,Sacramento Kings,2015_061
+4,2015-01-22T03:00:00Z,Brooklyn Nets at Sacramento Kings Tickets,9107298,Brooklyn Nets,Sacramento Kings,2015_022
+5,2015-02-06T03:00:00Z,Dallas Mavericks at Sacramento Kings Tickets,9107288,Dallas Mavericks,Sacramento Kings,2015_037
+6,2015-01-14T03:00:00Z,Dallas Mavericks at Sacramento Kings Tickets,9107287,Dallas Mavericks,Sacramento Kings,2015_014
+7,2015-03-19T02:00:00Z,Los Angeles Clippers at Sacramento Kings Tickets,9107296,Los Angeles Clippers,Sacramento Kings,2015_078
+8,2015-01-18T03:00:00Z,Los Angeles Clippers at Sacramento Kings Tickets,9107293,Los Angeles Clippers,Sacramento Kings,2015_018
+9,2015-01-17T03:00:00Z,Miami Heat at Sacramento Kings Tickets,9107291,Miami Heat,Sacramento Kings,2015_017
+10,2015-02-09T02:00:00Z,Phoenix Suns at Sacramento Kings Tickets,9107276,Phoenix Suns,Sacramento Kings,2015_040
+11,2014-12-28T03:00:00Z,New York Knicks at Sacramento Kings Tickets,9107278,New York Knicks,Sacramento Kings,2014_362
+12,2015-01-12T02:00:00Z,Cleveland Cavaliers at Sacramento Kings Tickets,9107282,Cleveland Cavaliers,Sacramento Kings,2015_012
+13,2015-04-14T02:00:00Z,Los Angeles Lakers at Sacramento Kings Tickets,9107269,Los Angeles Lakers,Sacramento Kings,2015_104
+14,2015-01-08T03:00:00Z,Oklahoma City Thunder at Sacramento Kings Tickets,9107257,Oklahoma City Thunder,Sacramento Kings,2015_008
+15,2014-12-17T03:30:00Z,Oklahoma City Thunder at Sacramento Kings Tickets,9107255,Oklahoma City Thunder,Sacramento Kings,2014_351
+16,2014-12-12T03:30:00Z,Houston Rockets at Sacramento Kings Tickets,9107249,Houston Rockets,Sacramento Kings,2014_346
+17,2015-04-06T01:00:00Z,Utah Jazz at Sacramento Kings Tickets,9107244,Utah Jazz,Sacramento Kings,2015_096
+18,2014-12-14T03:00:00Z,Detroit Pistons at Sacramento Kings Tickets,9107252,Detroit Pistons,Sacramento Kings,2014_348
+19,2014-12-06T03:00:00Z,Indiana Pacers at Sacramento Kings Tickets,9107235,Indiana Pacers,Sacramento Kings,2014_340
+20,2014-12-07T03:00:00Z,Orlando Magic at Sacramento Kings Tickets,9107237,Orlando Magic,Sacramento Kings,2014_341
+21,2014-12-09T03:00:00Z,Utah Jazz at Sacramento Kings Tickets,9107240,Utah Jazz,Sacramento Kings,2014_343
+22,2015-02-26T03:00:00Z,Memphis Grizzlies at Sacramento Kings Tickets,9107229,Memphis Grizzlies,Sacramento Kings,2015_057
+23,2015-03-25T02:00:00Z,Philadelphia 76ers at Sacramento Kings Tickets,9107311,Philadelphia 76ers,Sacramento Kings,2015_084
+24,2015-04-08T02:00:00Z,Minnesota Timberwolves at Sacramento Kings Tickets,9107314,Minnesota Timberwolves,Sacramento Kings,2015_098
+25,2015-03-17T02:00:00Z,Atlanta Hawks at Sacramento Kings Tickets,9107305,Atlanta Hawks,Sacramento Kings,2015_076
+26,2015-03-21T02:00:00Z,Charlotte Hornets at Sacramento Kings Tickets,9107307,Charlotte Hornets,Sacramento Kings,2015_080
+27,2015-03-22T22:00:00Z,Washington Wizards at Sacramento Kings Tickets,9107309,Washington Wizards,Sacramento Kings,2015_081
+28,2015-02-21T03:00:00Z,Boston Celtics at Sacramento Kings Tickets,9107301,Boston Celtics,Sacramento Kings,2015_052
+29,2015-02-05T01:00:00Z,Oklahoma City Thunder at New Orleans Pelicans Tickets,9107336,Oklahoma City Thunder,New Orleans Pelicans,2015_036
+30,2015-03-28T00:00:00Z,Sacramento Kings at New Orleans Pelicans Tickets,9107334,Sacramento Kings,New Orleans Pelicans,2015_087
+31,2015-03-29T20:00:00Z,Minnesota Timberwolves at New Orleans Pelicans Tickets,9107330,Minnesota Timberwolves,New Orleans Pelicans,2015_088
+32,2015-01-22T01:00:00Z,Los Angeles Lakers at New Orleans Pelicans Tickets,9107327,Los Angeles Lakers,New Orleans Pelicans,2015_022
+33,2015-01-25T23:00:00Z,Dallas Mavericks at New Orleans Pelicans Tickets,9107320,Dallas Mavericks,New Orleans Pelicans,2015_025
+34,2015-01-31T01:00:00Z,Los Angeles Clippers at New Orleans Pelicans Tickets,9107396,Los Angeles Clippers,New Orleans Pelicans,2015_031
+35,2014-12-29T02:00:00Z,New York Knicks at Portland Trail Blazers Tickets,9107398,New York Knicks,Portland Trail Blazers,2014_363
+36,2014-12-18T03:00:00Z,Milwaukee Bucks at Portland Trail Blazers Tickets,9107386,Milwaukee Bucks,Portland Trail Blazers,2014_352
+37,2015-03-08T00:00:00Z,Memphis Grizzlies at New Orleans Pelicans Tickets,9107385,Memphis Grizzlies,New Orleans Pelicans,2015_067
+38,2015-01-29T01:00:00Z,Denver Nuggets at New Orleans Pelicans Tickets,9107390,Denver Nuggets,New Orleans Pelicans,2015_029
+39,2015-03-15T22:00:00Z,Denver Nuggets at New Orleans Pelicans Tickets,9107391,Denver Nuggets,New Orleans Pelicans,2015_074
+40,2014-11-18T03:00:00Z,New Orleans Pelicans at Portland Trail Blazers Tickets,9107393,New Orleans Pelicans,Portland Trail Blazers,2014_322
+41,2014-12-17T01:00:00Z,Utah Jazz at New Orleans Pelicans Tickets,9107352,Utah Jazz,New Orleans Pelicans,2014_351
+42,2014-12-21T00:00:00Z,Portland Trail Blazers at New Orleans Pelicans Tickets,9107358,Portland Trail Blazers,New Orleans Pelicans,2014_355
+43,2014-12-27T01:00:00Z,San Antonio Spurs at New Orleans Pelicans Tickets,9107362,San Antonio Spurs,New Orleans Pelicans,2014_361
+44,2014-12-14T23:00:00Z,Golden State Warriors at New Orleans Pelicans Tickets,9107346,Golden State Warriors,New Orleans Pelicans,2014_348
+45,2015-01-06T01:00:00Z,Washington Wizards at New Orleans Pelicans Tickets,9107377,Washington Wizards,New Orleans Pelicans,2015_006
+46,2015-01-10T01:00:00Z,Memphis Grizzlies at New Orleans Pelicans Tickets,9107383,Memphis Grizzlies,New Orleans Pelicans,2015_010
+47,2015-04-11T00:00:00Z,Phoenix Suns at New Orleans Pelicans Tickets,9107369,Phoenix Suns,New Orleans Pelicans,2015_101
+48,2014-12-31T01:00:00Z,Phoenix Suns at New Orleans Pelicans Tickets,9107367,Phoenix Suns,New Orleans Pelicans,2014_365
+49,2015-03-26T00:00:00Z,Houston Rockets at New Orleans Pelicans Tickets,9107373,Houston Rockets,New Orleans Pelicans,2015_085
+50,2015-01-03T01:00:00Z,Houston Rockets at New Orleans Pelicans Tickets,9107372,Houston Rockets,New Orleans Pelicans,2015_003
+51,2014-12-10T02:00:00Z,San Antonio Spurs at Utah Jazz Tickets,9107877,San Antonio Spurs,Utah Jazz,2014_344
+52,2015-04-02T01:00:00Z,Denver Nuggets at Utah Jazz Tickets,9107871,Denver Nuggets,Utah Jazz,2015_092
+53,2014-12-21T00:00:00Z,Utah Jazz at Charlotte Hornets Tickets,9107872,Utah Jazz,Charlotte Hornets,2014_355
+54,2014-12-04T02:00:00Z,Toronto Raptors at Utah Jazz Tickets,9107873,Toronto Raptors,Utah Jazz,2014_338
+55,2014-12-06T02:00:00Z,Orlando Magic at Utah Jazz Tickets,9107875,Orlando Magic,Utah Jazz,2014_340
+56,2014-12-02T02:00:00Z,Denver Nuggets at Utah Jazz Tickets,9107869,Denver Nuggets,Utah Jazz,2014_336
+57,2014-12-11T00:00:00Z,Boston Celtics at Charlotte Hornets Tickets,9107867,Boston Celtics,Charlotte Hornets,2014_345
+58,2014-11-25T02:00:00Z,Chicago Bulls at Utah Jazz Tickets,9107861,Chicago Bulls,Utah Jazz,2014_329
+59,2014-12-04T00:00:00Z,Chicago Bulls at Charlotte Hornets Tickets,9107864,Chicago Bulls,Charlotte Hornets,2014_338
+60,2015-01-29T02:00:00Z,Los Angeles Clippers at Utah Jazz Tickets,9107865,Los Angeles Clippers,Utah Jazz,2015_029
+61,2015-01-17T02:00:00Z,Los Angeles Lakers at Utah Jazz Tickets,9107899,Los Angeles Lakers,Utah Jazz,2015_017
+62,2015-01-06T02:00:00Z,Indiana Pacers at Utah Jazz Tickets,9107895,Indiana Pacers,Utah Jazz,2015_006
+63,2015-01-14T02:00:00Z,Golden State Warriors at Utah Jazz Tickets,9107896,Golden State Warriors,Utah Jazz,2015_014
+64,2015-01-31T02:00:00Z,Golden State Warriors at Utah Jazz Tickets,9107898,Golden State Warriors,Utah Jazz,2015_031
+65,2015-03-24T01:00:00Z,Minnesota Timberwolves at Utah Jazz Tickets,9107891,Minnesota Timberwolves,Utah Jazz,2015_083
+66,2015-01-31T00:30:00Z,Houston Rockets at Boston Celtics Tickets,9107066,Houston Rockets,Boston Celtics,2015_031
+67,2015-01-03T02:00:00Z,Atlanta Hawks at Utah Jazz Tickets,9107893,Atlanta Hawks,Utah Jazz,2015_003
+68,2015-04-09T01:30:00Z,Phoenix Suns at Dallas Mavericks Tickets,9107075,Phoenix Suns,Dallas Mavericks,2015_099
+69,2014-12-06T01:30:00Z,Phoenix Suns at Dallas Mavericks Tickets,9107072,Phoenix Suns,Dallas Mavericks,2014_340
+70,2014-12-31T02:00:00Z,Minnesota Timberwolves at Utah Jazz Tickets,9107889,Minnesota Timberwolves,Utah Jazz,2014_365
+71,2014-12-28T02:00:00Z,Philadelphia 76ers at Utah Jazz Tickets,9107882,Philadelphia 76ers,Utah Jazz,2014_362
+72,2014-12-08T00:30:00Z,Milwaukee Bucks at Dallas Mavericks Tickets,9107079,Milwaukee Bucks,Dallas Mavericks,2014_342
+73,2015-01-08T00:00:00Z,New Orleans Pelicans at Charlotte Hornets Tickets,9107883,New Orleans Pelicans,Charlotte Hornets,2015_008
+74,2014-12-13T02:00:00Z,Miami Heat at Utah Jazz Tickets,9107881,Miami Heat,Utah Jazz,2014_347
+75,2015-02-06T00:00:00Z,Washington Wizards at Charlotte Hornets Tickets,9107890,Washington Wizards,Charlotte Hornets,2015_037
+76,2015-03-03T01:30:00Z,New Orleans Pelicans at Dallas Mavericks Tickets,9107085,New Orleans Pelicans,Dallas Mavericks,2015_062
+77,2014-12-11T01:30:00Z,New Orleans Pelicans at Dallas Mavericks Tickets,9107081,New Orleans Pelicans,Dallas Mavericks,2014_345
+78,2015-04-08T02:30:00Z,Los Angeles Lakers at Los Angeles Clippers Tickets,9108011,Los Angeles Lakers,Los Angeles Clippers,2015_098
+79,2015-03-21T02:30:00Z,Washington Wizards at Los Angeles Clippers Tickets,9108009,Washington Wizards,Los Angeles Clippers,2015_080
+80,2015-04-04T00:00:00Z,Orlando Magic at Minnesota Timberwolves Tickets,9108007,Orlando Magic,Minnesota Timberwolves,2015_094
+81,2015-04-02T00:00:00Z,Toronto Raptors at Minnesota Timberwolves Tickets,9108005,Toronto Raptors,Minnesota Timberwolves,2015_092
+82,2015-04-12T19:30:00Z,Charlotte Hornets at Detroit Pistons Tickets,9108006,Charlotte Hornets,Detroit Pistons,2015_102
+83,2015-03-22T23:00:00Z,Charlotte Hornets at Minnesota Timberwolves Tickets,9108003,Charlotte Hornets,Minnesota Timberwolves,2015_081
+84,2015-04-10T23:30:00Z,Indiana Pacers at Detroit Pistons Tickets,9108004,Indiana Pacers,Detroit Pistons,2015_100
+85,2015-03-17T00:00:00Z,Brooklyn Nets at Minnesota Timberwolves Tickets,9108001,Brooklyn Nets,Minnesota Timberwolves,2015_076
+86,2015-04-08T23:30:00Z,Boston Celtics at Detroit Pistons Tickets,9108002,Boston Celtics,Detroit Pistons,2015_098
+87,2015-01-21T02:00:00Z,San Antonio Spurs at Denver Nuggets Tickets,9107493,San Antonio Spurs,Denver Nuggets,2015_021
+88,2015-02-01T02:00:00Z,Los Angeles Clippers at San Antonio Spurs Tickets,9107490,Los Angeles Clippers,San Antonio Spurs,2015_032
+89,2014-12-15T01:00:00Z,San Antonio Spurs at Denver Nuggets Tickets,9107489,San Antonio Spurs,Denver Nuggets,2014_349
+90,2014-12-11T03:30:00Z,Miami Heat at Denver Nuggets Tickets,9107487,Miami Heat,Denver Nuggets,2014_345
+91,2015-03-29T23:00:00Z,Memphis Grizzlies at San Antonio Spurs Tickets,9107485,Memphis Grizzlies,San Antonio Spurs,2015_088
+92,2015-03-08T02:00:00Z,Houston Rockets at Denver Nuggets Tickets,9107499,Houston Rockets,Denver Nuggets,2015_067
+93,2015-01-24T01:30:00Z,Los Angeles Lakers at San Antonio Spurs Tickets,9107496,Los Angeles Lakers,San Antonio Spurs,2015_024
+94,2014-12-18T03:30:00Z,Houston Rockets at Denver Nuggets Tickets,9107495,Houston Rockets,Denver Nuggets,2014_352
+95,2015-03-02T01:00:00Z,New Orleans Pelicans at Denver Nuggets Tickets,9107472,New Orleans Pelicans,Denver Nuggets,2015_061
+96,2014-11-22T02:00:00Z,New Orleans Pelicans at Denver Nuggets Tickets,9107470,New Orleans Pelicans,Denver Nuggets,2014_326
+97,2015-02-10T02:00:00Z,Oklahoma City Thunder at Denver Nuggets Tickets,9107465,Oklahoma City Thunder,Denver Nuggets,2015_041
+98,2015-02-26T02:00:00Z,Phoenix Suns at Denver Nuggets Tickets,9107483,Phoenix Suns,Denver Nuggets,2015_057
+99,2015-01-26T00:00:00Z,Milwaukee Bucks at San Antonio Spurs Tickets,9107477,Milwaukee Bucks,San Antonio Spurs,2015_026
+100,2015-02-24T01:00:00Z,Toronto Raptors at New Orleans Pelicans Tickets,9107407,Toronto Raptors,New Orleans Pelicans,2015_055
+101,2015-02-12T01:00:00Z,Indiana Pacers at New Orleans Pelicans Tickets,9107406,Indiana Pacers,New Orleans Pelicans,2015_043
+102,2015-02-08T00:00:00Z,Chicago Bulls at New Orleans Pelicans Tickets,9107403,Chicago Bulls,New Orleans Pelicans,2015_039
+103,2015-03-07T01:00:00Z,Boston Celtics at New Orleans Pelicans Tickets,9107418,Boston Celtics,New Orleans Pelicans,2015_066
+104,2015-03-05T01:00:00Z,Detroit Pistons at New Orleans Pelicans Tickets,9107415,Detroit Pistons,New Orleans Pelicans,2015_064
+105,2015-02-26T01:00:00Z,Brooklyn Nets at New Orleans Pelicans Tickets,9107410,Brooklyn Nets,New Orleans Pelicans,2015_057
+106,2015-01-17T01:30:00Z,Portland Trail Blazers at San Antonio Spurs Tickets,9107446,Portland Trail Blazers,San Antonio Spurs,2015_017
+107,2015-04-12T21:00:00Z,Sacramento Kings at Denver Nuggets Tickets,9107449,Sacramento Kings,Denver Nuggets,2015_102
+108,2015-04-12T23:00:00Z,Phoenix Suns at San Antonio Spurs Tickets,9107450,Phoenix Suns,San Antonio Spurs,2015_102
+109,2015-02-05T01:30:00Z,Orlando Magic at San Antonio Spurs Tickets,9107456,Orlando Magic,San Antonio Spurs,2015_036
+110,2015-01-10T01:30:00Z,Phoenix Suns at San Antonio Spurs Tickets,9107452,Phoenix Suns,San Antonio Spurs,2015_010
+111,2014-12-03T02:00:00Z,Portland Trail Blazers at Denver Nuggets Tickets,9107459,Portland Trail Blazers,Denver Nuggets,2014_337
+112,2014-12-16T03:00:00Z,San Antonio Spurs at Portland Trail Blazers Tickets,9107420,San Antonio Spurs,Portland Trail Blazers,2014_350
+113,2015-03-18T00:00:00Z,Milwaukee Bucks at New Orleans Pelicans Tickets,9107421,Milwaukee Bucks,New Orleans Pelicans,2015_077
+114,2015-04-16T00:00:00Z,San Antonio Spurs at New Orleans Pelicans Tickets,9107425,San Antonio Spurs,New Orleans Pelicans,2015_106
+115,2015-01-04T01:30:00Z,Washington Wizards at San Antonio Spurs Tickets,9107436,Washington Wizards,San Antonio Spurs,2015_004
+116,2015-03-11T00:30:00Z,Toronto Raptors at San Antonio Spurs Tickets,9107439,Toronto Raptors,San Antonio Spurs,2015_070
+117,2015-01-19T00:00:00Z,Utah Jazz at San Antonio Spurs Tickets,9107438,Utah Jazz,San Antonio Spurs,2015_019
+118,2015-03-07T00:00:00Z,Sacramento Kings at Orlando Magic Tickets,9107615,Sacramento Kings,Orlando Magic,2015_066
+119,2015-03-10T02:00:00Z,Golden State Warriors at Phoenix Suns Tickets,9107616,Golden State Warriors,Phoenix Suns,2015_069
+120,2015-04-01T23:00:00Z,San Antonio Spurs at Orlando Magic Tickets,9107618,San Antonio Spurs,Orlando Magic,2015_091
+121,2015-03-05T00:00:00Z,Phoenix Suns at Orlando Magic Tickets,9107610,Phoenix Suns,Orlando Magic,2015_064
+122,2015-03-20T23:00:00Z,Portland Trail Blazers at Orlando Magic Tickets,9107612,Portland Trail Blazers,Orlando Magic,2015_079
+123,2015-01-18T23:00:00Z,Oklahoma City Thunder at Orlando Magic Tickets,9107603,Oklahoma City Thunder,Orlando Magic,2015_018
+124,2015-03-26T02:00:00Z,Sacramento Kings at Phoenix Suns Tickets,9107609,Sacramento Kings,Phoenix Suns,2015_085
+125,2015-02-22T23:00:00Z,Philadelphia 76ers at Orlando Magic Tickets,9107607,Philadelphia 76ers,Orlando Magic,2015_053
+126,2015-04-11T23:00:00Z,New York Knicks at Orlando Magic Tickets,9107601,New York Knicks,Orlando Magic,2015_101
+127,2015-02-21T00:00:00Z,New Orleans Pelicans at Orlando Magic Tickets,9107591,New Orleans Pelicans,Orlando Magic,2015_052
+128,2015-01-30T00:00:00Z,Milwaukee Bucks at Orlando Magic Tickets,9107585,Milwaukee Bucks,Orlando Magic,2015_030
+129,2015-02-12T00:00:00Z,New York Knicks at Orlando Magic Tickets,9107599,New York Knicks,Orlando Magic,2015_043
+130,2015-04-09T00:30:00Z,Houston Rockets at San Antonio Spurs Tickets,9107506,Houston Rockets,San Antonio Spurs,2015_099
+131,2015-04-05T01:00:00Z,Los Angeles Clippers at Denver Nuggets Tickets,9107505,Los Angeles Clippers,Denver Nuggets,2015_095
+132,2015-04-05T23:00:00Z,Golden State Warriors at San Antonio Spurs Tickets,9107509,Golden State Warriors,San Antonio Spurs,2015_095
+133,2015-01-07T01:30:00Z,Detroit Pistons at San Antonio Spurs Tickets,9107512,Detroit Pistons,San Antonio Spurs,2015_007
+134,2014-12-27T02:00:00Z,Minnesota Timberwolves at Denver Nuggets Tickets,9107511,Minnesota Timberwolves,Denver Nuggets,2014_361
+135,2015-03-07T01:30:00Z,Denver Nuggets at San Antonio Spurs Tickets,9107516,Denver Nuggets,San Antonio Spurs,2015_066
+136,2015-01-18T02:00:00Z,Minnesota Timberwolves at Denver Nuggets Tickets,9107514,Minnesota Timberwolves,Denver Nuggets,2015_018
+137,2015-03-28T00:30:00Z,Dallas Mavericks at San Antonio Spurs Tickets,9107519,Dallas Mavericks,San Antonio Spurs,2015_087
+138,2014-12-29T02:00:00Z,Toronto Raptors at Denver Nuggets Tickets,9107518,Toronto Raptors,Denver Nuggets,2014_363
+139,2014-12-31T02:00:00Z,Los Angeles Lakers at Denver Nuggets Tickets,9107522,Los Angeles Lakers,Denver Nuggets,2014_365
+140,2015-04-09T01:00:00Z,Los Angeles Lakers at Denver Nuggets Tickets,9107524,Los Angeles Lakers,Denver Nuggets,2015_099
+141,2015-01-15T02:00:00Z,Dallas Mavericks at Denver Nuggets Tickets,9107534,Dallas Mavericks,Denver Nuggets,2015_015
+142,2015-01-08T02:00:00Z,Orlando Magic at Denver Nuggets Tickets,9107531,Orlando Magic,Denver Nuggets,2015_008
+143,2015-01-29T01:30:00Z,Charlotte Hornets at San Antonio Spurs Tickets,9107530,Charlotte Hornets,San Antonio Spurs,2015_029
+144,2015-04-11T01:00:00Z,Dallas Mavericks at Denver Nuggets Tickets,9107537,Dallas Mavericks,Denver Nuggets,2015_101
+145,2014-12-14T00:00:00Z,Atlanta Hawks at Orlando Magic Tickets,9107547,Atlanta Hawks,Orlando Magic,2014_348
+146,2015-02-24T02:00:00Z,Brooklyn Nets at Denver Nuggets Tickets,9107549,Brooklyn Nets,Denver Nuggets,2015_055
+147,2015-01-24T02:00:00Z,Boston Celtics at Denver Nuggets Tickets,9107540,Boston Celtics,Denver Nuggets,2015_024
+148,2015-01-26T01:00:00Z,Washington Wizards at Denver Nuggets Tickets,9107542,Washington Wizards,Denver Nuggets,2015_026
+149,2015-02-01T02:00:00Z,Charlotte Hornets at Denver Nuggets Tickets,9107544,Charlotte Hornets,Denver Nuggets,2015_032
+150,2015-03-12T01:00:00Z,Atlanta Hawks at Denver Nuggets Tickets,9107558,Atlanta Hawks,Denver Nuggets,2015_071
+151,2015-03-08T22:00:00Z,Boston Celtics at Orlando Magic Tickets,9107559,Boston Celtics,Orlando Magic,2015_067
+152,2015-03-04T02:00:00Z,Milwaukee Bucks at Denver Nuggets Tickets,9107553,Milwaukee Bucks,Denver Nuggets,2015_063
+153,2015-03-10T01:00:00Z,New York Knicks at Denver Nuggets Tickets,9107556,New York Knicks,Denver Nuggets,2015_069
+154,2014-12-24T00:00:00Z,Boston Celtics at Orlando Magic Tickets,9107557,Boston Celtics,Orlando Magic,2014_358
+155,2015-03-25T23:00:00Z,Atlanta Hawks at Orlando Magic Tickets,9107555,Atlanta Hawks,Orlando Magic,2015_084
+156,2015-03-14T01:00:00Z,Golden State Warriors at Denver Nuggets Tickets,9107560,Golden State Warriors,Denver Nuggets,2015_073
+157,2015-03-15T22:00:00Z,Cleveland Cavaliers at Orlando Magic Tickets,9107569,Cleveland Cavaliers,Orlando Magic,2015_074
+158,2015-03-01T23:00:00Z,Charlotte Hornets at Orlando Magic Tickets,9107565,Charlotte Hornets,Orlando Magic,2015_060
+159,2015-02-08T23:00:00Z,Chicago Bulls at Orlando Magic Tickets,9107566,Chicago Bulls,Orlando Magic,2015_039
+160,2015-04-08T23:00:00Z,Chicago Bulls at Orlando Magic Tickets,9107567,Chicago Bulls,Orlando Magic,2015_098
+161,2014-12-27T00:00:00Z,Cleveland Cavaliers at Orlando Magic Tickets,9107568,Cleveland Cavaliers,Orlando Magic,2014_361
+162,2015-01-03T00:00:00Z,Brooklyn Nets at Orlando Magic Tickets,9107561,Brooklyn Nets,Orlando Magic,2015_003
+163,2015-03-26T01:00:00Z,Philadelphia 76ers at Denver Nuggets Tickets,9107562,Philadelphia 76ers,Denver Nuggets,2015_085
+164,2015-01-04T00:00:00Z,Charlotte Hornets at Orlando Magic Tickets,9107563,Charlotte Hornets,Orlando Magic,2015_004
+165,2015-03-28T01:00:00Z,Utah Jazz at Denver Nuggets Tickets,9107564,Utah Jazz,Denver Nuggets,2015_087
+166,2015-03-22T22:00:00Z,Denver Nuggets at Orlando Magic Tickets,9107571,Denver Nuggets,Orlando Magic,2015_081
+167,2015-02-01T00:00:00Z,Dallas Mavericks at Orlando Magic Tickets,9107570,Dallas Mavericks,Orlando Magic,2015_032
+168,2015-02-07T00:00:00Z,Los Angeles Lakers at Orlando Magic Tickets,9107579,Los Angeles Lakers,Orlando Magic,2015_038
+169,2015-01-25T23:00:00Z,Indiana Pacers at Orlando Magic Tickets,9107577,Indiana Pacers,Orlando Magic,2015_025
+170,2015-03-27T23:00:00Z,Detroit Pistons at Orlando Magic Tickets,9107574,Detroit Pistons,Orlando Magic,2015_086
+171,2014-12-31T00:00:00Z,Detroit Pistons at Orlando Magic Tickets,9107573,Detroit Pistons,Orlando Magic,2014_365
+172,2015-02-26T00:00:00Z,Miami Heat at Orlando Magic Tickets,9107582,Miami Heat,Orlando Magic,2015_057
+173,2014-11-23T00:00:00Z,Miami Heat at Orlando Magic Tickets,9107581,Miami Heat,Orlando Magic,2014_327
+174,2015-01-17T00:00:00Z,Memphis Grizzlies at Orlando Magic Tickets,9107580,Memphis Grizzlies,Orlando Magic,2015_017
+175,2015-04-14T02:30:00Z,Memphis Grizzlies at Golden State Warriors Tickets,9108928,Memphis Grizzlies,Golden State Warriors,2015_104
+176,2015-04-16T02:30:00Z,Denver Nuggets at Golden State Warriors Tickets,9108930,Denver Nuggets,Golden State Warriors,2015_106
+177,2015-01-17T03:30:00Z,Cleveland Cavaliers at Los Angeles Clippers Tickets,9106863,Cleveland Cavaliers,Los Angeles Clippers,2015_017
+178,2014-12-27T00:30:00Z,Indiana Pacers at Detroit Pistons Tickets,9107956,Indiana Pacers,Detroit Pistons,2014_361
+179,2015-01-10T20:30:00Z,Dallas Mavericks at Los Angeles Clippers Tickets,9106858,Dallas Mavericks,Los Angeles Clippers,2015_010
+180,2015-01-19T21:00:00Z,Denver Nuggets at Golden State Warriors Tickets,9106857,Denver Nuggets,Golden State Warriors,2015_019
+181,2015-01-06T03:30:00Z,Atlanta Hawks at Los Angeles Clippers Tickets,9106853,Atlanta Hawks,Los Angeles Clippers,2015_006
+182,2015-02-01T03:30:00Z,Phoenix Suns at Golden State Warriors Tickets,9106867,Phoenix Suns,Golden State Warriors,2015_032
+183,2015-01-28T03:30:00Z,Chicago Bulls at Golden State Warriors Tickets (Manute Bol Bobb,9106864,Chicago Bulls,Golden State Warriors,2015_028
+184,2015-01-26T01:00:00Z,Boston Celtics at Golden State Warriors Tickets,9106861,Boston Celtics,Golden State Warriors,2015_026
+185,2015-02-22T18:00:00Z,Cleveland Cavaliers at New York Knicks Tickets,9106877,Cleveland Cavaliers,New York Knicks,2015_053
+186,2015-04-03T02:30:00Z,Phoenix Suns at Golden State Warriors Tickets,9106870,Phoenix Suns,Golden State Warriors,2015_093
+187,2015-02-05T03:30:00Z,Dallas Mavericks at Golden State Warriors Tickets,9106872,Dallas Mavericks,Golden State Warriors,2015_036
+188,2015-03-19T02:30:00Z,Atlanta Hawks at Golden State Warriors Tickets,9106889,Atlanta Hawks,Golden State Warriors,2015_078
+189,2015-03-17T23:30:00Z,San Antonio Spurs at New York Knicks Tickets,9106887,San Antonio Spurs,New York Knicks,2015_076
+190,2015-03-15T02:30:00Z,New York Knicks at Golden State Warriors Tickets,9106888,New York Knicks,Golden State Warriors,2015_074
+191,2014-12-03T03:30:00Z,Orlando Magic at Golden State Warriors Tickets,9106817,Orlando Magic,Golden State Warriors,2014_337
+192,2015-03-22T02:30:00Z,Utah Jazz at Golden State Warriors Tickets,9106813,Utah Jazz,Golden State Warriors,2015_081
+193,2014-12-05T03:30:00Z,New Orleans Pelicans at Golden State Warriors Tickets (Sarunas,9106820,New Orleans Pelicans,Golden State Warriors,2014_339
+194,2015-01-22T03:30:00Z,Houston Rockets at Golden State Warriors Tickets,9106827,Houston Rockets,Golden State Warriors,2015_022
+195,2014-12-11T03:30:00Z,Houston Rockets at Golden State Warriors Tickets,9106825,Houston Rockets,Golden State Warriors,2014_345
+196,2015-03-21T02:30:00Z,New Orleans Pelicans at Golden State Warriors Tickets,9106821,New Orleans Pelicans,Golden State Warriors,2015_080
+197,2015-01-06T03:30:00Z,Oklahoma City Thunder at Golden State Warriors Tickets,9106832,Oklahoma City Thunder,Golden State Warriors,2015_006
+198,2014-12-21T03:30:00Z,Milwaukee Bucks at Los Angeles Clippers Tickets,9106837,Milwaukee Bucks,Los Angeles Clippers,2014_355
+199,2014-12-23T03:30:00Z,Sacramento Kings at Golden State Warriors Tickets,9106836,Sacramento Kings,Golden State Warriors,2014_357
+200,2015-01-24T03:30:00Z,Sacramento Kings at Golden State Warriors Tickets,9106838,Sacramento Kings,Golden State Warriors,2015_024
+201,2015-01-08T03:30:00Z,Indiana Pacers at Golden State Warriors Tickets (Draymond Green,9106849,Indiana Pacers,Golden State Warriors,2015_008
+202,2015-01-03T03:30:00Z,Toronto Raptors at Golden State Warriors Tickets,9106847,Toronto Raptors,Golden State Warriors,2015_003
+203,2015-02-21T03:30:00Z,San Antonio Spurs at Golden State Warriors Tickets,9106807,San Antonio Spurs,Golden State Warriors,2015_052
+204,2015-03-17T02:30:00Z,Los Angeles Lakers at Golden State Warriors Tickets,9106796,Los Angeles Lakers,Golden State Warriors,2015_076
+205,2015-01-10T00:30:00Z,Philadelphia 76ers at Brooklyn Nets Tickets,9106994,Philadelphia 76ers,Brooklyn Nets,2015_010
+206,2015-01-15T00:30:00Z,Memphis Grizzlies at Brooklyn Nets Tickets,9106999,Memphis Grizzlies,Brooklyn Nets,2015_015
+207,2015-03-18T23:00:00Z,Brooklyn Nets at Cleveland Cavaliers Tickets,9106972,Brooklyn Nets,Cleveland Cavaliers,2015_077
+208,2015-03-20T23:30:00Z,Indiana Pacers at Cleveland Cavaliers Tickets,9106974,Indiana Pacers,Cleveland Cavaliers,2015_079
+209,2015-04-03T00:00:00Z,Miami Heat at Cleveland Cavaliers Tickets,9106979,Miami Heat,Cleveland Cavaliers,2015_093
+210,2015-04-10T23:30:00Z,Boston Celtics at Cleveland Cavaliers Tickets,9106985,Boston Celtics,Cleveland Cavaliers,2015_100
+211,2015-04-05T19:30:00Z,Chicago Bulls at Cleveland Cavaliers Tickets,9106983,Chicago Bulls,Cleveland Cavaliers,2015_095
+212,2014-12-24T00:30:00Z,Denver Nuggets at Brooklyn Nets Tickets,9106981,Denver Nuggets,Brooklyn Nets,2014_358
+213,2015-04-16T00:00:00Z,Washington Wizards at Cleveland Cavaliers Tickets,9106989,Washington Wizards,Cleveland Cavaliers,2015_106
+214,2015-04-13T23:00:00Z,Detroit Pistons at Cleveland Cavaliers Tickets,9106987,Detroit Pistons,Cleveland Cavaliers,2015_103
+215,2015-01-31T00:30:00Z,Sacramento Kings at Cleveland Cavaliers Tickets,9106953,Sacramento Kings,Cleveland Cavaliers,2015_031
+216,2015-02-03T00:00:00Z,Philadelphia 76ers at Cleveland Cavaliers Tickets,9106955,Philadelphia 76ers,Cleveland Cavaliers,2015_034
+217,2015-02-06T01:00:00Z,Los Angeles Clippers at Cleveland Cavaliers Tickets,9106958,Los Angeles Clippers,Cleveland Cavaliers,2015_037
+218,2015-02-08T20:30:00Z,Los Angeles Lakers at Cleveland Cavaliers Tickets,9106959,Los Angeles Lakers,Cleveland Cavaliers,2015_039
+219,2015-01-29T00:00:00Z,Portland Trail Blazers at Cleveland Cavaliers Tickets,9106950,Portland Trail Blazers,Cleveland Cavaliers,2015_029
+220,2015-03-04T00:00:00Z,Boston Celtics at Cleveland Cavaliers Tickets,9106966,Boston Celtics,Cleveland Cavaliers,2015_063
+221,2015-03-08T00:30:00Z,Phoenix Suns at Cleveland Cavaliers Tickets,9106968,Phoenix Suns,Cleveland Cavaliers,2015_067
+222,2015-02-27T01:00:00Z,Golden State Warriors at Cleveland Cavaliers Tickets,9106963,Golden State Warriors,Cleveland Cavaliers,2015_058
+223,2015-02-12T01:00:00Z,Miami Heat at Cleveland Cavaliers Tickets,9106961,Miami Heat,Cleveland Cavaliers,2015_043
+224,2015-01-08T00:00:00Z,Houston Rockets at Cleveland Cavaliers Tickets,9106939,Houston Rockets,Cleveland Cavaliers,2015_008
+225,2015-01-01T00:00:00Z,Milwaukee Bucks at Cleveland Cavaliers Tickets,9106935,Milwaukee Bucks,Cleveland Cavaliers,2015_001
+226,2015-01-04T18:00:00Z,Dallas Mavericks at Cleveland Cavaliers Tickets,9106937,Dallas Mavericks,Cleveland Cavaliers,2015_004
+227,2014-12-24T00:00:00Z,Minnesota Timberwolves at Cleveland Cavaliers Tickets,9106931,Minnesota Timberwolves,Cleveland Cavaliers,2014_358
+228,2014-12-28T21:30:00Z,Detroit Pistons at Cleveland Cavaliers Tickets,9106933,Detroit Pistons,Cleveland Cavaliers,2014_362
+229,2015-01-25T20:30:00Z,Oklahoma City Thunder at Cleveland Cavaliers Tickets,9106947,Oklahoma City Thunder,Cleveland Cavaliers,2015_025
+230,2015-01-24T00:30:00Z,Charlotte Hornets at Cleveland Cavaliers Tickets,9106944,Charlotte Hornets,Cleveland Cavaliers,2015_024
+231,2015-01-22T00:00:00Z,Utah Jazz at Cleveland Cavaliers Tickets,9106943,Utah Jazz,Cleveland Cavaliers,2015_022
+232,2015-01-20T01:00:00Z,Chicago Bulls at Cleveland Cavaliers Tickets,9106940,Chicago Bulls,Cleveland Cavaliers,2015_020
+233,2014-11-23T00:30:00Z,Toronto Raptors at Cleveland Cavaliers Tickets,9106912,Toronto Raptors,Cleveland Cavaliers,2014_327
+234,2014-11-27T00:00:00Z,Washington Wizards at Cleveland Cavaliers Tickets,9106916,Washington Wizards,Cleveland Cavaliers,2014_331
+235,2014-11-25T00:00:00Z,Orlando Magic at Cleveland Cavaliers Tickets,9106914,Orlando Magic,Cleveland Cavaliers,2014_329
+236,2014-12-10T00:00:00Z,Toronto Raptors at Cleveland Cavaliers Tickets,9106919,Toronto Raptors,Cleveland Cavaliers,2014_344
+237,2014-12-03T00:00:00Z,Milwaukee Bucks at Cleveland Cavaliers Tickets,9106918,Milwaukee Bucks,Cleveland Cavaliers,2014_337
+238,2014-11-30T00:30:00Z,Indiana Pacers at Cleveland Cavaliers Tickets,9106917,Indiana Pacers,Cleveland Cavaliers,2014_334
+239,2014-12-16T00:00:00Z,Charlotte Hornets at Cleveland Cavaliers Tickets,9106922,Charlotte Hornets,Cleveland Cavaliers,2014_350
+240,2014-12-18T00:00:00Z,Atlanta Hawks at Cleveland Cavaliers Tickets,9106923,Atlanta Hawks,Cleveland Cavaliers,2014_352
+241,2014-12-20T00:30:00Z,Brooklyn Nets at Cleveland Cavaliers Tickets,9106926,Brooklyn Nets,Cleveland Cavaliers,2014_354
+242,2014-12-21T21:30:00Z,Memphis Grizzlies at Cleveland Cavaliers Tickets,9106929,Memphis Grizzlies,Cleveland Cavaliers,2014_355
+243,2015-04-05T23:30:00Z,Philadelphia 76ers at New York Knicks Tickets,9106902,Philadelphia 76ers,New York Knicks,2015_095
+244,2014-11-18T00:00:00Z,Denver Nuggets at Cleveland Cavaliers Tickets,9106907,Denver Nuggets,Cleveland Cavaliers,2014_322
+245,2015-04-10T02:30:00Z,Portland Trail Blazers at Golden State Warriors Tickets,9106891,Portland Trail Blazers,Golden State Warriors,2015_100
+246,2015-03-24T02:30:00Z,Washington Wizards at Golden State Warriors Tickets ( Rick Barr,9106890,Washington Wizards,Golden State Warriors,2015_083
+247,2015-03-27T23:30:00Z,Boston Celtics at New York Knicks Tickets,9106895,Boston Celtics,New York Knicks,2015_086
+248,2015-03-25T23:00:00Z,Los Angeles Clippers at New York Knicks Tickets,9106894,Los Angeles Clippers,New York Knicks,2015_084
+249,2014-12-13T02:00:00Z,Detroit Pistons at Phoenix Suns Tickets,9107637,Detroit Pistons,Phoenix Suns,2014_347
+250,2014-12-13T19:00:00Z,Golden State Warriors at Dallas Mavericks Tickets,9107089,Golden State Warriors,Dallas Mavericks,2014_347
+251,2015-01-13T00:30:00Z,Houston Rockets at Brooklyn Nets Tickets,9106997,Houston Rockets,Brooklyn Nets,2015_013
+252,2014-12-18T03:30:00Z,Indiana Pacers at Los Angeles Clippers Tickets,9106835,Indiana Pacers,Los Angeles Clippers,2014_352
+253,2015-02-28T02:00:00Z,Utah Jazz at Denver Nuggets Tickets,9107551,Utah Jazz,Denver Nuggets,2015_059
+254,2014-12-21T02:00:00Z,Indiana Pacers at Denver Nuggets Tickets,9107508,Indiana Pacers,Denver Nuggets,2014_355
+255,2014-12-10T00:30:00Z,Portland Trail Blazers at Detroit Pistons Tickets,9107949,Portland Trail Blazers,Detroit Pistons,2014_344
+256,2015-03-22T00:00:00Z,Phoenix Suns at Houston Rockets Tickets,9107297,Phoenix Suns,Houston Rockets,2015_081
+257,2015-02-09T00:00:00Z,Portland Trail Blazers at Houston Rockets Tickets,9107299,Portland Trail Blazers,Houston Rockets,2015_040
+258,2015-01-16T01:00:00Z,Oklahoma City Thunder at Houston Rockets Tickets,9107286,Oklahoma City Thunder,Houston Rockets,2015_016
+259,2015-01-31T00:30:00Z,Toronto Raptors at Brooklyn Nets Tickets,9107006,Toronto Raptors,Brooklyn Nets,2015_031
+260,2015-01-22T02:00:00Z,Portland Trail Blazers at Phoenix Suns Tickets,9107660,Portland Trail Blazers,Phoenix Suns,2015_022
+261,2015-01-24T02:00:00Z,Houston Rockets at Phoenix Suns Tickets,9107666,Houston Rockets,Phoenix Suns,2015_024
+262,2015-04-12T23:00:00Z,New Orleans Pelicans at Houston Rockets Tickets,9107281,New Orleans Pelicans,Houston Rockets,2015_102
+263,2014-11-25T01:00:00Z,New York Knicks at Houston Rockets Tickets,9107284,New York Knicks,Houston Rockets,2014_329
+264,2015-02-07T01:00:00Z,Milwaukee Bucks at Houston Rockets Tickets,9107267,Milwaukee Bucks,Houston Rockets,2015_038
+265,2015-01-04T01:00:00Z,Miami Heat at Houston Rockets Tickets,9107264,Miami Heat,Houston Rockets,2015_004
+266,2014-11-22T01:00:00Z,San Antonio Spurs at Minnesota Timberwolves Tickets,9107935,San Antonio Spurs,Minnesota Timberwolves,2014_326
+267,2015-03-28T00:00:00Z,Minnesota Timberwolves at Houston Rockets Tickets,9107272,Minnesota Timberwolves,Houston Rockets,2015_087
+268,2015-02-26T01:00:00Z,Los Angeles Clippers at Houston Rockets Tickets,9107256,Los Angeles Clippers,Houston Rockets,2015_057
+269,2015-03-05T01:00:00Z,Memphis Grizzlies at Houston Rockets Tickets,9107262,Memphis Grizzlies,Houston Rockets,2015_064
+270,2015-01-05T01:00:00Z,Toronto Raptors at Phoenix Suns Tickets,9107645,Toronto Raptors,Phoenix Suns,2015_005
+271,2015-01-18T01:00:00Z,Golden State Warriors at Houston Rockets Tickets,9107246,Golden State Warriors,Houston Rockets,2015_018
+272,2015-03-07T01:00:00Z,Detroit Pistons at Houston Rockets Tickets,9107242,Detroit Pistons,Houston Rockets,2015_066
+273,2015-01-17T02:00:00Z,Minnesota Timberwolves at Phoenix Suns Tickets,9107654,Minnesota Timberwolves,Phoenix Suns,2015_017
+274,2014-12-14T01:00:00Z,Denver Nuggets at Houston Rockets Tickets,9107239,Denver Nuggets,Houston Rockets,2014_348
+275,2015-02-05T01:00:00Z,Chicago Bulls at Houston Rockets Tickets,9107231,Chicago Bulls,Houston Rockets,2015_036
+276,2015-03-02T00:00:00Z,Cleveland Cavaliers at Houston Rockets Tickets,9107233,Cleveland Cavaliers,Houston Rockets,2015_061
+277,2015-01-29T01:00:00Z,Dallas Mavericks at Houston Rockets Tickets,9107236,Dallas Mavericks,Houston Rockets,2015_029
+278,2015-03-20T00:00:00Z,Denver Nuggets at Houston Rockets Tickets,9107241,Denver Nuggets,Houston Rockets,2015_079
+279,2015-02-28T01:00:00Z,Brooklyn Nets at Houston Rockets Tickets,9107226,Brooklyn Nets,Houston Rockets,2015_059
+280,2014-12-16T02:00:00Z,Milwaukee Bucks at Phoenix Suns Tickets,9107639,Milwaukee Bucks,Phoenix Suns,2014_350
+281,2014-12-03T02:00:00Z,Indiana Pacers at Phoenix Suns Tickets,9107633,Indiana Pacers,Phoenix Suns,2014_337
+282,2015-01-20T03:30:00Z,Los Angeles Lakers at Phoenix Suns Tickets,9107590,Los Angeles Lakers,Phoenix Suns,2015_020
+283,2015-01-11T01:00:00Z,Utah Jazz at Houston Rockets Tickets,9107310,Utah Jazz,Houston Rockets,2015_011
+284,2015-04-16T00:00:00Z,Utah Jazz at Houston Rockets Tickets,9107312,Utah Jazz,Houston Rockets,2015_106
+285,2015-04-11T00:00:00Z,San Antonio Spurs at Houston Rockets Tickets,9107306,San Antonio Spurs,Houston Rockets,2015_101
+286,2015-04-02T00:00:00Z,Sacramento Kings at Houston Rockets Tickets,9107303,Sacramento Kings,Houston Rockets,2015_092
+287,2014-11-26T01:00:00Z,Sacramento Kings at New Orleans Pelicans Tickets,9107332,Sacramento Kings,New Orleans Pelicans,2014_330
+288,2015-01-28T00:30:00Z,Cleveland Cavaliers at Detroit Pistons Tickets,9107970,Cleveland Cavaliers,Detroit Pistons,2015_028
+289,2014-11-19T00:30:00Z,Los Angeles Lakers at Atlanta Hawks Tickets,9107717,Los Angeles Lakers,Atlanta Hawks,2014_323
+290,2015-02-20T03:30:00Z,San Antonio Spurs at Los Angeles Clippers Tickets,9106876,San Antonio Spurs,Los Angeles Clippers,2015_051
+291,2015-04-03T23:30:00Z,Milwaukee Bucks at Boston Celtics Tickets,9107091,Milwaukee Bucks,Boston Celtics,2015_093
+292,2015-04-12T02:00:00Z,Memphis Grizzlies at Los Angeles Clippers Tickets,9108012,Memphis Grizzlies,Los Angeles Clippers,2015_102
+293,2015-02-28T03:30:00Z,Oklahoma City Thunder at Portland Trail Blazers Tickets,9107402,Oklahoma City Thunder,Portland Trail Blazers,2015_059
+294,2015-01-20T03:00:00Z,Sacramento Kings at Portland Trail Blazers Tickets,9107417,Sacramento Kings,Portland Trail Blazers,2015_020
+295,2015-03-31T02:00:00Z,Phoenix Suns at Portland Trail Blazers Tickets,9107414,Phoenix Suns,Portland Trail Blazers,2015_090
+296,2015-02-06T03:30:00Z,Phoenix Suns at Portland Trail Blazers Tickets,9107411,Phoenix Suns,Portland Trail Blazers,2015_037
+297,2014-11-20T00:30:00Z,Phoenix Suns at Detroit Pistons Tickets,9107934,Phoenix Suns,Detroit Pistons,2014_324
+298,2014-12-20T00:30:00Z,Toronto Raptors at Detroit Pistons Tickets,9107954,Toronto Raptors,Detroit Pistons,2014_354
+299,2015-02-04T03:00:00Z,Utah Jazz at Portland Trail Blazers Tickets,9107427,Utah Jazz,Portland Trail Blazers,2015_035
+300,2015-04-12T02:00:00Z,Utah Jazz at Portland Trail Blazers Tickets,9107428,Utah Jazz,Portland Trail Blazers,2015_102
+301,2015-01-25T03:00:00Z,Washington Wizards at Portland Trail Blazers Tickets,9107430,Washington Wizards,Portland Trail Blazers,2015_025
+302,2015-04-02T02:00:00Z,Los Angeles Clippers at Portland Trail Blazers Tickets,9110506,Los Angeles Clippers,Portland Trail Blazers,2015_092
+303,2015-04-09T02:00:00Z,Minnesota Timberwolves at Portland Trail Blazers Tickets,9110507,Minnesota Timberwolves,Portland Trail Blazers,2015_099
+304,2015-04-05T02:00:00Z,New Orleans Pelicans at Portland Trail Blazers Tickets,9107394,New Orleans Pelicans,Portland Trail Blazers,2015_095
+305,2015-03-29T02:00:00Z,Denver Nuggets at Portland Trail Blazers Tickets,9107353,Denver Nuggets,Portland Trail Blazers,2015_088
+306,2015-03-14T02:00:00Z,Detroit Pistons at Portland Trail Blazers Tickets,9107356,Detroit Pistons,Portland Trail Blazers,2015_073
+307,2015-03-25T02:30:00Z,Golden State Warriors at Portland Trail Blazers Tickets,9107360,Golden State Warriors,Portland Trail Blazers,2015_084
+308,2015-02-12T03:00:00Z,Los Angeles Lakers at Portland Trail Blazers Tickets,9107376,Los Angeles Lakers,Portland Trail Blazers,2015_043
+309,2015-02-23T02:00:00Z,Memphis Grizzlies at Portland Trail Blazers Tickets,9107381,Memphis Grizzlies,Portland Trail Blazers,2015_054
+310,2015-12-05T03:00:00Z,Indiana Pacers at Portland Trail Blazers Tickets,9107366,Indiana Pacers,Portland Trail Blazers,2015_339
+311,2015-03-12T02:30:00Z,Houston Rockets at Portland Trail Blazers Tickets,9107364,Houston Rockets,Portland Trail Blazers,2015_071
+312,2015-01-15T03:30:00Z,Los Angeles Clippers at Portland Trail Blazers Tickets,9107370,Los Angeles Clippers,Portland Trail Blazers,2015_015
+313,2015-01-19T19:00:00Z,Minnesota Timberwolves at Charlotte Hornets Tickets,9107886,Minnesota Timberwolves,Charlotte Hornets,2015_019
+314,2015-02-01T19:00:00Z,Los Angeles Lakers at New York Knicks Tickets,9106862,Los Angeles Lakers,New York Knicks,2015_032
+315,2015-01-19T22:30:00Z,Indiana Pacers at Houston Rockets Tickets,9107248,Indiana Pacers,Houston Rockets,2015_019
+316,2014-12-27T01:00:00Z,Charlotte Hornets at Oklahoma City Thunder Tickets,9107127,Charlotte Hornets,Oklahoma City Thunder,2014_361
+317,2015-04-14T02:30:00Z,Denver Nuggets at Los Angeles Clippers Tickets,9108013,Denver Nuggets,Los Angeles Clippers,2015_104
+318,2014-12-15T00:00:00Z,Los Angeles Lakers at Minnesota Timberwolves Tickets,9107959,Los Angeles Lakers,Minnesota Timberwolves,2014_349
+319,2014-12-20T01:00:00Z,Chicago Bulls at Memphis Grizzlies Tickets,9107765,Chicago Bulls,Memphis Grizzlies,2014_354
+320,2015-04-01T23:30:00Z,Brooklyn Nets at New York Knicks Tickets,9106896,Brooklyn Nets,New York Knicks,2015_091
+321,2015-01-11T01:00:00Z,San Antonio Spurs at Minnesota Timberwolves Tickets,9107937,San Antonio Spurs,Minnesota Timberwolves,2015_011
+322,2014-11-13T01:00:00Z,Los Angeles Lakers at New Orleans Pelicans Tickets,9107325,Los Angeles Lakers,New Orleans Pelicans,2014_317
+323,2015-01-04T01:00:00Z,Boston Celtics at Chicago Bulls Tickets,9107109,Boston Celtics,Chicago Bulls,2015_004
+324,2014-11-29T03:00:00Z,Memphis Grizzlies at Portland Trail Blazers Tickets,9107379,Memphis Grizzlies,Portland Trail Blazers,2014_333
+325,2015-04-14T23:30:00Z,Toronto Raptors at Boston Celtics Tickets,9107095,Toronto Raptors,Boston Celtics,2015_104
+326,2015-03-05T00:30:00Z,Utah Jazz at Boston Celtics Tickets,9107073,Utah Jazz,Boston Celtics,2015_064
+327,2015-03-11T23:30:00Z,Memphis Grizzlies at Boston Celtics Tickets,9107076,Memphis Grizzlies,Boston Celtics,2015_070
+328,2015-03-01T23:00:00Z,Golden State Warriors at Boston Celtics Tickets,9107070,Golden State Warriors,Boston Celtics,2015_060
+329,2015-03-29T22:00:00Z,Los Angeles Clippers at Boston Celtics Tickets,9107086,Los Angeles Clippers,Boston Celtics,2015_088
+330,2015-03-16T23:30:00Z,Philadelphia 76ers at Boston Celtics Tickets,9107080,Philadelphia 76ers,Boston Celtics,2015_075
+331,2014-12-31T18:00:00Z,Sacramento Kings at Boston Celtics Tickets,9107053,Sacramento Kings,Boston Celtics,2014_365
+332,2015-02-05T00:30:00Z,Denver Nuggets at Boston Celtics Tickets,9107026,Denver Nuggets,Boston Celtics,2015_036
+333,2015-03-10T02:30:00Z,Minnesota Timberwolves at Los Angeles Clippers Tickets,9106884,Minnesota Timberwolves,Los Angeles Clippers,2015_069
+334,2014-11-09T00:00:00Z,Washington Wizards at Indiana Pacers Tickets,9107447,Washington Wizards,Indiana Pacers,2014_313
+335,2014-11-10T02:00:00Z,Denver Nuggets at Portland Trail Blazers Tickets,9107350,Denver Nuggets,Portland Trail Blazers,2014_314
+336,2015-02-08T23:00:00Z,Indiana Pacers at Charlotte Hornets Tickets,9107892,Indiana Pacers,Charlotte Hornets,2015_039
+337,2015-03-27T23:30:00Z,Los Angeles Lakers at Toronto Raptors Tickets,9107692,Los Angeles Lakers,Toronto Raptors,2015_086
+338,2015-04-04T23:30:00Z,Boston Celtics at Toronto Raptors Tickets,9107697,Boston Celtics,Toronto Raptors,2015_094
+339,2014-11-18T00:30:00Z,Orlando Magic at Detroit Pistons Tickets,9107932,Orlando Magic,Detroit Pistons,2014_322
+340,2015-02-05T00:30:00Z,Brooklyn Nets at Toronto Raptors Tickets,9107655,Brooklyn Nets,Toronto Raptors,2015_036
+341,2015-02-03T00:30:00Z,Milwaukee Bucks at Toronto Raptors Tickets,9107652,Milwaukee Bucks,Toronto Raptors,2015_034
+342,2014-12-21T20:30:00Z,New York Knicks at Toronto Raptors Tickets,9107627,New York Knicks,Toronto Raptors,2014_355
+343,2015-01-15T00:30:00Z,Philadelphia 76ers at Toronto Raptors Tickets,9107636,Philadelphia 76ers,Toronto Raptors,2015_015
+344,2015-01-09T00:30:00Z,Charlotte Hornets at Toronto Raptors Tickets,9107630,Charlotte Hornets,Toronto Raptors,2015_009
+345,2015-01-13T00:30:00Z,Detroit Pistons at Toronto Raptors Tickets,9107634,Detroit Pistons,Toronto Raptors,2015_013
+346,2014-11-20T00:00:00Z,Los Angeles Clippers at Orlando Magic Tickets,9107578,Los Angeles Clippers,Orlando Magic,2014_324
+347,2014-12-27T03:00:00Z,Phoenix Suns at Sacramento Kings Tickets,9107275,Phoenix Suns,Sacramento Kings,2014_361
+348,2014-11-17T02:30:00Z,Golden State Warriors at Los Angeles Lakers Tickets,9106920,Golden State Warriors,Los Angeles Lakers,2014_321
+349,2014-12-24T03:30:00Z,Golden State Warriors at Los Angeles Lakers Tickets,9106921,Golden State Warriors,Los Angeles Lakers,2014_358
+350,2015-04-06T01:30:00Z,Los Angeles Clippers at Los Angeles Lakers Tickets,9106903,Los Angeles Clippers,Los Angeles Lakers,2015_096
+351,2014-11-09T00:30:00Z,New York Knicks at Atlanta Hawks Tickets,9107711,New York Knicks,Atlanta Hawks,2014_313
+352,2015-02-01T01:00:00Z,Cleveland Cavaliers at Minnesota Timberwolves Tickets,9107985,Cleveland Cavaliers,Minnesota Timberwolves,2015_032
+353,2015-01-10T01:30:00Z,Minnesota Timberwolves at Milwaukee Bucks Tickets (Bucks Scarf,9107706,Minnesota Timberwolves,Milwaukee Bucks,2015_010
+354,2014-12-13T00:30:00Z,Indiana Pacers at Toronto Raptors Tickets,9107617,Indiana Pacers,Toronto Raptors,2014_347
+355,2014-11-13T02:00:00Z,Brooklyn Nets at Phoenix Suns Tickets,9107619,Brooklyn Nets,Phoenix Suns,2014_317
+356,2014-12-21T23:00:00Z,Philadelphia 76ers at Orlando Magic Tickets,9107605,Philadelphia 76ers,Orlando Magic,2014_355
+357,2014-11-12T00:30:00Z,Orlando Magic at Toronto Raptors Tickets,9107592,Orlando Magic,Toronto Raptors,2014_316
+358,2015-01-10T00:00:00Z,Boston Celtics at Indiana Pacers Tickets,9107488,Boston Celtics,Indiana Pacers,2015_010
+359,2014-11-14T01:00:00Z,Chicago Bulls at Toronto Raptors Tickets,9107594,Chicago Bulls,Toronto Raptors,2014_318
+360,2014-11-16T00:30:00Z,Utah Jazz at Toronto Raptors Tickets,9107596,Utah Jazz,Toronto Raptors,2014_320
+361,2014-11-20T00:30:00Z,Memphis Grizzlies at Toronto Raptors Tickets,9107598,Memphis Grizzlies,Toronto Raptors,2014_324
+362,2014-12-11T00:00:00Z,Los Angeles Clippers at Indiana Pacers Tickets,9107471,Los Angeles Clippers,Indiana Pacers,2014_345
+363,2014-11-09T01:30:00Z,New Orleans Pelicans at San Antonio Spurs Tickets,9107469,New Orleans Pelicans,San Antonio Spurs,2014_313
+364,2014-12-09T00:00:00Z,Atlanta Hawks at Indiana Pacers Tickets,9107468,Atlanta Hawks,Indiana Pacers,2014_343
+365,2014-12-07T01:30:00Z,Minnesota Timberwolves at San Antonio Spurs Tickets,9107474,Minnesota Timberwolves,San Antonio Spurs,2014_341
+366,2015-03-15T23:00:00Z,Minnesota Timberwolves at San Antonio Spurs Tickets,9107473,Minnesota Timberwolves,San Antonio Spurs,2015_074
+367,2014-12-14T00:00:00Z,Portland Trail Blazers at Indiana Pacers Tickets,9107475,Portland Trail Blazers,Indiana Pacers,2014_348
+368,2015-03-18T23:30:00Z,Minnesota Timberwolves at Toronto Raptors Tickets,9107683,Minnesota Timberwolves,Toronto Raptors,2015_077
+369,2015-04-04T00:30:00Z,Denver Nuggets at San Antonio Spurs Tickets,9107515,Denver Nuggets,San Antonio Spurs,2015_094
+370,2015-02-05T01:00:00Z,Los Angeles Lakers at Milwaukee Bucks Tickets (Hupy & Abraham S,9107698,Los Angeles Lakers,Milwaukee Bucks,2015_036
+371,2015-03-30T23:30:00Z,Houston Rockets at Toronto Raptors Tickets,9107695,Houston Rockets,Toronto Raptors,2015_089
+372,2015-02-28T00:00:00Z,Cleveland Cavaliers at Indiana Pacers Tickets,9107520,Cleveland Cavaliers,Indiana Pacers,2015_059
+373,2015-03-13T00:00:00Z,Cleveland Cavaliers at San Antonio Spurs Tickets,9107525,Cleveland Cavaliers,San Antonio Spurs,2015_072
+374,2015-03-08T17:00:00Z,Chicago Bulls at San Antonio Spurs Tickets,9107527,Chicago Bulls,San Antonio Spurs,2015_067
+375,2015-02-12T00:00:00Z,Washington Wizards at Toronto Raptors Tickets,9107665,Washington Wizards,Toronto Raptors,2015_043
+376,2015-03-21T00:30:00Z,Boston Celtics at San Antonio Spurs Tickets,9107535,Boston Celtics,San Antonio Spurs,2015_080
+377,2014-12-05T03:00:00Z,Indiana Pacers at Portland Trail Blazers Tickets,9108082,Indiana Pacers,Portland Trail Blazers,2014_339
+378,2015-03-05T00:30:00Z,Cleveland Cavaliers at Toronto Raptors Tickets,9107672,Cleveland Cavaliers,Toronto Raptors,2015_064
+379,2015-03-13T23:30:00Z,Miami Heat at Toronto Raptors Tickets,9107675,Miami Heat,Toronto Raptors,2015_072
+380,2015-03-23T23:00:00Z,Houston Rockets at Indiana Pacers Tickets,9107545,Houston Rockets,Indiana Pacers,2015_082
+381,2015-01-29T00:30:00Z,Sacramento Kings at Toronto Raptors Tickets,9107648,Sacramento Kings,Toronto Raptors,2015_029
+382,2015-02-07T00:30:00Z,Los Angeles Clippers at Toronto Raptors Tickets,9107658,Los Angeles Clippers,Toronto Raptors,2015_038
+383,2014-11-23T01:00:00Z,Dallas Mavericks at Houston Rockets Tickets,9108066,Dallas Mavericks,Houston Rockets,2014_327
+384,2015-03-26T01:30:00Z,Oklahoma City Thunder at San Antonio Spurs Tickets,9107460,Oklahoma City Thunder,San Antonio Spurs,2015_085
+385,2014-12-16T00:30:00Z,Orlando Magic at Toronto Raptors Tickets,9107620,Orlando Magic,Toronto Raptors,2014_350
+386,2014-11-27T00:00:00Z,Golden State Warriors at Orlando Magic Tickets,9107575,Golden State Warriors,Orlando Magic,2014_331
+387,2015-02-21T01:00:00Z,Phoenix Suns at Minnesota Timberwolves Tickets,9107975,Phoenix Suns,Minnesota Timberwolves,2015_052
+388,2014-12-01T01:00:00Z,Orlando Magic at Phoenix Suns Tickets,9107631,Orlando Magic,Phoenix Suns,2014_335
+389,2014-12-30T00:00:00Z,Milwaukee Bucks at Charlotte Hornets Tickets,9107878,Milwaukee Bucks,Charlotte Hornets,2014_364
+390,2015-02-24T02:00:00Z,San Antonio Spurs at Utah Jazz Tickets,9107879,San Antonio Spurs,Utah Jazz,2015_055
+391,2015-03-07T01:00:00Z,Los Angeles Lakers at Memphis Grizzlies Tickets,9107732,Los Angeles Lakers,Memphis Grizzlies,2015_066
+392,2015-04-01T23:30:00Z,Indiana Pacers at Boston Celtics Tickets,9107088,Indiana Pacers,Boston Celtics,2015_091
+393,2014-12-18T00:00:00Z,Phoenix Suns at Charlotte Hornets Tickets,9107870,Phoenix Suns,Charlotte Hornets,2014_352
+394,2015-01-15T03:30:00Z,Miami Heat at Golden State Warriors Tickets,9106855,Miami Heat,Golden State Warriors,2015_015
+395,2014-12-19T01:00:00Z,New York Knicks at Chicago Bulls Tickets,9107097,New York Knicks,Chicago Bulls,2014_353
+396,2014-12-11T01:00:00Z,Brooklyn Nets at Chicago Bulls Tickets,9107090,Brooklyn Nets,Chicago Bulls,2014_345
+397,2014-12-06T00:00:00Z,New York Knicks at Charlotte Hornets Tickets,9107866,New York Knicks,Charlotte Hornets,2014_340
+398,2014-11-27T00:00:00Z,Portland Trail Blazers at Charlotte Hornets Tickets,9107862,Portland Trail Blazers,Charlotte Hornets,2014_331
+399,2014-11-15T00:30:00Z,Miami Heat at Atlanta Hawks Tickets,9107713,Miami Heat,Atlanta Hawks,2014_319
+400,2014-11-27T01:30:00Z,New York Knicks at Dallas Mavericks Tickets,9107069,New York Knicks,Dallas Mavericks,2014_331
+401,2015-02-11T00:00:00Z,Detroit Pistons at Charlotte Hornets Tickets,9107894,Detroit Pistons,Charlotte Hornets,2015_042
+402,2014-11-11T01:00:00Z,Detroit Pistons at Chicago Bulls Tickets,9107074,Detroit Pistons,Chicago Bulls,2014_315
+403,2015-03-05T03:30:00Z,Milwaukee Bucks at Golden State Warriors Tickets,9106878,Milwaukee Bucks,Golden State Warriors,2015_064
+404,2015-02-22T03:00:00Z,Sacramento Kings at Los Angeles Clippers Tickets,9106879,Sacramento Kings,Los Angeles Clippers,2015_053
+405,2014-11-09T01:00:00Z,Boston Celtics at Chicago Bulls Tickets,9107071,Boston Celtics,Chicago Bulls,2014_313
+406,2015-03-07T03:30:00Z,Dallas Mavericks at Golden State Warriors Tickets,9106875,Dallas Mavericks,Golden State Warriors,2015_066
+407,2015-01-25T00:00:00Z,New York Knicks at Charlotte Hornets Tickets,9107888,New York Knicks,Charlotte Hornets,2015_025
+408,2015-01-22T00:00:00Z,Miami Heat at Charlotte Hornets Tickets,9107887,Miami Heat,Charlotte Hornets,2015_022
+409,2015-01-15T00:00:00Z,San Antonio Spurs at Charlotte Hornets Tickets,9107884,San Antonio Spurs,Charlotte Hornets,2015_015
+410,2015-01-18T00:00:00Z,Indiana Pacers at Charlotte Hornets Tickets,9107885,Indiana Pacers,Charlotte Hornets,2015_018
+411,2014-11-16T01:00:00Z,Indiana Pacers at Chicago Bulls Tickets,9107078,Indiana Pacers,Chicago Bulls,2014_320
+412,2014-12-03T01:00:00Z,Dallas Mavericks at Chicago Bulls Tickets,9107083,Dallas Mavericks,Chicago Bulls,2014_337
+413,2015-03-05T03:30:00Z,Portland Trail Blazers at Los Angeles Clippers Tickets,9106882,Portland Trail Blazers,Los Angeles Clippers,2015_064
+414,2015-03-12T02:30:00Z,Detroit Pistons at Golden State Warriors Tickets,9106885,Detroit Pistons,Golden State Warriors,2015_071
+415,2015-03-15T19:30:00Z,Houston Rockets at Los Angeles Clippers Tickets,9106886,Houston Rockets,Los Angeles Clippers,2015_074
+416,2014-12-17T01:00:00Z,Dallas Mavericks at New York Knicks Tickets,9106818,Dallas Mavericks,New York Knicks,2014_351
+417,2014-11-18T03:30:00Z,Chicago Bulls at Los Angeles Clippers Tickets,9106819,Chicago Bulls,Los Angeles Clippers,2014_322
+418,2014-12-15T00:30:00Z,Toronto Raptors at New York Knicks Tickets,9106815,Toronto Raptors,New York Knicks,2014_349
+419,2014-11-11T03:30:00Z,San Antonio Spurs at Los Angeles Clippers Tickets,9106814,San Antonio Spurs,Los Angeles Clippers,2014_315
+420,2014-11-16T03:30:00Z,Phoenix Suns at Los Angeles Clippers Tickets,9106816,Phoenix Suns,Los Angeles Clippers,2014_320
+421,2014-11-22T03:30:00Z,Utah Jazz at Golden State Warriors Tickets,9106811,Utah Jazz,Golden State Warriors,2014_326
+422,2014-11-16T03:30:00Z,Charlotte Hornets at Golden State Warriors Tickets,9106810,Charlotte Hornets,Golden State Warriors,2014_320
+423,2014-12-08T00:30:00Z,Portland Trail Blazers at New York Knicks Tickets,9106812,Portland Trail Blazers,New York Knicks,2014_342
+424,2014-12-25T17:00:00Z,Washington Wizards at New York Knicks Tickets,9106828,Washington Wizards,New York Knicks,2014_359
+425,2014-12-07T03:30:00Z,New Orleans Pelicans at Los Angeles Clippers Tickets,9106826,New Orleans Pelicans,Los Angeles Clippers,2014_341
+426,2014-12-16T03:30:00Z,Detroit Pistons at Los Angeles Clippers Tickets,9106833,Detroit Pistons,Los Angeles Clippers,2014_350
+427,2014-12-28T03:30:00Z,Minnesota Timberwolves at Golden State Warriors Tickets,9106841,Minnesota Timberwolves,Golden State Warriors,2014_362
+428,2014-12-31T23:00:00Z,New York Knicks at Los Angeles Clippers Tickets,9106846,New York Knicks,Los Angeles Clippers,2014_365
+429,2014-11-08T21:30:00Z,Portland Trail Blazers at Los Angeles Clippers Tickets,9106803,Portland Trail Blazers,Los Angeles Clippers,2014_312
+430,2014-11-12T03:30:00Z,San Antonio Spurs at Golden State Warriors Tickets,9106806,San Antonio Spurs,Golden State Warriors,2014_316
+431,2014-11-14T03:30:00Z,Brooklyn Nets at Golden State Warriors Tickets,9106809,Brooklyn Nets,Golden State Warriors,2014_318
+432,2014-12-24T00:30:00Z,Philadelphia 76ers at Miami Heat Tickets,9107216,Philadelphia 76ers,Miami Heat,2014_358
+433,2014-12-21T23:00:00Z,Boston Celtics at Miami Heat Tickets,9107214,Boston Celtics,Miami Heat,2014_355
+434,2014-12-20T00:30:00Z,Washington Wizards at Miami Heat Tickets,9107212,Washington Wizards,Miami Heat,2014_354
+435,2014-12-18T00:30:00Z,Utah Jazz at Miami Heat Tickets,9107210,Utah Jazz,Miami Heat,2014_352
+436,2014-12-25T22:00:00Z,Cleveland Cavaliers at Miami Heat Tickets,9107218,Cleveland Cavaliers,Miami Heat,2014_359
+437,2014-11-26T00:30:00Z,Golden State Warriors at Miami Heat Tickets,9107202,Golden State Warriors,Miami Heat,2014_330
+438,2014-12-04T00:30:00Z,Atlanta Hawks at Miami Heat Tickets,9107204,Atlanta Hawks,Miami Heat,2014_338
+439,2014-11-23T23:00:00Z,Charlotte Hornets at Miami Heat Tickets,9107200,Charlotte Hornets,Miami Heat,2014_327
+440,2014-12-14T23:00:00Z,Chicago Bulls at Miami Heat Tickets,9107207,Chicago Bulls,Miami Heat,2014_348
+441,2014-12-21T01:00:00Z,Atlanta Hawks at Houston Rockets Tickets,9107208,Atlanta Hawks,Houston Rockets,2014_355
+442,2014-11-28T18:00:00Z,Chicago Bulls at Boston Celtics Tickets,9107021,Chicago Bulls,Boston Celtics,2014_332
+443,2014-11-13T00:30:00Z,Oklahoma City Thunder at Boston Celtics Tickets,9107015,Oklahoma City Thunder,Boston Celtics,2014_317
+444,2014-11-15T00:30:00Z,Cleveland Cavaliers at Boston Celtics Tickets,9107016,Cleveland Cavaliers,Boston Celtics,2014_319
+445,2015-03-18T00:00:00Z,Orlando Magic at Houston Rockets Tickets,9107289,Orlando Magic,Houston Rockets,2015_077
+446,2015-03-07T01:00:00Z,Miami Heat at Washington Wizards Tickets,9107416,Miami Heat,Washington Wizards,2015_066
+447,2015-03-01T02:00:00Z,Milwaukee Bucks at Utah Jazz Tickets,9107918,Milwaukee Bucks,Utah Jazz,2015_060
+448,2015-03-30T23:00:00Z,Boston Celtics at Charlotte Hornets Tickets,9107915,Boston Celtics,Charlotte Hornets,2015_089
+449,2015-02-03T00:30:00Z,Los Angeles Clippers at Brooklyn Nets Tickets,9107008,Los Angeles Clippers,Brooklyn Nets,2015_034
+450,2015-03-25T23:00:00Z,Brooklyn Nets at Charlotte Hornets Tickets,9107911,Brooklyn Nets,Charlotte Hornets,2015_084
+451,2015-03-23T01:30:00Z,Philadelphia 76ers at Los Angeles Lakers Tickets,9107007,Philadelphia 76ers,Los Angeles Lakers,2015_082
+452,2014-12-07T01:00:00Z,Phoenix Suns at Houston Rockets Tickets,9107294,Phoenix Suns,Houston Rockets,2014_341
+453,2015-03-20T02:30:00Z,Utah Jazz at Los Angeles Lakers Tickets,9107005,Utah Jazz,Los Angeles Lakers,2015_079
+454,2014-11-15T01:00:00Z,Philadelphia 76ers at Houston Rockets Tickets,9107292,Philadelphia 76ers,Houston Rockets,2014_319
+455,2015-03-16T01:30:00Z,Atlanta Hawks at Los Angeles Lakers Tickets,9107003,Atlanta Hawks,Los Angeles Lakers,2015_075
+456,2015-03-13T02:30:00Z,New York Knicks at Los Angeles Lakers Tickets,9107000,New York Knicks,Los Angeles Lakers,2015_072
+457,2015-04-11T23:30:00Z,Toronto Raptors at Miami Heat Tickets,9107290,Toronto Raptors,Miami Heat,2015_101
+458,2014-12-21T23:00:00Z,Los Angeles Lakers at Sacramento Kings Tickets,9107266,Los Angeles Lakers,Sacramento Kings,2014_355
+459,2014-12-19T03:00:00Z,Milwaukee Bucks at Sacramento Kings Tickets,9107263,Milwaukee Bucks,Sacramento Kings,2014_353
+460,2014-11-16T00:00:00Z,Orlando Magic at Washington Wizards Tickets,9107326,Orlando Magic,Washington Wizards,2014_320
+461,2014-12-13T00:00:00Z,Los Angeles Clippers at Washington Wizards Tickets,9107355,Los Angeles Clippers,Washington Wizards,2014_347
+462,2015-02-24T02:00:00Z,Boston Celtics at Phoenix Suns Tickets,9107691,Boston Celtics,Phoenix Suns,2015_055
+463,2015-01-31T03:30:00Z,Chicago Bulls at Phoenix Suns Tickets,9107682,Chicago Bulls,Phoenix Suns,2015_031
+464,2015-02-27T03:30:00Z,Oklahoma City Thunder at Phoenix Suns Tickets,9107693,Oklahoma City Thunder,Phoenix Suns,2015_058
+465,2015-01-29T03:30:00Z,Washington Wizards at Phoenix Suns Tickets,9107681,Washington Wizards,Phoenix Suns,2015_029
+466,2015-01-25T23:00:00Z,Los Angeles Clippers at Phoenix Suns Tickets,9107674,Los Angeles Clippers,Phoenix Suns,2015_025
+467,2014-12-10T02:00:00Z,Miami Heat at Phoenix Suns Tickets,9107635,Miami Heat,Phoenix Suns,2014_344
+468,2015-02-03T02:00:00Z,Memphis Grizzlies at Phoenix Suns Tickets,9107602,Memphis Grizzlies,Phoenix Suns,2015_034
+469,2015-03-01T02:00:00Z,San Antonio Spurs at Phoenix Suns Tickets,9107595,San Antonio Spurs,Phoenix Suns,2015_060
+470,2014-12-01T02:00:00Z,Memphis Grizzlies at Sacramento Kings Tickets,9107225,Memphis Grizzlies,Sacramento Kings,2014_335
+471,2014-12-30T00:30:00Z,Sacramento Kings at Brooklyn Nets Tickets,9106986,Sacramento Kings,Brooklyn Nets,2014_364
+472,2015-04-11T01:00:00Z,Memphis Grizzlies at Utah Jazz Tickets,9107908,Memphis Grizzlies,Utah Jazz,2015_101
+473,2015-03-11T23:00:00Z,Sacramento Kings at Charlotte Hornets Tickets,9107907,Sacramento Kings,Charlotte Hornets,2015_070
+474,2015-03-13T23:00:00Z,Chicago Bulls at Charlotte Hornets Tickets,9107909,Chicago Bulls,Charlotte Hornets,2015_072
+475,2015-03-07T00:00:00Z,Toronto Raptors at Charlotte Hornets Tickets,9107903,Toronto Raptors,Charlotte Hornets,2015_066
+476,2015-01-27T02:00:00Z,Boston Celtics at Utah Jazz Tickets,9107904,Boston Celtics,Utah Jazz,2015_027
+477,2015-03-09T23:00:00Z,Washington Wizards at Charlotte Hornets Tickets,9107905,Washington Wizards,Charlotte Hornets,2015_068
+478,2015-02-05T02:00:00Z,Memphis Grizzlies at Utah Jazz Tickets,9107906,Memphis Grizzlies,Utah Jazz,2015_036
+479,2015-02-26T02:00:00Z,Los Angeles Lakers at Utah Jazz Tickets,9107900,Los Angeles Lakers,Utah Jazz,2015_057
+480,2015-01-25T02:00:00Z,Brooklyn Nets at Utah Jazz Tickets,9107902,Brooklyn Nets,Utah Jazz,2015_025
+481,2015-03-11T01:00:00Z,New York Knicks at Utah Jazz Tickets,9107919,New York Knicks,Utah Jazz,2015_070
+482,2015-03-26T01:00:00Z,Portland Trail Blazers at Utah Jazz Tickets,9107916,Portland Trail Blazers,Utah Jazz,2015_085
+483,2015-04-01T23:00:00Z,Detroit Pistons at Charlotte Hornets Tickets,9107917,Detroit Pistons,Charlotte Hornets,2015_091
+484,2015-02-21T02:00:00Z,Portland Trail Blazers at Utah Jazz Tickets,9107914,Portland Trail Blazers,Utah Jazz,2015_052
+485,2015-04-09T01:00:00Z,Sacramento Kings at Utah Jazz Tickets,9107912,Sacramento Kings,Utah Jazz,2015_099
+486,2015-03-28T23:00:00Z,Atlanta Hawks at Charlotte Hornets Tickets,9107913,Atlanta Hawks,Charlotte Hornets,2015_087
+487,2015-02-08T02:00:00Z,Sacramento Kings at Utah Jazz Tickets,9107910,Sacramento Kings,Utah Jazz,2015_039
+488,2015-01-27T01:00:00Z,Portland Trail Blazers at Brooklyn Nets Tickets,9107002,Portland Trail Blazers,Brooklyn Nets,2015_027
+489,2015-01-18T01:00:00Z,Washington Wizards at Brooklyn Nets Tickets,9107001,Washington Wizards,Brooklyn Nets,2015_018
+490,2015-03-15T01:00:00Z,Detroit Pistons at Utah Jazz Tickets,9107921,Detroit Pistons,Utah Jazz,2015_074
+491,2015-04-08T23:00:00Z,Toronto Raptors at Charlotte Hornets Tickets,9107922,Toronto Raptors,Charlotte Hornets,2015_098
+492,2015-03-17T01:00:00Z,Charlotte Hornets at Utah Jazz Tickets,9107923,Charlotte Hornets,Utah Jazz,2015_076
+493,2015-03-19T01:00:00Z,Washington Wizards at Utah Jazz Tickets,9107924,Washington Wizards,Utah Jazz,2015_078
+494,2015-04-13T23:00:00Z,Houston Rockets at Charlotte Hornets Tickets,9107925,Houston Rockets,Charlotte Hornets,2015_103
+495,2015-04-04T23:00:00Z,Philadelphia 76ers at Charlotte Hornets Tickets,9107920,Philadelphia 76ers,Charlotte Hornets,2015_094
+496,2014-11-20T01:00:00Z,New York Knicks at Minnesota Timberwolves Tickets,9107933,New York Knicks,Minnesota Timberwolves,2014_324
+497,2014-11-23T01:00:00Z,Sacramento Kings at Minnesota Timberwolves Tickets,9107939,Sacramento Kings,Minnesota Timberwolves,2014_327
+498,2014-11-27T00:30:00Z,Los Angeles Clippers at Detroit Pistons Tickets,9107936,Los Angeles Clippers,Detroit Pistons,2014_331
+499,2015-01-15T01:00:00Z,Atlanta Hawks at Boston Celtics Tickets,9107062,Atlanta Hawks,Boston Celtics,2015_015
+500,2015-01-13T00:30:00Z,New Orleans Pelicans at Boston Celtics Tickets,9107060,New Orleans Pelicans,Boston Celtics,2015_013
+501,2015-01-02T01:00:00Z,Sacramento Kings at Minnesota Timberwolves Tickets,9107940,Sacramento Kings,Minnesota Timberwolves,2015_002
+502,2014-11-27T01:00:00Z,Milwaukee Bucks at Minnesota Timberwolves Tickets,9107942,Milwaukee Bucks,Minnesota Timberwolves,2014_331
+503,2014-11-30T20:30:00Z,Golden State Warriors at Detroit Pistons Tickets,9107941,Golden State Warriors,Detroit Pistons,2014_334
+504,2015-01-06T00:30:00Z,Charlotte Hornets at Boston Celtics Tickets,9107058,Charlotte Hornets,Boston Celtics,2015_006
+505,2014-12-09T01:00:00Z,Golden State Warriors at Minnesota Timberwolves Tickets,9107948,Golden State Warriors,Minnesota Timberwolves,2014_343
+506,2014-12-07T00:30:00Z,Philadelphia 76ers at Detroit Pistons Tickets,9107944,Philadelphia 76ers,Detroit Pistons,2014_341
+507,2014-12-03T00:30:00Z,Los Angeles Lakers at Detroit Pistons Tickets,9107943,Los Angeles Lakers,Detroit Pistons,2014_337
+508,2014-12-20T00:30:00Z,Minnesota Timberwolves at Boston Celtics Tickets,9107051,Minnesota Timberwolves,Boston Celtics,2014_354
+509,2015-03-08T01:00:00Z,Portland Trail Blazers at Minnesota Timberwolves Tickets,9107953,Portland Trail Blazers,Minnesota Timberwolves,2015_067
+510,2014-12-18T00:30:00Z,Orlando Magic at Boston Celtics Tickets,9107049,Orlando Magic,Boston Celtics,2014_352
+511,2014-12-07T18:00:00Z,Washington Wizards at Boston Celtics Tickets,9107046,Washington Wizards,Boston Celtics,2014_341
+512,2015-01-04T23:00:00Z,Sacramento Kings at Detroit Pistons Tickets,9107958,Sacramento Kings,Detroit Pistons,2015_004
+513,2015-04-16T00:00:00Z,Oklahoma City Thunder at Minnesota Timberwolves Tickets,9107957,Oklahoma City Thunder,Minnesota Timberwolves,2015_106
+514,2014-12-13T01:00:00Z,Oklahoma City Thunder at Minnesota Timberwolves Tickets,9107955,Oklahoma City Thunder,Minnesota Timberwolves,2014_347
+515,2015-03-26T00:00:00Z,Los Angeles Lakers at Minnesota Timberwolves Tickets,9107960,Los Angeles Lakers,Minnesota Timberwolves,2015_085
+516,2015-01-11T00:30:00Z,Brooklyn Nets at Detroit Pistons Tickets,9107962,Brooklyn Nets,Detroit Pistons,2015_011
+517,2014-12-04T00:30:00Z,Detroit Pistons at Boston Celtics Tickets,9107037,Detroit Pistons,Boston Celtics,2014_338
+518,2015-01-10T00:30:00Z,Atlanta Hawks at Detroit Pistons Tickets,9107961,Atlanta Hawks,Detroit Pistons,2015_010
+519,2015-01-15T00:30:00Z,New Orleans Pelicans at Detroit Pistons Tickets,9107964,New Orleans Pelicans,Detroit Pistons,2015_015
+520,2014-12-22T00:00:00Z,Indiana Pacers at Minnesota Timberwolves Tickets,9107963,Indiana Pacers,Minnesota Timberwolves,2014_356
+521,2015-01-18T00:30:00Z,Philadelphia 76ers at Detroit Pistons Tickets,9107966,Philadelphia 76ers,Detroit Pistons,2015_018
+522,2015-01-22T00:30:00Z,Orlando Magic at Detroit Pistons Tickets,9107968,Orlando Magic,Detroit Pistons,2015_022
+523,2015-03-31T00:00:00Z,Utah Jazz at Minnesota Timberwolves Tickets,9107967,Utah Jazz,Minnesota Timberwolves,2015_090
+524,2015-01-06T01:00:00Z,Denver Nuggets at Minnesota Timberwolves Tickets,9107969,Denver Nuggets,Minnesota Timberwolves,2015_006
+525,2015-03-05T01:00:00Z,Denver Nuggets at Minnesota Timberwolves Tickets,9107971,Denver Nuggets,Minnesota Timberwolves,2015_064
+526,2014-11-30T18:00:00Z,San Antonio Spurs at Boston Celtics Tickets,9107023,San Antonio Spurs,Boston Celtics,2014_334
+527,2015-02-04T00:30:00Z,Miami Heat at Detroit Pistons Tickets,9107974,Miami Heat,Detroit Pistons,2015_035
+528,2015-01-08T02:30:00Z,Phoenix Suns at Minnesota Timberwolves Tickets,9107973,Phoenix Suns,Minnesota Timberwolves,2015_008
+529,2015-02-12T00:30:00Z,San Antonio Spurs at Detroit Pistons Tickets,9107979,San Antonio Spurs,Detroit Pistons,2015_043
+530,2015-01-22T01:00:00Z,Dallas Mavericks at Minnesota Timberwolves Tickets,9107978,Dallas Mavericks,Minnesota Timberwolves,2015_022
+531,2015-02-08T23:00:00Z,Minnesota Timberwolves at Detroit Pistons Tickets,9107977,Minnesota Timberwolves,Detroit Pistons,2015_039
+532,2015-02-07T00:30:00Z,Denver Nuggets at Detroit Pistons Tickets,9107976,Denver Nuggets,Detroit Pistons,2015_038
+533,2015-01-10T01:00:00Z,Utah Jazz at Oklahoma City Thunder Tickets,9107189,Utah Jazz,Oklahoma City Thunder,2015_010
+534,2015-03-12T00:00:00Z,Los Angeles Clippers at Oklahoma City Thunder Tickets,9107194,Los Angeles Clippers,Oklahoma City Thunder,2015_071
+535,2015-03-01T01:00:00Z,Memphis Grizzlies at Minnesota Timberwolves Tickets,9107990,Memphis Grizzlies,Minnesota Timberwolves,2015_060
+536,2015-03-08T22:00:00Z,Charlotte Hornets at Detroit Pistons Tickets,9107991,Charlotte Hornets,Detroit Pistons,2015_067
+537,2015-02-10T01:00:00Z,Atlanta Hawks at Minnesota Timberwolves Tickets,9107992,Atlanta Hawks,Minnesota Timberwolves,2015_041
+538,2015-03-17T23:30:00Z,Memphis Grizzlies at Detroit Pistons Tickets,9107993,Memphis Grizzlies,Detroit Pistons,2015_076
+539,2015-02-26T01:00:00Z,Washington Wizards at Minnesota Timberwolves Tickets,9107994,Washington Wizards,Minnesota Timberwolves,2015_057
+540,2015-03-21T23:30:00Z,Chicago Bulls at Detroit Pistons Tickets,9107995,Chicago Bulls,Detroit Pistons,2015_080
+541,2015-03-24T23:30:00Z,Toronto Raptors at Detroit Pistons Tickets,9107996,Toronto Raptors,Detroit Pistons,2015_083
+542,2015-03-03T01:00:00Z,Los Angeles Clippers at Minnesota Timberwolves Tickets,9107997,Los Angeles Clippers,Minnesota Timberwolves,2015_062
+543,2015-03-31T23:30:00Z,Atlanta Hawks at Detroit Pistons Tickets,9107998,Atlanta Hawks,Detroit Pistons,2015_090
+544,2015-04-04T23:30:00Z,Miami Heat at Detroit Pistons Tickets,9107999,Miami Heat,Detroit Pistons,2015_094
+545,2015-02-21T00:30:00Z,Chicago Bulls at Detroit Pistons Tickets,9107981,Chicago Bulls,Detroit Pistons,2015_052
+546,2015-04-14T00:00:00Z,New Orleans Pelicans at Minnesota Timberwolves Tickets,9107982,New Orleans Pelicans,Minnesota Timberwolves,2015_104
+547,2015-01-24T01:00:00Z,New Orleans Pelicans at Minnesota Timberwolves Tickets,9107980,New Orleans Pelicans,Minnesota Timberwolves,2015_024
+548,2015-02-25T00:30:00Z,Cleveland Cavaliers at Detroit Pistons Tickets,9107986,Cleveland Cavaliers,Detroit Pistons,2015_056
+549,2015-01-29T01:00:00Z,Boston Celtics at Minnesota Timberwolves Tickets,9107983,Boston Celtics,Minnesota Timberwolves,2015_029
+550,2015-02-22T20:30:00Z,Washington Wizards at Detroit Pistons Tickets,9107984,Washington Wizards,Detroit Pistons,2015_053
+551,2015-02-07T01:00:00Z,Memphis Grizzlies at Minnesota Timberwolves Tickets,9107989,Memphis Grizzlies,Minnesota Timberwolves,2015_038
+552,2015-02-28T00:30:00Z,New York Knicks at Detroit Pistons Tickets,9107987,New York Knicks,Detroit Pistons,2015_059
+553,2015-02-05T01:00:00Z,Miami Heat at Minnesota Timberwolves Tickets,9107988,Miami Heat,Minnesota Timberwolves,2015_036
+554,2015-01-17T01:30:00Z,Denver Nuggets at Dallas Mavericks Tickets,9107110,Denver Nuggets,Dallas Mavericks,2015_017
+555,2015-03-21T00:00:00Z,Atlanta Hawks at Oklahoma City Thunder Tickets,9107115,Atlanta Hawks,Oklahoma City Thunder,2015_080
+556,2015-01-28T01:30:00Z,Memphis Grizzlies at Dallas Mavericks Tickets,9107116,Memphis Grizzlies,Dallas Mavericks,2015_028
+557,2014-12-31T01:30:00Z,Washington Wizards at Dallas Mavericks Tickets,9107106,Washington Wizards,Dallas Mavericks,2014_365
+558,2015-01-08T01:30:00Z,Detroit Pistons at Dallas Mavericks Tickets,9107108,Detroit Pistons,Dallas Mavericks,2015_008
+559,2015-02-20T01:00:00Z,Dallas Mavericks at Oklahoma City Thunder Tickets,9107136,Dallas Mavericks,Oklahoma City Thunder,2015_051
+560,2015-04-02T00:00:00Z,Dallas Mavericks at Oklahoma City Thunder Tickets,9107138,Dallas Mavericks,Oklahoma City Thunder,2015_092
+561,2015-02-23T00:30:00Z,Charlotte Hornets at Dallas Mavericks Tickets,9107139,Charlotte Hornets,Dallas Mavericks,2015_054
+562,2015-03-22T19:00:00Z,Miami Heat at Oklahoma City Thunder Tickets,9107161,Miami Heat,Oklahoma City Thunder,2015_081
+563,2015-02-25T01:00:00Z,Indiana Pacers at Oklahoma City Thunder Tickets,9107156,Indiana Pacers,Oklahoma City Thunder,2015_056
+564,2015-02-12T01:00:00Z,Memphis Grizzlies at Oklahoma City Thunder Tickets,9107159,Memphis Grizzlies,Oklahoma City Thunder,2015_043
+565,2015-03-01T01:30:00Z,Brooklyn Nets at Dallas Mavericks Tickets,9107146,Brooklyn Nets,Dallas Mavericks,2015_060
+566,2015-02-25T01:30:00Z,Toronto Raptors at Dallas Mavericks Tickets,9107143,Toronto Raptors,Dallas Mavericks,2015_056
+567,2015-01-17T01:00:00Z,Golden State Warriors at Oklahoma City Thunder Tickets,9107149,Golden State Warriors,Oklahoma City Thunder,2015_017
+568,2015-04-11T00:00:00Z,Sacramento Kings at Oklahoma City Thunder Tickets,9107183,Sacramento Kings,Oklahoma City Thunder,2015_101
+569,2015-04-08T00:00:00Z,San Antonio Spurs at Oklahoma City Thunder Tickets,9107184,San Antonio Spurs,Oklahoma City Thunder,2015_098
+570,2015-03-08T23:00:00Z,Toronto Raptors at Oklahoma City Thunder Tickets,9107185,Toronto Raptors,Oklahoma City Thunder,2015_067
+571,2015-01-03T01:00:00Z,Washington Wizards at Oklahoma City Thunder Tickets,9107186,Washington Wizards,Oklahoma City Thunder,2015_003
+572,2015-04-16T00:00:00Z,Atlanta Hawks at Chicago Bulls Tickets,9107180,Atlanta Hawks,Chicago Bulls,2015_106
+573,2015-04-14T00:00:00Z,Portland Trail Blazers at Oklahoma City Thunder Tickets,9107181,Portland Trail Blazers,Oklahoma City Thunder,2015_104
+574,2015-01-01T01:00:00Z,Phoenix Suns at Oklahoma City Thunder Tickets,9107177,Phoenix Suns,Oklahoma City Thunder,2015_001
+575,2014-12-24T01:00:00Z,Portland Trail Blazers at Oklahoma City Thunder Tickets,9107179,Portland Trail Blazers,Oklahoma City Thunder,2014_358
+576,2015-04-12T00:00:00Z,Philadelphia 76ers at Chicago Bulls Tickets,9107178,Philadelphia 76ers,Chicago Bulls,2015_102
+577,2015-03-05T01:00:00Z,Philadelphia 76ers at Oklahoma City Thunder Tickets,9107174,Philadelphia 76ers,Oklahoma City Thunder,2015_064
+578,2015-02-03T01:00:00Z,Orlando Magic at Oklahoma City Thunder Tickets,9107172,Orlando Magic,Oklahoma City Thunder,2015_034
+579,2015-02-07T01:00:00Z,New Orleans Pelicans at Oklahoma City Thunder Tickets,9107169,New Orleans Pelicans,Oklahoma City Thunder,2015_038
+580,2015-03-14T00:00:00Z,Minnesota Timberwolves at Oklahoma City Thunder Tickets,9107166,Minnesota Timberwolves,Oklahoma City Thunder,2015_073
+581,2015-01-27T01:00:00Z,Minnesota Timberwolves at Oklahoma City Thunder Tickets,9107165,Minnesota Timberwolves,Oklahoma City Thunder,2015_027
+582,2015-01-20T01:00:00Z,Toronto Raptors at Milwaukee Bucks Tickets,9107731,Toronto Raptors,Milwaukee Bucks,2015_020
+583,2014-12-03T00:30:00Z,Boston Celtics at Atlanta Hawks Tickets,9107733,Boston Celtics,Atlanta Hawks,2014_337
+584,2015-01-23T01:00:00Z,Utah Jazz at Milwaukee Bucks Tickets (Bucks Mason Jar Mug Givea,9107734,Utah Jazz,Milwaukee Bucks,2015_023
+585,2014-12-07T20:30:00Z,Denver Nuggets at Atlanta Hawks Tickets,9107735,Denver Nuggets,Atlanta Hawks,2014_341
+586,2014-11-23T01:30:00Z,Washington Wizards at Milwaukee Bucks Tickets (Bucks Drawstring,9107737,Washington Wizards,Milwaukee Bucks,2014_327
+587,2015-03-08T01:30:00Z,Washington Wizards at Milwaukee Bucks Tickets (Bucks Youth Jers,9107738,Washington Wizards,Milwaukee Bucks,2015_067
+588,2014-12-11T00:30:00Z,Philadelphia 76ers at Atlanta Hawks Tickets,9107739,Philadelphia 76ers,Atlanta Hawks,2014_345
+589,2015-01-07T01:00:00Z,Phoenix Suns at Milwaukee Bucks Tickets,9107721,Phoenix Suns,Milwaukee Bucks,2015_007
+590,2014-11-27T00:30:00Z,Toronto Raptors at Atlanta Hawks Tickets,9107722,Toronto Raptors,Atlanta Hawks,2014_331
+591,2014-11-22T00:30:00Z,Detroit Pistons at Atlanta Hawks Tickets,9107720,Detroit Pistons,Atlanta Hawks,2014_326
+592,2015-02-12T01:00:00Z,Sacramento Kings at Milwaukee Bucks Tickets,9107725,Sacramento Kings,Milwaukee Bucks,2015_043
+593,2014-11-29T00:30:00Z,New Orleans Pelicans at Atlanta Hawks Tickets,9107726,New Orleans Pelicans,Atlanta Hawks,2014_333
+594,2015-02-01T01:30:00Z,Portland Trail Blazers at Milwaukee Bucks Tickets (Bucks Winter,9107723,Portland Trail Blazers,Milwaukee Bucks,2015_032
+595,2014-11-30T00:30:00Z,Charlotte Hornets at Atlanta Hawks Tickets,9107729,Charlotte Hornets,Atlanta Hawks,2014_334
+596,2015-04-09T00:00:00Z,New Orleans Pelicans at Memphis Grizzlies Tickets,9107727,New Orleans Pelicans,Memphis Grizzlies,2015_099
+597,2015-03-19T00:00:00Z,San Antonio Spurs at Milwaukee Bucks Tickets (Jason Kidd Bobble,9107728,San Antonio Spurs,Milwaukee Bucks,2015_078
+598,2015-01-15T20:00:00Z,New York Knicks at Milwaukee Bucks Tickets,9107710,New York Knicks,Milwaukee Bucks,2015_015
+599,2015-02-26T01:00:00Z,Philadelphia 76ers at Milwaukee Bucks Tickets,9107719,Philadelphia 76ers,Milwaukee Bucks,2015_057
+600,2015-03-12T00:00:00Z,Orlando Magic at Milwaukee Bucks Tickets,9107714,Orlando Magic,Milwaukee Bucks,2015_071
+601,2015-04-05T00:30:00Z,Orlando Magic at Milwaukee Bucks Tickets (Bucks Grill Set Givea,9107715,Orlando Magic,Milwaukee Bucks,2015_095
+602,2015-03-10T00:00:00Z,New Orleans Pelicans at Milwaukee Bucks Tickets,9107707,New Orleans Pelicans,Milwaukee Bucks,2015_069
+603,2015-03-30T01:00:00Z,Oklahoma City Thunder at Phoenix Suns Tickets,9107704,Oklahoma City Thunder,Phoenix Suns,2015_089
+604,2015-03-20T02:00:00Z,New Orleans Pelicans at Phoenix Suns Tickets,9107701,New Orleans Pelicans,Phoenix Suns,2015_079
+605,2014-11-19T01:00:00Z,New York Knicks at Milwaukee Bucks Tickets,9107709,New York Knicks,Milwaukee Bucks,2014_323
+606,2015-03-04T00:00:00Z,Los Angeles Lakers at Charlotte Hornets Tickets,9107901,Los Angeles Lakers,Charlotte Hornets,2015_063
+607,2015-04-05T02:00:00Z,Utah Jazz at Phoenix Suns Tickets,9107687,Utah Jazz,Phoenix Suns,2015_095
+608,2015-01-03T01:30:00Z,Indiana Pacers at Milwaukee Bucks Tickets (Coors Light Ceramic,9107688,Indiana Pacers,Milwaukee Bucks,2015_003
+609,2015-03-27T00:00:00Z,Indiana Pacers at Milwaukee Bucks Tickets (Bucks Cap Giveaway),9107689,Indiana Pacers,Milwaukee Bucks,2015_086
+610,2014-11-30T02:00:00Z,Houston Rockets at Milwaukee Bucks Tickets (Giannis Antetokounm,9107684,Houston Rockets,Milwaukee Bucks,2014_334
+611,2015-02-07T02:00:00Z,Utah Jazz at Phoenix Suns Tickets,9107685,Utah Jazz,Phoenix Suns,2015_038
+612,2015-03-14T02:00:00Z,Atlanta Hawks at Phoenix Suns Tickets,9107696,Atlanta Hawks,Phoenix Suns,2015_073
+613,2014-12-14T00:30:00Z,Los Angeles Clippers at Milwaukee Bucks Tickets (Bucks Shooting,9107694,Los Angeles Clippers,Milwaukee Bucks,2014_348
+614,2015-02-11T01:00:00Z,Houston Rockets at Phoenix Suns Tickets,9107670,Houston Rockets,Phoenix Suns,2015_042
+615,2015-03-28T02:00:00Z,Portland Trail Blazers at Phoenix Suns Tickets,9107663,Portland Trail Blazers,Phoenix Suns,2015_087
+616,2015-03-22T19:00:00Z,Cleveland Cavaliers at Milwaukee Bucks Tickets,9107667,Cleveland Cavaliers,Milwaukee Bucks,2015_081
+617,2015-04-09T00:00:00Z,Cleveland Cavaliers at Milwaukee Bucks Tickets (Kohls Team Post,9107668,Cleveland Cavaliers,Milwaukee Bucks,2015_099
+618,2015-03-29T00:30:00Z,Golden State Warriors at Milwaukee Bucks Tickets,9107680,Golden State Warriors,Milwaukee Bucks,2015_088
+619,2015-02-21T01:30:00Z,Denver Nuggets at Milwaukee Bucks Tickets (Bucks Sweatshirt Bag,9107673,Denver Nuggets,Milwaukee Bucks,2015_052
+620,2014-12-04T01:00:00Z,Dallas Mavericks at Milwaukee Bucks Tickets,9107671,Dallas Mavericks,Milwaukee Bucks,2014_338
+621,2015-04-15T02:30:00Z,Los Angeles Clippers at Phoenix Suns Tickets,9107677,Los Angeles Clippers,Phoenix Suns,2015_105
+622,2015-01-25T00:30:00Z,Detroit Pistons at Milwaukee Bucks Tickets (Bucks Jersey Lunch,9107678,Detroit Pistons,Milwaukee Bucks,2015_025
+623,2014-11-26T01:00:00Z,Detroit Pistons at Milwaukee Bucks Tickets,9107676,Detroit Pistons,Milwaukee Bucks,2014_330
+624,2015-02-22T20:30:00Z,Atlanta Hawks at Milwaukee Bucks Tickets (Bango Bike Horn Givea,9107647,Atlanta Hawks,Milwaukee Bucks,2015_053
+625,2014-12-28T01:30:00Z,Atlanta Hawks at Milwaukee Bucks Tickets (Jabari Parker Bobbleh,9107646,Atlanta Hawks,Milwaukee Bucks,2014_362
+626,2015-01-03T02:00:00Z,Philadelphia 76ers at Phoenix Suns Tickets,9107643,Philadelphia 76ers,Phoenix Suns,2015_003
+627,2015-03-23T01:00:00Z,Dallas Mavericks at Phoenix Suns Tickets,9107641,Dallas Mavericks,Phoenix Suns,2015_082
+628,2014-12-24T02:00:00Z,Dallas Mavericks at Phoenix Suns Tickets,9107640,Dallas Mavericks,Phoenix Suns,2014_358
+629,2014-12-24T01:00:00Z,Charlotte Hornets at Milwaukee Bucks Tickets (Cricket Wireless,9107659,Charlotte Hornets,Milwaukee Bucks,2014_358
+630,2015-04-12T19:00:00Z,Brooklyn Nets at Milwaukee Bucks Tickets (Bucks Youth Jersey Gi,9107657,Brooklyn Nets,Milwaukee Bucks,2015_102
+631,2015-03-12T02:00:00Z,Minnesota Timberwolves at Phoenix Suns Tickets,9107656,Minnesota Timberwolves,Phoenix Suns,2015_071
+632,2015-02-10T01:00:00Z,Brooklyn Nets at Milwaukee Bucks Tickets,9107653,Brooklyn Nets,Milwaukee Bucks,2015_041
+633,2015-04-16T00:00:00Z,Boston Celtics at Milwaukee Bucks Tickets (Bucks T Shirt Giveaw,9107651,Boston Celtics,Milwaukee Bucks,2015_106
+634,2015-02-08T01:30:00Z,Boston Celtics at Milwaukee Bucks Tickets (Brandon Knight Bobbl,9107650,Boston Celtics,Milwaukee Bucks,2015_039
+635,2014-11-27T02:00:00Z,Denver Nuggets at Phoenix Suns Tickets,9107626,Denver Nuggets,Phoenix Suns,2014_331
+636,2015-04-10T23:00:00Z,Toronto Raptors at Orlando Magic Tickets,9107622,Toronto Raptors,Orlando Magic,2015_100
+637,2015-03-13T01:00:00Z,Houston Rockets at Utah Jazz Tickets,9107834,Houston Rockets,Utah Jazz,2015_072
+638,2015-04-13T23:30:00Z,New York Knicks at Atlanta Hawks Tickets,9107830,New York Knicks,Atlanta Hawks,2015_103
+639,2015-04-10T23:30:00Z,Charlotte Hornets at Atlanta Hawks Tickets,9107828,Charlotte Hornets,Atlanta Hawks,2015_100
+640,2015-04-07T23:30:00Z,Phoenix Suns at Atlanta Hawks Tickets,9107822,Phoenix Suns,Atlanta Hawks,2015_097
+641,2015-04-04T23:30:00Z,Brooklyn Nets at Atlanta Hawks Tickets,9107821,Brooklyn Nets,Atlanta Hawks,2015_094
+642,2015-03-29T01:00:00Z,Oklahoma City Thunder at Utah Jazz Tickets,9107852,Oklahoma City Thunder,Utah Jazz,2015_088
+643,2015-04-14T01:00:00Z,Dallas Mavericks at Utah Jazz Tickets,9107845,Dallas Mavericks,Utah Jazz,2015_104
+644,2015-03-22T19:30:00Z,New Orleans Pelicans at Los Angeles Clippers Tickets,9108116,New Orleans Pelicans,Los Angeles Clippers,2015_081
+645,2014-11-13T02:00:00Z,Houston Rockets at Minnesota Timberwolves Tickets,9108117,Houston Rockets,Minnesota Timberwolves,2014_317
+646,2015-03-09T23:30:00Z,Sacramento Kings at Atlanta Hawks Tickets,9107810,Sacramento Kings,Atlanta Hawks,2015_068
+647,2015-03-26T00:00:00Z,Cleveland Cavaliers at Memphis Grizzlies Tickets,9107811,Cleveland Cavaliers,Memphis Grizzlies,2015_085
+648,2015-03-22T19:00:00Z,San Antonio Spurs at Atlanta Hawks Tickets,9107814,San Antonio Spurs,Atlanta Hawks,2015_081
+649,2015-03-27T23:30:00Z,Miami Heat at Atlanta Hawks Tickets,9107816,Miami Heat,Atlanta Hawks,2015_086
+650,2015-04-05T00:00:00Z,Washington Wizards at Memphis Grizzlies Tickets,9107815,Washington Wizards,Memphis Grizzlies,2015_095
+651,2015-04-16T00:00:00Z,Indiana Pacers at Memphis Grizzlies Tickets,9107817,Indiana Pacers,Memphis Grizzlies,2015_106
+652,2015-03-30T23:30:00Z,Milwaukee Bucks at Atlanta Hawks Tickets,9107819,Milwaukee Bucks,Atlanta Hawks,2015_089
+653,2015-02-28T00:30:00Z,Orlando Magic at Atlanta Hawks Tickets,9107801,Orlando Magic,Atlanta Hawks,2015_059
+654,2015-02-08T23:00:00Z,Atlanta Hawks at Memphis Grizzlies Tickets,9107800,Atlanta Hawks,Memphis Grizzlies,2015_039
+655,2015-03-07T00:30:00Z,Cleveland Cavaliers at Atlanta Hawks Tickets,9107807,Cleveland Cavaliers,Atlanta Hawks,2015_066
+656,2015-03-04T00:30:00Z,Houston Rockets at Atlanta Hawks Tickets,9107805,Houston Rockets,Atlanta Hawks,2015_063
+657,2015-02-11T01:00:00Z,Brooklyn Nets at Memphis Grizzlies Tickets,9107804,Brooklyn Nets,Memphis Grizzlies,2015_042
+658,2015-01-30T01:00:00Z,Denver Nuggets at Memphis Grizzlies Tickets,9107791,Denver Nuggets,Memphis Grizzlies,2015_030
+659,2015-03-22T00:00:00Z,Portland Trail Blazers at Memphis Grizzlies Tickets,9107782,Portland Trail Blazers,Memphis Grizzlies,2015_081
+660,2015-01-22T01:00:00Z,Toronto Raptors at Memphis Grizzlies Tickets,9107784,Toronto Raptors,Memphis Grizzlies,2015_022
+661,2015-01-27T01:00:00Z,Orlando Magic at Memphis Grizzlies Tickets,9107788,Orlando Magic,Memphis Grizzlies,2015_027
+662,2015-02-21T00:30:00Z,Toronto Raptors at Atlanta Hawks Tickets,9107795,Toronto Raptors,Atlanta Hawks,2015_052
+663,2015-03-17T00:00:00Z,Denver Nuggets at Memphis Grizzlies Tickets,9107792,Denver Nuggets,Memphis Grizzlies,2015_076
+664,2015-02-26T00:30:00Z,Dallas Mavericks at Atlanta Hawks Tickets,9107798,Dallas Mavericks,Atlanta Hawks,2015_057
+665,2015-04-04T00:00:00Z,Oklahoma City Thunder at Memphis Grizzlies Tickets,9107797,Oklahoma City Thunder,Memphis Grizzlies,2015_094
+666,2014-11-29T00:00:00Z,Golden State Warriors at Charlotte Hornets Tickets,9108184,Golden State Warriors,Charlotte Hornets,2014_333
+667,2015-03-31T00:00:00Z,Sacramento Kings at Memphis Grizzlies Tickets,9107740,Sacramento Kings,Memphis Grizzlies,2015_090
+668,2014-12-13T00:30:00Z,Orlando Magic at Atlanta Hawks Tickets,9107742,Orlando Magic,Atlanta Hawks,2014_347
+669,2014-11-16T01:00:00Z,Detroit Pistons at Memphis Grizzlies Tickets,9107741,Detroit Pistons,Memphis Grizzlies,2014_320
+670,2014-12-16T00:30:00Z,Chicago Bulls at Atlanta Hawks Tickets,9107745,Chicago Bulls,Atlanta Hawks,2014_350
+671,2014-12-24T00:30:00Z,Los Angeles Clippers at Atlanta Hawks Tickets,9107747,Los Angeles Clippers,Atlanta Hawks,2014_358
+672,2014-12-27T00:30:00Z,Milwaukee Bucks at Atlanta Hawks Tickets,9107749,Milwaukee Bucks,Atlanta Hawks,2014_361
+673,2015-02-28T01:00:00Z,Los Angeles Clippers at Memphis Grizzlies Tickets,9107750,Los Angeles Clippers,Memphis Grizzlies,2015_059
+674,2015-01-11T20:00:00Z,Washington Wizards at Atlanta Hawks Tickets,9107755,Washington Wizards,Atlanta Hawks,2015_011
+675,2014-12-31T01:00:00Z,San Antonio Spurs at Memphis Grizzlies Tickets,9107754,San Antonio Spurs,Memphis Grizzlies,2014_365
+676,2015-01-08T00:30:00Z,Memphis Grizzlies at Atlanta Hawks Tickets,9107753,Memphis Grizzlies,Atlanta Hawks,2015_008
+677,2014-12-06T01:00:00Z,San Antonio Spurs at Memphis Grizzlies Tickets,9107752,San Antonio Spurs,Memphis Grizzlies,2014_340
+678,2015-01-19T19:30:00Z,Detroit Pistons at Atlanta Hawks Tickets,9107759,Detroit Pistons,Atlanta Hawks,2015_019
+679,2014-12-10T01:00:00Z,Dallas Mavericks at Memphis Grizzlies Tickets,9107757,Dallas Mavericks,Memphis Grizzlies,2014_344
+680,2014-12-07T23:00:00Z,Miami Heat at Memphis Grizzlies Tickets,9107756,Miami Heat,Memphis Grizzlies,2014_341
+681,2015-01-24T00:30:00Z,Oklahoma City Thunder at Atlanta Hawks Tickets,9107764,Oklahoma City Thunder,Atlanta Hawks,2015_024
+682,2015-03-28T00:00:00Z,Golden State Warriors at Memphis Grizzlies Tickets,9107763,Golden State Warriors,Memphis Grizzlies,2015_087
+683,2015-01-25T23:00:00Z,Minnesota Timberwolves at Atlanta Hawks Tickets,9107766,Minnesota Timberwolves,Atlanta Hawks,2015_025
+684,2014-12-13T01:00:00Z,Charlotte Hornets at Memphis Grizzlies Tickets,9107760,Charlotte Hornets,Memphis Grizzlies,2014_347
+685,2015-01-22T00:30:00Z,Indiana Pacers at Atlanta Hawks Tickets,9107762,Indiana Pacers,Atlanta Hawks,2015_022
+686,2015-03-04T01:00:00Z,Utah Jazz at Memphis Grizzlies Tickets,9107768,Utah Jazz,Memphis Grizzlies,2015_063
+687,2014-12-23T01:00:00Z,Utah Jazz at Memphis Grizzlies Tickets,9107767,Utah Jazz,Memphis Grizzlies,2014_357
+688,2015-01-29T00:30:00Z,Brooklyn Nets at Atlanta Hawks Tickets,9107769,Brooklyn Nets,Atlanta Hawks,2015_029
+689,2015-01-18T01:00:00Z,Portland Trail Blazers at Memphis Grizzlies Tickets,9107780,Portland Trail Blazers,Memphis Grizzlies,2015_018
+690,2015-02-05T00:30:00Z,Washington Wizards at Atlanta Hawks Tickets,9107776,Washington Wizards,Atlanta Hawks,2015_036
+691,2015-01-11T23:00:00Z,Phoenix Suns at Memphis Grizzlies Tickets,9107775,Phoenix Suns,Memphis Grizzlies,2015_011
+692,2015-02-01T00:30:00Z,Philadelphia 76ers at Atlanta Hawks Tickets,9107774,Philadelphia 76ers,Atlanta Hawks,2015_032
+693,2015-01-06T01:00:00Z,New York Knicks at Memphis Grizzlies Tickets,9107772,New York Knicks,Memphis Grizzlies,2015_006
+694,2015-01-31T00:30:00Z,Portland Trail Blazers at Atlanta Hawks Tickets,9107771,Portland Trail Blazers,Atlanta Hawks,2015_031
+695,2015-02-07T00:30:00Z,Golden State Warriors at Atlanta Hawks Tickets,9107778,Golden State Warriors,Atlanta Hawks,2015_038
+696,2015-01-11T01:00:00Z,Milwaukee Bucks at Chicago Bulls Tickets,9107114,Milwaukee Bucks,Chicago Bulls,2015_011
+697,2015-01-06T03:00:00Z,Los Angeles Lakers at Portland Trail Blazers Tickets,9107374,Los Angeles Lakers,Portland Trail Blazers,2015_006
+698,2015-01-27T03:30:00Z,Denver Nuggets at Los Angeles Clippers Tickets,9106871,Denver Nuggets,Los Angeles Clippers,2015_027
+699,2015-01-04T03:00:00Z,Atlanta Hawks at Portland Trail Blazers Tickets,9107317,Atlanta Hawks,Portland Trail Blazers,2015_004
+700,2015-01-27T00:30:00Z,Sacramento Kings at New York Knicks Tickets,9106854,Sacramento Kings,New York Knicks,2015_027
+701,2014-11-23T23:00:00Z,Portland Trail Blazers at Boston Celtics Tickets,9107020,Portland Trail Blazers,Boston Celtics,2014_327
+702,2015-01-11T03:00:00Z,Orlando Magic at Portland Trail Blazers Tickets,9107404,Orlando Magic,Portland Trail Blazers,2015_011
+703,2015-03-25T23:30:00Z,Miami Heat at Boston Celtics Tickets,9107084,Miami Heat,Boston Celtics,2015_084
+704,2014-12-10T01:00:00Z,New York Knicks at New Orleans Pelicans Tickets,9107339,New York Knicks,New Orleans Pelicans,2014_344
+705,2014-12-11T00:00:00Z,Washington Wizards at Orlando Magic Tickets,9107628,Washington Wizards,Orlando Magic,2014_345
+706,2015-03-22T22:00:00Z,Detroit Pistons at Boston Celtics Tickets,9107082,Detroit Pistons,Boston Celtics,2015_081
+707,2014-12-19T03:30:00Z,Oklahoma City Thunder at Golden State Warriors Tickets,9106830,Oklahoma City Thunder,Golden State Warriors,2014_353
+708,2015-01-06T00:30:00Z,Dallas Mavericks at Brooklyn Nets Tickets,9106990,Dallas Mavericks,Brooklyn Nets,2015_006
+709,2015-02-12T01:00:00Z,Golden State Warriors at Minnesota Timberwolves Tickets,9107950,Golden State Warriors,Minnesota Timberwolves,2015_043
+710,2014-11-22T00:00:00Z,Orlando Magic at Charlotte Hornets Tickets,9107856,Orlando Magic,Charlotte Hornets,2014_326
+711,2015-01-15T00:00:00Z,Houston Rockets at Orlando Magic Tickets,9107576,Houston Rockets,Orlando Magic,2015_015
+712,2015-01-10T03:30:00Z,Cleveland Cavaliers at Golden State Warriors Tickets,9106852,Cleveland Cavaliers,Golden State Warriors,2015_010
+713,2014-11-16T03:00:00Z,Brooklyn Nets at Portland Trail Blazers Tickets,9107322,Brooklyn Nets,Portland Trail Blazers,2014_320
+714,2014-11-16T00:30:00Z,Atlanta Hawks at Cleveland Cavaliers Tickets,9106904,Atlanta Hawks,Cleveland Cavaliers,2014_320
+715,2014-12-03T03:00:00Z,Toronto Raptors at Sacramento Kings Tickets,9107232,Toronto Raptors,Sacramento Kings,2014_337
+716,2014-12-27T01:00:00Z,Houston Rockets at Memphis Grizzlies Tickets,9107744,Houston Rockets,Memphis Grizzlies,2014_361
+717,2015-01-23T03:30:00Z,Brooklyn Nets at Los Angeles Clippers Tickets,9106868,Brooklyn Nets,Los Angeles Clippers,2015_023
+718,2014-12-18T00:30:00Z,Dallas Mavericks at Detroit Pistons Tickets,9107952,Dallas Mavericks,Detroit Pistons,2014_352
+719,2014-12-04T03:30:00Z,Orlando Magic at Los Angeles Clippers Tickets,9106824,Orlando Magic,Los Angeles Clippers,2014_338
+720,2015-04-08T23:30:00Z,Indiana Pacers at New York Knicks Tickets,9106905,Indiana Pacers,New York Knicks,2015_098
+721,2015-04-10T23:30:00Z,Milwaukee Bucks at New York Knicks Tickets,9106909,Milwaukee Bucks,New York Knicks,2015_100
+722,2015-03-05T00:30:00Z,Charlotte Hornets at Brooklyn Nets Tickets,9107014,Charlotte Hornets,Brooklyn Nets,2015_064
+723,2014-11-18T01:00:00Z,Houston Rockets at Memphis Grizzlies Tickets,9107743,Houston Rockets,Memphis Grizzlies,2014_322
+724,2014-11-25T01:30:00Z,Indiana Pacers at Dallas Mavericks Tickets,9107067,Indiana Pacers,Dallas Mavericks,2014_329
+725,2014-12-21T01:30:00Z,San Antonio Spurs at Dallas Mavericks Tickets,9107096,San Antonio Spurs,Dallas Mavericks,2014_355
+726,2014-12-23T01:30:00Z,Atlanta Hawks at Dallas Mavericks Tickets,9107100,Atlanta Hawks,Dallas Mavericks,2014_357
+727,2015-04-16T00:00:00Z,Detroit Pistons at New York Knicks Tickets,9106913,Detroit Pistons,New York Knicks,2015_106
+728,2015-01-19T20:30:00Z,Boston Celtics at Los Angeles Clippers Tickets,9106866,Boston Celtics,Los Angeles Clippers,2015_019
+729,2015-01-09T01:00:00Z,Houston Rockets at New York Knicks Tickets,9106839,Houston Rockets,New York Knicks,2015_009
+730,2015-01-24T00:30:00Z,Orlando Magic at New York Knicks Tickets,9106851,Orlando Magic,New York Knicks,2015_024
+731,2014-11-25T00:00:00Z,Los Angeles Clippers at Charlotte Hornets Tickets,9107860,Los Angeles Clippers,Charlotte Hornets,2014_329
+732,2015-02-10T01:30:00Z,Los Angeles Clippers at Dallas Mavericks Tickets,9107126,Los Angeles Clippers,Dallas Mavericks,2015_041
+733,2015-03-25T00:00:00Z,Miami Heat at Milwaukee Bucks Tickets,9107705,Miami Heat,Milwaukee Bucks,2015_084
+734,2015-01-08T01:00:00Z,Utah Jazz at Chicago Bulls Tickets,9107112,Utah Jazz,Chicago Bulls,2015_008
+735,2015-01-13T01:00:00Z,Orlando Magic at Chicago Bulls Tickets,9107117,Orlando Magic,Chicago Bulls,2015_013
+736,2015-01-15T01:00:00Z,Washington Wizards at Chicago Bulls Tickets,9107119,Washington Wizards,Chicago Bulls,2015_015
+737,2015-01-25T18:00:00Z,Miami Heat at Chicago Bulls Tickets,9107129,Miami Heat,Chicago Bulls,2015_025
+738,2015-03-10T00:00:00Z,Memphis Grizzlies at Chicago Bulls Tickets,9107163,Memphis Grizzlies,Chicago Bulls,2015_069
+739,2015-03-19T00:00:00Z,Indiana Pacers at Chicago Bulls Tickets,9107164,Indiana Pacers,Chicago Bulls,2015_078
+740,2015-03-04T01:00:00Z,Washington Wizards at Chicago Bulls Tickets,9107157,Washington Wizards,Chicago Bulls,2015_063
+741,2015-02-28T01:00:00Z,Minnesota Timberwolves at Chicago Bulls Tickets,9107151,Minnesota Timberwolves,Chicago Bulls,2015_059
+742,2015-02-24T01:00:00Z,Milwaukee Bucks at Chicago Bulls Tickets,9107144,Milwaukee Bucks,Chicago Bulls,2015_055
+743,2015-03-24T00:00:00Z,Charlotte Hornets at Chicago Bulls Tickets,9107171,Charlotte Hornets,Chicago Bulls,2015_083
+744,2015-03-21T00:00:00Z,Toronto Raptors at Chicago Bulls Tickets,9107167,Toronto Raptors,Chicago Bulls,2015_080
+745,2014-12-04T01:00:00Z,Philadelphia 76ers at Minnesota Timberwolves Tickets,9107945,Philadelphia 76ers,Minnesota Timberwolves,2014_338
+746,2014-12-13T00:00:00Z,Portland Trail Blazers at Chicago Bulls Tickets,9107093,Portland Trail Blazers,Chicago Bulls,2014_347
+747,2014-12-31T03:00:00Z,Toronto Raptors at Portland Trail Blazers Tickets,9107424,Toronto Raptors,Portland Trail Blazers,2014_365
+748,2015-03-13T23:30:00Z,Orlando Magic at Boston Celtics Tickets,9107077,Orlando Magic,Boston Celtics,2015_072
+749,2015-01-05T00:30:00Z,Milwaukee Bucks at New York Knicks Tickets,9106834,Milwaukee Bucks,New York Knicks,2015_005
+750,2014-12-31T03:30:00Z,Philadelphia 76ers at Golden State Warriors Tickets,9106844,Philadelphia 76ers,Golden State Warriors,2014_365
+751,2014-12-30T03:30:00Z,Utah Jazz at Los Angeles Clippers Tickets,9106843,Utah Jazz,Los Angeles Clippers,2014_364
+752,2014-12-27T03:00:00Z,Philadelphia 76ers at Portland Trail Blazers Tickets,9107408,Philadelphia 76ers,Portland Trail Blazers,2014_361
+753,2015-04-13T23:30:00Z,Chicago Bulls at Brooklyn Nets Tickets,9107040,Chicago Bulls,Brooklyn Nets,2015_103
+754,2015-04-16T00:00:00Z,Orlando Magic at Brooklyn Nets Tickets,9107041,Orlando Magic,Brooklyn Nets,2015_106
+755,2015-04-08T23:30:00Z,Atlanta Hawks at Brooklyn Nets Tickets,9107036,Atlanta Hawks,Brooklyn Nets,2015_098
+756,2015-04-10T23:30:00Z,Washington Wizards at Brooklyn Nets Tickets,9107039,Washington Wizards,Brooklyn Nets,2015_100
+757,2015-04-16T00:00:00Z,Portland Trail Blazers at Dallas Mavericks Tickets,9107123,Portland Trail Blazers,Dallas Mavericks,2015_106
+758,2015-01-09T03:30:00Z,Miami Heat at Portland Trail Blazers Tickets,9107382,Miami Heat,Portland Trail Blazers,2015_009
+759,2015-03-31T23:30:00Z,Indiana Pacers at Brooklyn Nets Tickets,9107031,Indiana Pacers,Brooklyn Nets,2015_090
+760,2015-03-29T19:30:00Z,Los Angeles Lakers at Brooklyn Nets Tickets,9107030,Los Angeles Lakers,Brooklyn Nets,2015_088
+761,2014-12-23T00:00:00Z,Denver Nuggets at Charlotte Hornets Tickets,9107874,Denver Nuggets,Charlotte Hornets,2014_357
+762,2015-02-22T00:00:00Z,Oklahoma City Thunder at Charlotte Hornets Tickets,9107897,Oklahoma City Thunder,Charlotte Hornets,2015_053
+763,2015-04-12T02:30:00Z,Minnesota Timberwolves at Golden State Warriors Tickets,9108927,Minnesota Timberwolves,Golden State Warriors,2015_102
+764,2015-02-22T23:00:00Z,Golden State Warriors at Indiana Pacers Tickets,9107517,Golden State Warriors,Indiana Pacers,2015_053
+765,2014-11-20T00:00:00Z,Boston Celtics at Philadelphia 76ers Tickets,9107777,Boston Celtics,Philadelphia 76ers,2014_324
+766,2014-12-25T19:30:00Z,Oklahoma City Thunder at San Antonio Spurs Tickets,9107462,Oklahoma City Thunder,San Antonio Spurs,2014_359
+767,2015-03-25T00:30:00Z,San Antonio Spurs at Dallas Mavericks Tickets,9107098,San Antonio Spurs,Dallas Mavericks,2015_084
+768,2014-11-30T02:00:00Z,Los Angeles Clippers at Utah Jazz Tickets,9107863,Los Angeles Clippers,Utah Jazz,2014_334
+769,2015-03-01T00:30:00Z,Toronto Raptors at New York Knicks Tickets,9106881,Toronto Raptors,New York Knicks,2015_060
+770,2014-11-12T01:00:00Z,Los Angeles Lakers at Memphis Grizzlies Tickets,9107730,Los Angeles Lakers,Memphis Grizzlies,2014_316
+771,2015-04-05T00:30:00Z,Golden State Warriors at Dallas Mavericks Tickets,9107094,Golden State Warriors,Dallas Mavericks,2015_095
+772,2014-12-07T01:00:00Z,Golden State Warriors at Chicago Bulls Tickets,9107087,Golden State Warriors,Chicago Bulls,2014_341
+773,2015-02-09T00:00:00Z,San Antonio Spurs at Toronto Raptors Tickets,9107661,San Antonio Spurs,Toronto Raptors,2015_040
+774,2015-03-17T00:30:00Z,Oklahoma City Thunder at Dallas Mavericks Tickets,9107104,Oklahoma City Thunder,Dallas Mavericks,2015_076
+775,2015-04-03T00:30:00Z,Houston Rockets at Dallas Mavericks Tickets,9107135,Houston Rockets,Dallas Mavericks,2015_093
+776,2014-12-28T01:00:00Z,Indiana Pacers at Brooklyn Nets Tickets,9106984,Indiana Pacers,Brooklyn Nets,2014_362
+777,2014-12-28T00:00:00Z,Orlando Magic at Charlotte Hornets Tickets,9107876,Orlando Magic,Charlotte Hornets,2014_362
+778,2014-12-21T23:00:00Z,Detroit Pistons at Brooklyn Nets Tickets,9106977,Detroit Pistons,Brooklyn Nets,2014_355
+779,2014-12-01T00:30:00Z,Miami Heat at New York Knicks Tickets,9106804,Miami Heat,New York Knicks,2014_335
+780,2015-01-08T00:30:00Z,Boston Celtics at Brooklyn Nets Tickets,9106992,Boston Celtics,Brooklyn Nets,2015_008
+781,2014-12-26T18:00:00Z,Brooklyn Nets at Boston Celtics Tickets,9107052,Brooklyn Nets,Boston Celtics,2014_360
+782,2015-04-12T19:00:00Z,Cleveland Cavaliers at Boston Celtics Tickets,9107092,Cleveland Cavaliers,Boston Celtics,2015_102
+783,2014-12-14T00:00:00Z,Brooklyn Nets at Charlotte Hornets Tickets,9107868,Brooklyn Nets,Charlotte Hornets,2014_348
+784,2015-02-08T00:30:00Z,Golden State Warriors at New York Knicks Tickets,9106869,Golden State Warriors,New York Knicks,2015_039
+785,2015-01-11T20:30:00Z,Miami Heat at Los Angeles Clippers Tickets,9106860,Miami Heat,Los Angeles Clippers,2015_011
+786,2015-02-12T03:30:00Z,Houston Rockets at Los Angeles Clippers Tickets,9106874,Houston Rockets,Los Angeles Clippers,2015_043
+787,2015-03-18T02:30:00Z,Charlotte Hornets at Los Angeles Clippers Tickets,9108008,Charlotte Hornets,Los Angeles Clippers,2015_077
+788,2015-02-24T03:30:00Z,Memphis Grizzlies at Los Angeles Clippers Tickets,9106880,Memphis Grizzlies,Los Angeles Clippers,2015_055
+789,2014-11-29T02:00:00Z,Phoenix Suns at Denver Nuggets Tickets,9107481,Phoenix Suns,Denver Nuggets,2014_333
+790,2014-11-26T02:00:00Z,Chicago Bulls at Denver Nuggets Tickets,9107478,Chicago Bulls,Denver Nuggets,2014_330
+791,2015-01-23T03:00:00Z,Boston Celtics at Portland Trail Blazers Tickets,9107319,Boston Celtics,Portland Trail Blazers,2015_023
+792,2015-04-01T02:30:00Z,Golden State Warriors at Los Angeles Clippers Tickets,9108010,Golden State Warriors,Los Angeles Clippers,2015_091
+793,2015-03-16T01:00:00Z,New York Knicks at Phoenix Suns Tickets,9107700,New York Knicks,Phoenix Suns,2015_075
+794,2014-12-20T02:00:00Z,Los Angeles Clippers at Denver Nuggets Tickets,9107502,Los Angeles Clippers,Denver Nuggets,2014_354
+795,2015-02-08T01:30:00Z,Portland Trail Blazers at Dallas Mavericks Tickets,9107120,Portland Trail Blazers,Dallas Mavericks,2015_039
+796,2015-03-06T01:00:00Z,Oklahoma City Thunder at Chicago Bulls Tickets,9107160,Oklahoma City Thunder,Chicago Bulls,2015_065
+797,2014-12-15T00:00:00Z,Phoenix Suns at Oklahoma City Thunder Tickets,9107176,Phoenix Suns,Oklahoma City Thunder,2014_349
+798,2015-03-08T19:30:00Z,Los Angeles Clippers at Golden State Warriors Tickets,9106802,Los Angeles Clippers,Golden State Warriors,2015_067
+799,2014-11-12T03:00:00Z,Charlotte Hornets at Portland Trail Blazers Tickets,9107337,Charlotte Hornets,Portland Trail Blazers,2014_316
+800,2014-11-12T01:00:00Z,Oklahoma City Thunder at Milwaukee Bucks Tickets (Fox Sports Wi,9107712,Oklahoma City Thunder,Milwaukee Bucks,2014_316
+801,2014-11-15T02:00:00Z,Charlotte Hornets at Phoenix Suns Tickets,9107624,Charlotte Hornets,Phoenix Suns,2014_319
+802,2014-11-13T00:30:00Z,Utah Jazz at Atlanta Hawks Tickets,9108183,Utah Jazz,Atlanta Hawks,2014_317
+803,2014-11-13T02:00:00Z,Portland Trail Blazers at Denver Nuggets Tickets,9107457,Portland Trail Blazers,Denver Nuggets,2014_317
+804,2014-11-11T00:00:00Z,New Orleans Pelicans at Cleveland Cavaliers Tickets,9106901,New Orleans Pelicans,Cleveland Cavaliers,2014_315
+805,2014-11-15T00:00:00Z,Milwaukee Bucks at Orlando Magic Tickets,9107583,Milwaukee Bucks,Orlando Magic,2014_319
+806,2014-11-30T20:00:00Z,Chicago Bulls at Brooklyn Nets Tickets,9106956,Chicago Bulls,Brooklyn Nets,2014_334
+807,2014-11-10T01:00:00Z,Golden State Warriors at Phoenix Suns Tickets,9107614,Golden State Warriors,Phoenix Suns,2014_314
+808,2014-12-23T01:00:00Z,Toronto Raptors at Chicago Bulls Tickets,9107099,Toronto Raptors,Chicago Bulls,2014_357
+809,2015-03-23T23:30:00Z,Memphis Grizzlies at New York Knicks Tickets,9106893,Memphis Grizzlies,New York Knicks,2015_082
+810,2014-11-23T00:30:00Z,Philadelphia 76ers at New York Knicks Tickets,9106801,Philadelphia 76ers,New York Knicks,2014_327
+811,2015-01-04T02:00:00Z,Memphis Grizzlies at Denver Nuggets Tickets,9107528,Memphis Grizzlies,Denver Nuggets,2015_004
+812,2014-11-23T01:30:00Z,Brooklyn Nets at San Antonio Spurs Tickets,9107533,Brooklyn Nets,San Antonio Spurs,2014_327
+813,2015-01-23T01:00:00Z,San Antonio Spurs at Chicago Bulls Tickets,9107125,San Antonio Spurs,Chicago Bulls,2015_023
+814,2014-12-09T03:30:00Z,Phoenix Suns at Los Angeles Clippers Tickets,9106829,Phoenix Suns,Los Angeles Clippers,2014_343
+815,2014-12-27T20:30:00Z,Toronto Raptors at Los Angeles Clippers Tickets,9106842,Toronto Raptors,Los Angeles Clippers,2014_361
+816,2014-12-23T01:30:00Z,Los Angeles Clippers at San Antonio Spurs Tickets,9107492,Los Angeles Clippers,San Antonio Spurs,2014_357
+817,2014-12-18T01:30:00Z,Memphis Grizzlies at San Antonio Spurs Tickets,9107486,Memphis Grizzlies,San Antonio Spurs,2014_352
+818,2014-12-13T02:30:00Z,Los Angeles Lakers at San Antonio Spurs Tickets,9107498,Los Angeles Lakers,San Antonio Spurs,2014_347
+819,2015-01-01T00:00:00Z,New Orleans Pelicans at San Antonio Spurs Tickets,9107467,New Orleans Pelicans,San Antonio Spurs,2015_001
+820,2014-12-11T01:00:00Z,New York Knicks at San Antonio Spurs Tickets,9107466,New York Knicks,San Antonio Spurs,2014_345
+821,2015-02-07T02:30:00Z,Miami Heat at San Antonio Spurs Tickets,9107480,Miami Heat,San Antonio Spurs,2015_038
+822,2014-12-27T01:30:00Z,Los Angeles Lakers at Dallas Mavericks Tickets,9107064,Los Angeles Lakers,Dallas Mavericks,2014_361
+823,2015-03-25T00:00:00Z,Los Angeles Lakers at Oklahoma City Thunder Tickets,9107196,Los Angeles Lakers,Oklahoma City Thunder,2015_084
+824,2015-02-08T19:00:00Z,Los Angeles Clippers at Oklahoma City Thunder Tickets,9107193,Los Angeles Clippers,Oklahoma City Thunder,2015_039
+825,2014-12-02T03:30:00Z,Minnesota Timberwolves at Los Angeles Clippers Tickets,9106822,Minnesota Timberwolves,Los Angeles Clippers,2014_336
+826,2015-03-03T00:30:00Z,Golden State Warriors at Brooklyn Nets Tickets,9107011,Golden State Warriors,Brooklyn Nets,2015_062
+827,2014-12-20T01:00:00Z,Portland Trail Blazers at San Antonio Spurs Tickets,9107448,Portland Trail Blazers,San Antonio Spurs,2014_354
+828,2014-12-06T01:30:00Z,Miami Heat at Milwaukee Bucks Tickets,9107703,Miami Heat,Milwaukee Bucks,2014_340
+829,2014-12-26T03:30:00Z,Golden State Warriors at Los Angeles Clippers Tickets,9106840,Golden State Warriors,Los Angeles Clippers,2014_360
+830,2014-11-27T01:30:00Z,Indiana Pacers at San Antonio Spurs Tickets,9107501,Indiana Pacers,San Antonio Spurs,2014_331
+831,2014-12-29T00:00:00Z,Houston Rockets at San Antonio Spurs Tickets,9107504,Houston Rockets,San Antonio Spurs,2014_363
+832,2014-12-29T00:30:00Z,Oklahoma City Thunder at Dallas Mavericks Tickets,9107102,Oklahoma City Thunder,Dallas Mavericks,2014_363
+833,2015-03-15T17:00:00Z,Chicago Bulls at Oklahoma City Thunder Tickets,9107132,Chicago Bulls,Oklahoma City Thunder,2015_074
+834,2015-04-05T17:00:00Z,Houston Rockets at Oklahoma City Thunder Tickets,9107155,Houston Rockets,Oklahoma City Thunder,2015_095
+835,2015-02-22T01:00:00Z,Phoenix Suns at Chicago Bulls Tickets,9107140,Phoenix Suns,Chicago Bulls,2015_053
+836,2015-01-18T01:00:00Z,Atlanta Hawks at Chicago Bulls Tickets,9107121,Atlanta Hawks,Chicago Bulls,2015_018
+837,2014-12-13T00:30:00Z,New York Knicks at Boston Celtics Tickets,9107047,New York Knicks,Boston Celtics,2014_347
+838,2014-11-10T00:00:00Z,Sacramento Kings at Oklahoma City Thunder Tickets,9107182,Sacramento Kings,Oklahoma City Thunder,2014_314
+839,2015-01-03T00:00:00Z,Cleveland Cavaliers at Charlotte Hornets Tickets,9107880,Cleveland Cavaliers,Charlotte Hornets,2015_003
+840,2014-12-09T00:30:00Z,Denver Nuggets at Toronto Raptors Tickets,9107613,Denver Nuggets,Toronto Raptors,2014_343
+841,2014-11-22T00:30:00Z,Milwaukee Bucks at Toronto Raptors Tickets,9107600,Milwaukee Bucks,Toronto Raptors,2014_326
+842,2015-01-10T03:00:00Z,Denver Nuggets at Sacramento Kings Tickets,9107211,Denver Nuggets,Sacramento Kings,2015_010
+843,2014-11-19T03:00:00Z,New Orleans Pelicans at Sacramento Kings Tickets,9107217,New Orleans Pelicans,Sacramento Kings,2014_323
+844,2014-12-11T01:00:00Z,Portland Trail Blazers at Minnesota Timberwolves Tickets,9107951,Portland Trail Blazers,Minnesota Timberwolves,2014_345
+845,2015-02-12T01:30:00Z,Utah Jazz at Dallas Mavericks Tickets,9107130,Utah Jazz,Dallas Mavericks,2015_043
+846,2014-12-05T01:00:00Z,Cleveland Cavaliers at New York Knicks Tickets,9106808,Cleveland Cavaliers,New York Knicks,2014_339
+847,2014-12-19T01:30:00Z,New Orleans Pelicans at Houston Rockets Tickets,9107280,New Orleans Pelicans,Houston Rockets,2014_353
+848,2015-04-10T00:00:00Z,Chicago Bulls at Miami Heat Tickets,9107285,Chicago Bulls,Miami Heat,2015_100
+849,2015-03-09T23:30:00Z,Boston Celtics at Miami Heat Tickets,9107265,Boston Celtics,Miami Heat,2015_068
+850,2014-11-29T00:30:00Z,Milwaukee Bucks at Detroit Pistons Tickets,9107938,Milwaukee Bucks,Detroit Pistons,2014_333
+851,2015-02-24T01:00:00Z,Minnesota Timberwolves at Houston Rockets Tickets,9107270,Minnesota Timberwolves,Houston Rockets,2015_055
+852,2014-11-09T23:00:00Z,Utah Jazz at Detroit Pistons Tickets,9107930,Utah Jazz,Detroit Pistons,2014_313
+853,2015-03-18T23:30:00Z,Portland Trail Blazers at Miami Heat Tickets,9107273,Portland Trail Blazers,Miami Heat,2015_077
+854,2015-03-20T23:30:00Z,Denver Nuggets at Miami Heat Tickets,9107274,Denver Nuggets,Miami Heat,2015_079
+855,2015-03-17T00:00:00Z,Cleveland Cavaliers at Miami Heat Tickets,9107271,Cleveland Cavaliers,Miami Heat,2015_076
+856,2015-03-05T01:30:00Z,Sacramento Kings at San Antonio Spurs Tickets,9107440,Sacramento Kings,San Antonio Spurs,2015_064
+857,2014-11-29T01:30:00Z,Sacramento Kings at San Antonio Spurs Tickets,9107441,Sacramento Kings,San Antonio Spurs,2014_333
+858,2014-11-29T01:00:00Z,Los Angeles Clippers at Houston Rockets Tickets,9107259,Los Angeles Clippers,Houston Rockets,2014_333
+859,2015-01-17T00:30:00Z,Chicago Bulls at Boston Celtics Tickets,9107065,Chicago Bulls,Boston Celtics,2015_017
+860,2014-11-20T02:30:00Z,Los Angeles Lakers at Houston Rockets Tickets,9107253,Los Angeles Lakers,Houston Rockets,2014_324
+861,2014-11-22T01:30:00Z,Los Angeles Lakers at Dallas Mavericks Tickets,9107061,Los Angeles Lakers,Dallas Mavericks,2014_326
+862,2015-03-08T00:30:00Z,Sacramento Kings at Miami Heat Tickets,9107261,Sacramento Kings,Miami Heat,2015_067
+863,2015-02-03T01:30:00Z,Minnesota Timberwolves at Dallas Mavericks Tickets,9107059,Minnesota Timberwolves,Dallas Mavericks,2015_034
+864,2014-12-04T01:00:00Z,Memphis Grizzlies at Houston Rockets Tickets,9107260,Memphis Grizzlies,Houston Rockets,2014_338
+865,2014-11-16T01:30:00Z,Minnesota Timberwolves at Dallas Mavericks Tickets,9107055,Minnesota Timberwolves,Dallas Mavericks,2014_320
+866,2014-12-06T01:00:00Z,Houston Rockets at Minnesota Timberwolves Tickets,9107946,Houston Rockets,Minnesota Timberwolves,2014_340
+867,2014-11-18T01:30:00Z,Philadelphia 76ers at San Antonio Spurs Tickets,9107455,Philadelphia 76ers,San Antonio Spurs,2014_322
+868,2014-11-14T01:30:00Z,Philadelphia 76ers at Dallas Mavericks Tickets,9107054,Philadelphia 76ers,Dallas Mavericks,2014_318
+869,2015-02-22T00:30:00Z,New Orleans Pelicans at Miami Heat Tickets,9107247,New Orleans Pelicans,Miami Heat,2015_053
+870,2014-11-12T01:30:00Z,Sacramento Kings at Dallas Mavericks Tickets,9107050,Sacramento Kings,Dallas Mavericks,2014_316
+871,2014-11-09T01:00:00Z,Golden State Warriors at Houston Rockets Tickets,9107245,Golden State Warriors,Houston Rockets,2014_313
+872,2015-02-10T00:30:00Z,New York Knicks at Miami Heat Tickets,9107243,New York Knicks,Miami Heat,2015_041
+873,2014-11-10T00:30:00Z,Miami Heat at Dallas Mavericks Tickets,9107048,Miami Heat,Dallas Mavericks,2014_314
+874,2015-02-26T03:30:00Z,San Antonio Spurs at Portland Trail Blazers Tickets,9107422,San Antonio Spurs,Portland Trail Blazers,2015_057
+875,2015-03-14T23:00:00Z,Sacramento Kings at Washington Wizards Tickets,9107423,Sacramento Kings,Washington Wizards,2015_073
+876,2015-03-16T23:00:00Z,Portland Trail Blazers at Washington Wizards Tickets,9107426,Portland Trail Blazers,Washington Wizards,2015_075
+877,2015-01-28T00:30:00Z,Milwaukee Bucks at Miami Heat Tickets,9107234,Milwaukee Bucks,Miami Heat,2015_028
+878,2015-01-31T01:00:00Z,Dallas Mavericks at Miami Heat Tickets,9107238,Dallas Mavericks,Miami Heat,2015_031
+879,2015-02-26T00:30:00Z,New York Knicks at Boston Celtics Tickets,9107034,New York Knicks,Boston Celtics,2015_057
+880,2014-12-20T00:00:00Z,Utah Jazz at Orlando Magic Tickets,9107625,Utah Jazz,Orlando Magic,2014_354
+881,2015-04-03T23:30:00Z,Toronto Raptors at Brooklyn Nets Tickets,9107033,Toronto Raptors,Brooklyn Nets,2015_093
+882,2015-02-28T00:30:00Z,Charlotte Hornets at Boston Celtics Tickets,9107035,Charlotte Hornets,Boston Celtics,2015_059
+883,2014-12-06T00:30:00Z,Los Angeles Lakers at Boston Celtics Tickets,9107038,Los Angeles Lakers,Boston Celtics,2014_340
+884,2015-01-04T01:00:00Z,Utah Jazz at Minnesota Timberwolves Tickets,9107965,Utah Jazz,Minnesota Timberwolves,2015_004
+885,2014-11-16T18:00:00Z,Denver Nuggets at New York Knicks Tickets,9106797,Denver Nuggets,New York Knicks,2014_320
+886,2015-01-21T00:30:00Z,Oklahoma City Thunder at Miami Heat Tickets,9107228,Oklahoma City Thunder,Miami Heat,2015_021
+887,2014-11-15T00:30:00Z,Utah Jazz at New York Knicks Tickets,9106795,Utah Jazz,New York Knicks,2014_319
+888,2014-11-13T00:30:00Z,Orlando Magic at New York Knicks Tickets,9106794,Orlando Magic,New York Knicks,2014_317
+889,2014-11-11T00:30:00Z,Atlanta Hawks at New York Knicks Tickets,9106792,Atlanta Hawks,New York Knicks,2014_315
+890,2014-12-30T00:30:00Z,Orlando Magic at Miami Heat Tickets,9107222,Orlando Magic,Miami Heat,2014_364
+891,2014-12-28T00:30:00Z,Memphis Grizzlies at Miami Heat Tickets,9107220,Memphis Grizzlies,Miami Heat,2014_362
+892,2014-11-21T03:30:00Z,Chicago Bulls at Sacramento Kings Tickets,9107221,Chicago Bulls,Sacramento Kings,2014_325
+893,2015-01-01T00:00:00Z,Charlotte Hornets at Houston Rockets Tickets,9107227,Charlotte Hornets,Houston Rockets,2015_001
+894,2015-02-12T00:30:00Z,Atlanta Hawks at Boston Celtics Tickets,9107032,Atlanta Hawks,Boston Celtics,2015_043
+895,2015-01-04T23:00:00Z,Brooklyn Nets at Miami Heat Tickets,9107224,Brooklyn Nets,Miami Heat,2015_004
+896,2015-01-17T00:30:00Z,Atlanta Hawks at Toronto Raptors Tickets,9107638,Atlanta Hawks,Toronto Raptors,2015_017
+897,2015-02-01T18:00:00Z,Miami Heat at Boston Celtics Tickets,9107024,Miami Heat,Boston Celtics,2015_032
+898,2015-01-24T00:30:00Z,Indiana Pacers at Miami Heat Tickets,9107230,Indiana Pacers,Miami Heat,2015_024
+899,2015-02-07T00:30:00Z,Philadelphia 76ers at Boston Celtics Tickets,9107027,Philadelphia 76ers,Boston Celtics,2015_038
+900,2015-01-22T00:00:00Z,New York Knicks at Philadelphia 76ers Tickets,9107833,New York Knicks,Philadelphia 76ers,2015_022
+901,2014-11-27T01:00:00Z,Utah Jazz at Oklahoma City Thunder Tickets,9107187,Utah Jazz,Oklahoma City Thunder,2014_331
+902,2015-02-23T02:30:00Z,Boston Celtics at Los Angeles Lakers Tickets,9106991,Boston Celtics,Los Angeles Lakers,2015_054
+903,2015-02-28T03:30:00Z,Milwaukee Bucks at Los Angeles Lakers Tickets,9106993,Milwaukee Bucks,Los Angeles Lakers,2015_059
+904,2015-03-09T01:30:00Z,Dallas Mavericks at Los Angeles Lakers Tickets,9106995,Dallas Mavericks,Los Angeles Lakers,2015_068
+905,2015-04-13T01:30:00Z,Dallas Mavericks at Los Angeles Lakers Tickets,9106996,Dallas Mavericks,Los Angeles Lakers,2015_103
+906,2015-03-11T02:30:00Z,Detroit Pistons at Los Angeles Lakers Tickets,9106998,Detroit Pistons,Los Angeles Lakers,2015_070
+907,2014-11-13T00:30:00Z,Indiana Pacers at Miami Heat Tickets,9107197,Indiana Pacers,Miami Heat,2014_317
+908,2014-11-16T23:00:00Z,Milwaukee Bucks at Miami Heat Tickets,9107198,Milwaukee Bucks,Miami Heat,2014_320
+909,2014-11-21T01:00:00Z,Los Angeles Clippers at Miami Heat Tickets,9107199,Los Angeles Clippers,Miami Heat,2014_325
+910,2014-11-18T00:00:00Z,Dallas Mavericks at Charlotte Hornets Tickets,9107855,Dallas Mavericks,Charlotte Hornets,2014_322
+911,2014-11-23T02:00:00Z,New Orleans Pelicans at Utah Jazz Tickets,9107858,New Orleans Pelicans,Utah Jazz,2014_327
+912,2015-03-07T00:00:00Z,Utah Jazz at Philadelphia 76ers Tickets,9107854,Utah Jazz,Philadelphia 76ers,2015_066
+913,2015-04-04T02:30:00Z,Portland Trail Blazers at Los Angeles Lakers Tickets,9106971,Portland Trail Blazers,Los Angeles Lakers,2015_094
+914,2014-12-17T00:30:00Z,Miami Heat at Brooklyn Nets Tickets,9106973,Miami Heat,Brooklyn Nets,2014_351
+915,2014-12-13T00:30:00Z,Philadelphia 76ers at Brooklyn Nets Tickets,9106970,Philadelphia 76ers,Brooklyn Nets,2014_347
+916,2015-01-14T03:30:00Z,Miami Heat at Los Angeles Lakers Tickets,9106975,Miami Heat,Los Angeles Lakers,2015_014
+917,2015-03-29T17:00:00Z,Philadelphia 76ers at Cleveland Cavaliers Tickets,9106976,Philadelphia 76ers,Cleveland Cavaliers,2015_088
+918,2015-01-16T03:30:00Z,Cleveland Cavaliers at Los Angeles Lakers Tickets,9106978,Cleveland Cavaliers,Los Angeles Lakers,2015_016
+919,2014-11-19T02:00:00Z,Oklahoma City Thunder at Utah Jazz Tickets,9107848,Oklahoma City Thunder,Utah Jazz,2014_323
+920,2015-01-30T03:30:00Z,Chicago Bulls at Los Angeles Lakers Tickets,9106982,Chicago Bulls,Los Angeles Lakers,2015_030
+921,2015-01-28T03:30:00Z,Washington Wizards at Los Angeles Lakers Tickets,9106980,Washington Wizards,Los Angeles Lakers,2015_028
+922,2015-02-21T03:30:00Z,Brooklyn Nets at Los Angeles Lakers Tickets,9106988,Brooklyn Nets,Los Angeles Lakers,2015_052
+923,2014-12-20T03:30:00Z,Oklahoma City Thunder at Los Angeles Lakers Tickets,9106954,Oklahoma City Thunder,Los Angeles Lakers,2014_354
+924,2015-03-01T20:30:00Z,Oklahoma City Thunder at Los Angeles Lakers Tickets,9106957,Oklahoma City Thunder,Los Angeles Lakers,2015_060
+925,2014-11-20T00:30:00Z,Milwaukee Bucks at Brooklyn Nets Tickets,9106952,Milwaukee Bucks,Brooklyn Nets,2014_324
+926,2015-04-16T02:30:00Z,Sacramento Kings at Los Angeles Lakers Tickets,9106951,Sacramento Kings,Los Angeles Lakers,2015_106
+927,2014-12-09T00:30:00Z,Cleveland Cavaliers at Brooklyn Nets Tickets,9106967,Cleveland Cavaliers,Brooklyn Nets,2014_343
+928,2015-01-10T03:30:00Z,Orlando Magic at Los Angeles Lakers Tickets,9106965,Orlando Magic,Los Angeles Lakers,2015_010
+929,2014-12-06T00:30:00Z,Atlanta Hawks at Brooklyn Nets Tickets,9106964,Atlanta Hawks,Brooklyn Nets,2014_340
+930,2015-01-12T02:30:00Z,Portland Trail Blazers at Los Angeles Lakers Tickets,9106969,Portland Trail Blazers,Los Angeles Lakers,2015_012
+931,2015-01-05T02:30:00Z,Indiana Pacers at Los Angeles Lakers Tickets,9106962,Indiana Pacers,Los Angeles Lakers,2015_005
+932,2015-04-11T02:30:00Z,Minnesota Timberwolves at Los Angeles Lakers Tickets,9106936,Minnesota Timberwolves,Los Angeles Lakers,2015_101
+933,2014-12-01T02:30:00Z,Toronto Raptors at Los Angeles Lakers Tickets,9106938,Toronto Raptors,Los Angeles Lakers,2014_335
+934,2015-01-03T03:30:00Z,Memphis Grizzlies at Los Angeles Lakers Tickets,9106932,Memphis Grizzlies,Los Angeles Lakers,2015_003
+935,2014-11-29T03:30:00Z,Minnesota Timberwolves at Los Angeles Lakers Tickets,9106934,Minnesota Timberwolves,Los Angeles Lakers,2014_333
+936,2014-11-27T03:30:00Z,Memphis Grizzlies at Los Angeles Lakers Tickets,9106930,Memphis Grizzlies,Los Angeles Lakers,2014_331
+937,2014-12-06T00:30:00Z,Cleveland Cavaliers at Toronto Raptors Tickets,9107611,Cleveland Cavaliers,Toronto Raptors,2014_340
+938,2014-11-17T23:30:00Z,Miami Heat at Brooklyn Nets Tickets,9106949,Miami Heat,Brooklyn Nets,2014_321
+939,2014-12-10T03:30:00Z,Sacramento Kings at Los Angeles Lakers Tickets,9106948,Sacramento Kings,Los Angeles Lakers,2014_344
+940,2015-03-15T00:00:00Z,Milwaukee Bucks at Memphis Grizzlies Tickets,9107808,Milwaukee Bucks,Memphis Grizzlies,2015_074
+941,2014-11-09T20:30:00Z,Orlando Magic at Brooklyn Nets Tickets,9106946,Orlando Magic,Brooklyn Nets,2014_313
+942,2015-04-02T02:30:00Z,New Orleans Pelicans at Los Angeles Lakers Tickets,9106945,New Orleans Pelicans,Los Angeles Lakers,2015_092
+943,2014-11-29T00:30:00Z,Dallas Mavericks at Toronto Raptors Tickets,9107608,Dallas Mavericks,Toronto Raptors,2014_333
+944,2014-12-08T02:30:00Z,New Orleans Pelicans at Los Angeles Lakers Tickets,9106941,New Orleans Pelicans,Los Angeles Lakers,2014_342
+945,2014-11-10T02:30:00Z,Charlotte Hornets at Los Angeles Lakers Tickets,9106911,Charlotte Hornets,Los Angeles Lakers,2014_314
+946,2014-11-20T00:00:00Z,San Antonio Spurs at Cleveland Cavaliers Tickets,9106910,San Antonio Spurs,Cleveland Cavaliers,2014_324
+947,2014-11-15T03:00:00Z,San Antonio Spurs at Los Angeles Lakers Tickets,9106915,San Antonio Spurs,Los Angeles Lakers,2014_319
+948,2014-11-24T02:30:00Z,Denver Nuggets at Los Angeles Lakers Tickets,9106925,Denver Nuggets,Los Angeles Lakers,2014_328
+949,2015-02-11T03:30:00Z,Denver Nuggets at Los Angeles Lakers Tickets,9106927,Denver Nuggets,Los Angeles Lakers,2015_042
+950,2014-12-29T02:30:00Z,Phoenix Suns at Los Angeles Lakers Tickets,9106908,Phoenix Suns,Los Angeles Lakers,2014_363
+951,2014-12-30T01:00:00Z,Washington Wizards at Houston Rockets Tickets,9107313,Washington Wizards,Houston Rockets,2014_364
+952,2015-02-22T01:00:00Z,Toronto Raptors at Houston Rockets Tickets,9107308,Toronto Raptors,Houston Rockets,2015_053
+953,2014-12-23T01:00:00Z,Portland Trail Blazers at Houston Rockets Tickets,9107300,Portland Trail Blazers,Houston Rockets,2014_357
+954,2014-11-27T01:00:00Z,Sacramento Kings at Houston Rockets Tickets,9107302,Sacramento Kings,Houston Rockets,2014_331
+955,2014-11-22T03:30:00Z,Chicago Bulls at Portland Trail Blazers Tickets,9107340,Chicago Bulls,Portland Trail Blazers,2014_326
+956,2014-11-30T00:00:00Z,New Orleans Pelicans at Washington Wizards Tickets,9107338,New Orleans Pelicans,Washington Wizards,2014_334
+957,2014-12-03T01:00:00Z,Oklahoma City Thunder at New Orleans Pelicans Tickets,9107335,Oklahoma City Thunder,New Orleans Pelicans,2014_337
+958,2014-11-26T00:00:00Z,Atlanta Hawks at Washington Wizards Tickets,9107333,Atlanta Hawks,Washington Wizards,2014_330
+959,2014-11-22T01:00:00Z,Cleveland Cavaliers at Washington Wizards Tickets,9107331,Cleveland Cavaliers,Washington Wizards,2014_326
+960,2014-11-20T00:00:00Z,Dallas Mavericks at Washington Wizards Tickets,9107328,Dallas Mavericks,Washington Wizards,2014_324
+961,2014-11-15T01:00:00Z,Minnesota Timberwolves at New Orleans Pelicans Tickets,9107329,Minnesota Timberwolves,New Orleans Pelicans,2014_319
+962,2014-11-13T00:00:00Z,Detroit Pistons at Washington Wizards Tickets,9107324,Detroit Pistons,Washington Wizards,2014_317
+963,2015-01-06T01:00:00Z,Houston Rockets at Chicago Bulls Tickets,9107111,Houston Rockets,Chicago Bulls,2015_006
+964,2015-01-24T01:00:00Z,Chicago Bulls at Dallas Mavericks Tickets,9107113,Chicago Bulls,Dallas Mavericks,2015_024
+965,2015-01-22T01:00:00Z,Oklahoma City Thunder at Washington Wizards Tickets,9107387,Oklahoma City Thunder,Washington Wizards,2015_022
+966,2014-12-26T01:00:00Z,Los Angeles Lakers at Chicago Bulls Tickets,9107101,Los Angeles Lakers,Chicago Bulls,2014_360
+967,2014-12-31T01:00:00Z,Brooklyn Nets at Chicago Bulls Tickets,9107105,Brooklyn Nets,Chicago Bulls,2014_365
+968,2014-12-28T01:00:00Z,New Orleans Pelicans at Chicago Bulls Tickets,9107103,New Orleans Pelicans,Chicago Bulls,2014_362
+969,2015-02-01T01:00:00Z,Oklahoma City Thunder at Memphis Grizzlies Tickets,9107794,Oklahoma City Thunder,Memphis Grizzlies,2015_032
+970,2015-01-02T01:00:00Z,Denver Nuggets at Chicago Bulls Tickets,9107107,Denver Nuggets,Chicago Bulls,2015_002
+971,2014-12-12T01:00:00Z,Cleveland Cavaliers at Oklahoma City Thunder Tickets,9107133,Cleveland Cavaliers,Oklahoma City Thunder,2014_346
+972,2015-02-21T01:30:00Z,Houston Rockets at Dallas Mavericks Tickets,9107134,Houston Rockets,Dallas Mavericks,2015_052
+973,2015-02-11T01:00:00Z,Sacramento Kings at Chicago Bulls Tickets,9107131,Sacramento Kings,Chicago Bulls,2015_042
+974,2014-11-22T01:00:00Z,Brooklyn Nets at Oklahoma City Thunder Tickets,9107124,Brooklyn Nets,Oklahoma City Thunder,2014_326
+975,2014-12-10T01:00:00Z,Milwaukee Bucks at Oklahoma City Thunder Tickets,9107162,Milwaukee Bucks,Oklahoma City Thunder,2014_344
+976,2014-12-14T23:00:00Z,Utah Jazz at Washington Wizards Tickets,9107357,Utah Jazz,Washington Wizards,2014_348
+977,2014-11-17T00:00:00Z,Houston Rockets at Oklahoma City Thunder Tickets,9107154,Houston Rockets,Oklahoma City Thunder,2014_321
+978,2014-11-23T23:00:00Z,Los Angeles Clippers at Memphis Grizzlies Tickets,9107748,Los Angeles Clippers,Memphis Grizzlies,2014_327
+979,2014-12-17T00:00:00Z,Minnesota Timberwolves at Washington Wizards Tickets,9107361,Minnesota Timberwolves,Washington Wizards,2014_351
+980,2014-12-04T00:00:00Z,Los Angeles Lakers at Washington Wizards Tickets,9107344,Los Angeles Lakers,Washington Wizards,2014_338
+981,2014-12-02T00:00:00Z,Miami Heat at Washington Wizards Tickets,9107341,Miami Heat,Washington Wizards,2014_336
+982,2015-03-01T18:00:00Z,Los Angeles Clippers at Chicago Bulls Tickets,9107153,Los Angeles Clippers,Chicago Bulls,2015_060
+983,2015-03-06T03:30:00Z,Dallas Mavericks at Portland Trail Blazers Tickets,9107348,Dallas Mavericks,Portland Trail Blazers,2015_065
+984,2014-12-31T00:30:00Z,Cleveland Cavaliers at Atlanta Hawks Tickets,9107751,Cleveland Cavaliers,Atlanta Hawks,2014_365
+985,2015-01-19T22:00:00Z,Dallas Mavericks at Memphis Grizzlies Tickets,9107758,Dallas Mavericks,Memphis Grizzlies,2015_019
+986,2014-11-15T01:00:00Z,Detroit Pistons at Oklahoma City Thunder Tickets,9107145,Detroit Pistons,Oklahoma City Thunder,2014_319
+987,2015-02-26T01:00:00Z,Charlotte Hornets at Chicago Bulls Tickets,9107148,Charlotte Hornets,Chicago Bulls,2015_057
+988,2014-11-24T00:00:00Z,Golden State Warriors at Oklahoma City Thunder Tickets,9107147,Golden State Warriors,Oklahoma City Thunder,2014_328
+989,2015-01-10T01:00:00Z,Chicago Bulls at Washington Wizards Tickets,9107375,Chicago Bulls,Washington Wizards,2015_010
+990,2014-12-17T01:00:00Z,Golden State Warriors at Memphis Grizzlies Tickets,9107761,Golden State Warriors,Memphis Grizzlies,2014_351
+991,2015-01-19T19:00:00Z,Philadelphia 76ers at Washington Wizards Tickets,9107384,Philadelphia 76ers,Washington Wizards,2015_019
+992,2015-01-17T00:00:00Z,Brooklyn Nets at Washington Wizards Tickets,9107380,Brooklyn Nets,Washington Wizards,2015_017
+993,2015-04-04T00:00:00Z,Detroit Pistons at Chicago Bulls Tickets,9107175,Detroit Pistons,Chicago Bulls,2015_094
+994,2015-01-26T02:30:00Z,Houston Rockets at Los Angeles Lakers Tickets,9106899,Houston Rockets,Los Angeles Lakers,2015_026
+995,2015-03-29T00:00:00Z,New York Knicks at Chicago Bulls Tickets,9107173,New York Knicks,Chicago Bulls,2015_088
+996,2014-12-23T23:00:00Z,Chicago Bulls at Washington Wizards Tickets,9107365,Chicago Bulls,Washington Wizards,2014_357
+997,2014-11-29T01:00:00Z,New York Knicks at Oklahoma City Thunder Tickets,9107170,New York Knicks,Oklahoma City Thunder,2014_333
+998,2015-03-19T23:30:00Z,Minnesota Timberwolves at New York Knicks Tickets,9106892,Minnesota Timberwolves,New York Knicks,2015_078
+999,2014-12-22T00:00:00Z,New Orleans Pelicans at Oklahoma City Thunder Tickets,9107168,New Orleans Pelicans,Oklahoma City Thunder,2014_356
+1000,2014-12-16T00:00:00Z,Boston Celtics at Philadelphia 76ers Tickets,9107779,Boston Celtics,Philadelphia 76ers,2014_350
+1001,2015-03-27T23:30:00Z,Cleveland Cavaliers at Brooklyn Nets Tickets,9107029,Cleveland Cavaliers,Brooklyn Nets,2015_086
+1002,2015-03-23T23:30:00Z,Boston Celtics at Brooklyn Nets Tickets,9107028,Boston Celtics,Brooklyn Nets,2015_082
+1003,2015-03-21T00:30:00Z,Memphis Grizzlies at Dallas Mavericks Tickets,9107118,Memphis Grizzlies,Dallas Mavericks,2015_080
+1004,2015-03-14T00:30:00Z,Los Angeles Clippers at Dallas Mavericks Tickets,9107128,Los Angeles Clippers,Dallas Mavericks,2015_073
+1005,2015-03-19T00:30:00Z,Orlando Magic at Dallas Mavericks Tickets,9107152,Orlando Magic,Dallas Mavericks,2015_078
+1006,2015-02-13T01:00:00Z,Cleveland Cavaliers at Chicago Bulls Tickets,9107137,Cleveland Cavaliers,Chicago Bulls,2015_044
+1007,2015-02-28T01:00:00Z,Miami Heat at New Orleans Pelicans Tickets,9107412,Miami Heat,New Orleans Pelicans,2015_059
+1008,2014-12-04T00:30:00Z,San Antonio Spurs at Brooklyn Nets Tickets,9106960,San Antonio Spurs,Brooklyn Nets,2014_338
+1009,2015-02-03T01:00:00Z,Atlanta Hawks at New Orleans Pelicans Tickets,9107399,Atlanta Hawks,New Orleans Pelicans,2015_034
+1010,2015-01-25T01:00:00Z,Philadelphia 76ers at Memphis Grizzlies Tickets,9107786,Philadelphia 76ers,Memphis Grizzlies,2015_025
+1011,2015-01-27T01:00:00Z,Philadelphia 76ers at New Orleans Pelicans Tickets,9107388,Philadelphia 76ers,New Orleans Pelicans,2015_027
+1012,2015-02-23T00:00:00Z,Denver Nuggets at Oklahoma City Thunder Tickets,9107142,Denver Nuggets,Oklahoma City Thunder,2015_054
+1013,2015-03-19T00:00:00Z,Boston Celtics at Oklahoma City Thunder Tickets,9107122,Boston Celtics,Oklahoma City Thunder,2015_078
+1014,2015-02-10T01:00:00Z,Utah Jazz at New Orleans Pelicans Tickets,9107354,Utah Jazz,New Orleans Pelicans,2015_041
+1015,2014-12-13T01:00:00Z,Cleveland Cavaliers at New Orleans Pelicans Tickets,9107342,Cleveland Cavaliers,New Orleans Pelicans,2014_347
+1016,2015-04-08T00:00:00Z,Golden State Warriors at New Orleans Pelicans Tickets,9107349,Golden State Warriors,New Orleans Pelicans,2015_098
+1017,2014-11-22T01:00:00Z,Boston Celtics at Memphis Grizzlies Tickets,9107746,Boston Celtics,Memphis Grizzlies,2014_326
+1018,2015-01-17T00:00:00Z,Detroit Pistons at Indiana Pacers Tickets,9107494,Detroit Pistons,Indiana Pacers,2015_017
+1019,2015-01-14T00:00:00Z,Minnesota Timberwolves at Indiana Pacers Tickets,9107491,Minnesota Timberwolves,Indiana Pacers,2015_014
+1020,2014-12-31T20:00:00Z,Miami Heat at Indiana Pacers Tickets,9107484,Miami Heat,Indiana Pacers,2014_365
+1021,2015-01-28T00:00:00Z,Toronto Raptors at Indiana Pacers Tickets,9107497,Toronto Raptors,Indiana Pacers,2015_028
+1022,2014-11-29T01:00:00Z,Orlando Magic at Indiana Pacers Tickets,9107464,Orlando Magic,Indiana Pacers,2014_333
+1023,2014-12-30T00:00:00Z,Chicago Bulls at Indiana Pacers Tickets,9107482,Chicago Bulls,Indiana Pacers,2014_364
+1024,2014-12-16T00:00:00Z,Los Angeles Lakers at Indiana Pacers Tickets,9107476,Los Angeles Lakers,Indiana Pacers,2014_350
+1025,2014-12-24T00:00:00Z,New Orleans Pelicans at Indiana Pacers Tickets,9107479,New Orleans Pelicans,Indiana Pacers,2014_358
+1026,2015-03-25T23:30:00Z,Chicago Bulls at Toronto Raptors Tickets,9107690,Chicago Bulls,Toronto Raptors,2015_084
+1027,2015-03-22T20:00:00Z,New York Knicks at Toronto Raptors Tickets,9107686,New York Knicks,Toronto Raptors,2015_081
+1028,2015-04-16T00:00:00Z,Charlotte Hornets at Toronto Raptors Tickets,9107699,Charlotte Hornets,Toronto Raptors,2015_106
+1029,2015-03-15T23:00:00Z,Portland Trail Blazers at Toronto Raptors Tickets,9107679,Portland Trail Blazers,Toronto Raptors,2015_074
+1030,2015-01-14T02:00:00Z,Cleveland Cavaliers at Phoenix Suns Tickets,9107649,Cleveland Cavaliers,Phoenix Suns,2015_014
+1031,2015-01-18T20:30:00Z,New Orleans Pelicans at Toronto Raptors Tickets,9107642,New Orleans Pelicans,Toronto Raptors,2015_018
+1032,2014-12-07T23:00:00Z,Oklahoma City Thunder at Detroit Pistons Tickets,9107947,Oklahoma City Thunder,Detroit Pistons,2014_341
+1033,2015-01-26T00:00:00Z,Detroit Pistons at Toronto Raptors Tickets,9107644,Detroit Pistons,Toronto Raptors,2015_026
+1034,2014-11-20T00:00:00Z,Charlotte Hornets at Indiana Pacers Tickets,9107458,Charlotte Hornets,Indiana Pacers,2014_324
+1035,2014-11-15T00:00:00Z,Denver Nuggets at Indiana Pacers Tickets,9107454,Denver Nuggets,Indiana Pacers,2014_319
+1036,2014-11-11T00:00:00Z,Utah Jazz at Indiana Pacers Tickets,9107451,Utah Jazz,Indiana Pacers,2014_315
+1037,2014-11-23T00:00:00Z,Phoenix Suns at Indiana Pacers Tickets,9107461,Phoenix Suns,Indiana Pacers,2014_327
+1038,2014-12-18T01:00:00Z,Brooklyn Nets at Toronto Raptors Tickets,9107623,Brooklyn Nets,Toronto Raptors,2014_352
+1039,2015-02-01T00:30:00Z,Houston Rockets at Detroit Pistons Tickets,9107972,Houston Rockets,Detroit Pistons,2015_032
+1040,2015-01-11T00:30:00Z,Boston Celtics at Toronto Raptors Tickets,9107632,Boston Celtics,Toronto Raptors,2015_011
+1041,2014-12-06T00:00:00Z,Oklahoma City Thunder at Philadelphia 76ers Tickets,9107837,Oklahoma City Thunder,Philadelphia 76ers,2014_340
+1042,2014-11-22T00:00:00Z,Phoenix Suns at Philadelphia 76ers Tickets,9107839,Phoenix Suns,Philadelphia 76ers,2014_326
+1043,2015-03-20T23:00:00Z,New York Knicks at Philadelphia 76ers Tickets,9107835,New York Knicks,Philadelphia 76ers,2015_079
+1044,2015-01-17T00:00:00Z,New Orleans Pelicans at Philadelphia 76ers Tickets,9107831,New Orleans Pelicans,Philadelphia 76ers,2015_017
+1045,2015-01-31T00:00:00Z,Minnesota Timberwolves at Philadelphia 76ers Tickets,9107829,Minnesota Timberwolves,Philadelphia 76ers,2015_031
+1046,2015-01-08T00:00:00Z,Milwaukee Bucks at Philadelphia 76ers Tickets,9107826,Milwaukee Bucks,Philadelphia 76ers,2015_008
+1047,2015-04-13T23:00:00Z,Milwaukee Bucks at Philadelphia 76ers Tickets,9107827,Milwaukee Bucks,Philadelphia 76ers,2015_103
+1048,2015-04-16T00:00:00Z,Miami Heat at Philadelphia 76ers Tickets,9107825,Miami Heat,Philadelphia 76ers,2015_106
+1049,2014-12-14T00:30:00Z,Memphis Grizzlies at Philadelphia 76ers Tickets,9107823,Memphis Grizzlies,Philadelphia 76ers,2014_348
+1050,2015-03-30T23:00:00Z,Los Angeles Lakers at Philadelphia 76ers Tickets,9107820,Los Angeles Lakers,Philadelphia 76ers,2015_089
+1051,2015-02-28T00:00:00Z,Washington Wizards at Philadelphia 76ers Tickets,9107857,Washington Wizards,Philadelphia 76ers,2015_059
+1052,2015-04-08T23:00:00Z,Washington Wizards at Philadelphia 76ers Tickets,9107859,Washington Wizards,Philadelphia 76ers,2015_098
+1053,2015-03-03T00:00:00Z,Toronto Raptors at Philadelphia 76ers Tickets,9107851,Toronto Raptors,Philadelphia 76ers,2015_062
+1054,2014-12-02T00:00:00Z,San Antonio Spurs at Philadelphia 76ers Tickets,9107846,San Antonio Spurs,Philadelphia 76ers,2014_336
+1055,2015-03-13T23:00:00Z,Sacramento Kings at Philadelphia 76ers Tickets,9107844,Sacramento Kings,Philadelphia 76ers,2015_072
+1056,2015-01-24T00:00:00Z,Toronto Raptors at Philadelphia 76ers Tickets,9107849,Toronto Raptors,Philadelphia 76ers,2015_024
+1057,2014-11-25T00:00:00Z,Portland Trail Blazers at Philadelphia 76ers Tickets,9107841,Portland Trail Blazers,Philadelphia 76ers,2014_329
+1058,2015-01-11T00:30:00Z,Indiana Pacers at Philadelphia 76ers Tickets,9107812,Indiana Pacers,Philadelphia 76ers,2015_011
+1059,2015-02-21T00:00:00Z,Indiana Pacers at Philadelphia 76ers Tickets,9107813,Indiana Pacers,Philadelphia 76ers,2015_052
+1060,2015-03-27T23:00:00Z,Los Angeles Clippers at Philadelphia 76ers Tickets,9107818,Los Angeles Clippers,Philadelphia 76ers,2015_086
+1061,2015-03-18T23:00:00Z,Detroit Pistons at Philadelphia 76ers Tickets,9107803,Detroit Pistons,Philadelphia 76ers,2015_077
+1062,2015-01-29T00:00:00Z,Detroit Pistons at Philadelphia 76ers Tickets,9107802,Detroit Pistons,Philadelphia 76ers,2015_029
+1063,2015-02-10T00:00:00Z,Golden State Warriors at Philadelphia 76ers Tickets,9107806,Golden State Warriors,Philadelphia 76ers,2015_041
+1064,2015-01-30T01:00:00Z,New York Knicks at Indiana Pacers Tickets,9107500,New York Knicks,Indiana Pacers,2015_030
+1065,2015-03-11T23:00:00Z,Chicago Bulls at Philadelphia 76ers Tickets,9107790,Chicago Bulls,Philadelphia 76ers,2015_070
+1066,2015-02-01T00:00:00Z,Sacramento Kings at Indiana Pacers Tickets,9107503,Sacramento Kings,Indiana Pacers,2015_032
+1067,2015-02-05T00:00:00Z,Detroit Pistons at Indiana Pacers Tickets,9107507,Detroit Pistons,Indiana Pacers,2015_036
+1068,2014-11-27T00:00:00Z,Brooklyn Nets at Philadelphia 76ers Tickets,9107781,Brooklyn Nets,Philadelphia 76ers,2014_331
+1069,2015-03-14T23:30:00Z,Brooklyn Nets at Philadelphia 76ers Tickets,9107783,Brooklyn Nets,Philadelphia 76ers,2015_073
+1070,2014-12-20T00:00:00Z,Charlotte Hornets at Philadelphia 76ers Tickets,9107785,Charlotte Hornets,Philadelphia 76ers,2014_354
+1071,2015-02-08T00:30:00Z,Charlotte Hornets at Philadelphia 76ers Tickets,9107787,Charlotte Hornets,Philadelphia 76ers,2015_039
+1072,2015-02-10T00:00:00Z,San Antonio Spurs at Indiana Pacers Tickets,9107513,San Antonio Spurs,Indiana Pacers,2015_041
+1073,2015-02-07T00:00:00Z,Cleveland Cavaliers at Indiana Pacers Tickets,9107510,Cleveland Cavaliers,Indiana Pacers,2015_038
+1074,2015-01-06T00:00:00Z,Cleveland Cavaliers at Philadelphia 76ers Tickets,9107793,Cleveland Cavaliers,Philadelphia 76ers,2015_006
+1075,2015-02-04T00:00:00Z,Denver Nuggets at Philadelphia 76ers Tickets,9107799,Denver Nuggets,Philadelphia 76ers,2015_035
+1076,2014-11-30T00:00:00Z,Dallas Mavericks at Philadelphia 76ers Tickets,9107796,Dallas Mavericks,Philadelphia 76ers,2014_334
+1077,2015-03-01T23:00:00Z,Philadelphia 76ers at Indiana Pacers Tickets,9107523,Philadelphia 76ers,Indiana Pacers,2015_060
+1078,2015-03-07T00:00:00Z,Chicago Bulls at Indiana Pacers Tickets,9107529,Chicago Bulls,Indiana Pacers,2015_066
+1079,2015-03-05T00:00:00Z,New York Knicks at Indiana Pacers Tickets,9107526,New York Knicks,Indiana Pacers,2015_064
+1080,2015-03-10T23:00:00Z,Orlando Magic at Indiana Pacers Tickets,9107532,Orlando Magic,Indiana Pacers,2015_069
+1081,2015-03-14T23:00:00Z,Boston Celtics at Indiana Pacers Tickets,9107539,Boston Celtics,Indiana Pacers,2015_073
+1082,2015-03-12T23:00:00Z,Milwaukee Bucks at Indiana Pacers Tickets,9107536,Milwaukee Bucks,Indiana Pacers,2015_071
+1083,2015-04-03T23:00:00Z,Charlotte Hornets at Indiana Pacers Tickets,9107548,Charlotte Hornets,Indiana Pacers,2015_093
+1084,2015-03-16T23:00:00Z,Toronto Raptors at Indiana Pacers Tickets,9107541,Toronto Raptors,Indiana Pacers,2015_075
+1085,2015-03-21T23:00:00Z,Brooklyn Nets at Indiana Pacers Tickets,9107543,Brooklyn Nets,Indiana Pacers,2015_080
+1086,2015-03-29T23:00:00Z,Dallas Mavericks at Indiana Pacers Tickets,9107546,Dallas Mavericks,Indiana Pacers,2015_088
+1087,2015-04-12T22:00:00Z,Oklahoma City Thunder at Indiana Pacers Tickets,9107552,Oklahoma City Thunder,Indiana Pacers,2015_102
+1088,2015-04-05T22:00:00Z,Miami Heat at Indiana Pacers Tickets,9107550,Miami Heat,Indiana Pacers,2015_095
+1089,2015-04-15T00:00:00Z,Washington Wizards at Indiana Pacers Tickets,9107554,Washington Wizards,Indiana Pacers,2015_105
+1090,2015-03-08T00:30:00Z,Atlanta Hawks at Philadelphia 76ers Tickets,9107773,Atlanta Hawks,Philadelphia 76ers,2015_067
+1091,2015-01-14T00:00:00Z,Atlanta Hawks at Philadelphia 76ers Tickets,9107770,Atlanta Hawks,Philadelphia 76ers,2015_014
+1092,2015-03-08T22:00:00Z,Utah Jazz at Brooklyn Nets Tickets,9107019,Utah Jazz,Brooklyn Nets,2015_067
+1093,2015-02-07T00:00:00Z,New York Knicks at Brooklyn Nets Tickets,9107010,New York Knicks,Brooklyn Nets,2015_038
+1094,2015-03-20T23:30:00Z,Milwaukee Bucks at Brooklyn Nets Tickets,9107025,Milwaukee Bucks,Brooklyn Nets,2015_079
+1095,2015-03-07T00:30:00Z,Phoenix Suns at Brooklyn Nets Tickets,9107017,Phoenix Suns,Brooklyn Nets,2015_066
+1096,2015-03-10T23:30:00Z,New Orleans Pelicans at Brooklyn Nets Tickets,9107022,New Orleans Pelicans,Brooklyn Nets,2015_069
+1097,2014-11-10T00:00:00Z,Philadelphia 76ers at Toronto Raptors Tickets,9107588,Philadelphia 76ers,Toronto Raptors,2014_314
+1098,2015-03-11T00:30:00Z,Cleveland Cavaliers at Dallas Mavericks Tickets,9107150,Cleveland Cavaliers,Dallas Mavericks,2015_070
+1099,2015-01-08T03:30:00Z,Los Angeles Lakers at Los Angeles Clippers Tickets,9106856,Los Angeles Lakers,Los Angeles Clippers,2015_008
+1100,2015-01-04T03:30:00Z,Philadelphia 76ers at Los Angeles Clippers Tickets,9106850,Philadelphia 76ers,Los Angeles Clippers,2015_004
+1101,2014-11-09T01:30:00Z,Memphis Grizzlies at Milwaukee Bucks Tickets (Potawatomi Hotel,9107702,Memphis Grizzlies,Milwaukee Bucks,2014_313
+1102,2014-12-28T00:00:00Z,Boston Celtics at Washington Wizards Tickets,9107368,Boston Celtics,Washington Wizards,2014_362
+1103,2014-12-21T23:00:00Z,Phoenix Suns at Washington Wizards Tickets,9107363,Phoenix Suns,Washington Wizards,2014_355
+1104,2015-01-08T00:00:00Z,New York Knicks at Washington Wizards Tickets,9107371,New York Knicks,Washington Wizards,2015_008
+1105,2015-01-29T01:00:00Z,Oklahoma City Thunder at New York Knicks Tickets,9106859,Oklahoma City Thunder,New York Knicks,2015_029
+1106,2015-02-04T00:30:00Z,Boston Celtics at New York Knicks Tickets,9106865,Boston Celtics,New York Knicks,2015_035
+1107,2015-02-21T00:30:00Z,Miami Heat at New York Knicks Tickets,9106873,Miami Heat,New York Knicks,2015_052
+1108,2015-03-08T00:30:00Z,Indiana Pacers at New York Knicks Tickets,9106883,Indiana Pacers,New York Knicks,2015_067
+1109,2014-12-20T18:00:00Z,Phoenix Suns at New York Knicks Tickets,9106823,Phoenix Suns,New York Knicks,2014_354
+1110,2015-02-28T03:00:00Z,San Antonio Spurs at Sacramento Kings Tickets,9107215,San Antonio Spurs,Sacramento Kings,2015_059
+1111,2015-01-03T00:30:00Z,Detroit Pistons at New York Knicks Tickets,9106831,Detroit Pistons,New York Knicks,2015_003
+1112,2015-01-10T18:00:00Z,Charlotte Hornets at New York Knicks Tickets,9106845,Charlotte Hornets,New York Knicks,2015_010
+1113,2015-01-19T22:30:00Z,New Orleans Pelicans at New York Knicks Tickets,9106848,New Orleans Pelicans,New York Knicks,2015_019
+1114,2014-12-03T00:30:00Z,Brooklyn Nets at New York Knicks Tickets,9106805,Brooklyn Nets,New York Knicks,2014_337
+1115,2015-02-25T00:00:00Z,Golden State Warriors at Washington Wizards Tickets,9107409,Golden State Warriors,Washington Wizards,2015_056
+1116,2015-02-21T01:00:00Z,Cleveland Cavaliers at Washington Wizards Tickets,9107405,Cleveland Cavaliers,Washington Wizards,2015_052
+1117,2015-02-08T00:00:00Z,Brooklyn Nets at Washington Wizards Tickets,9107397,Brooklyn Nets,Washington Wizards,2015_039
+1118,2015-02-10T00:00:00Z,Orlando Magic at Washington Wizards Tickets,9107400,Orlando Magic,Washington Wizards,2015_041
+1119,2015-03-12T23:00:00Z,Memphis Grizzlies at Washington Wizards Tickets,9107419,Memphis Grizzlies,Washington Wizards,2015_071
+1120,2015-03-01T00:00:00Z,Detroit Pistons at Washington Wizards Tickets,9107413,Detroit Pistons,Washington Wizards,2015_060
+1121,2015-02-03T00:00:00Z,Charlotte Hornets at Washington Wizards Tickets,9107395,Charlotte Hornets,Washington Wizards,2015_034
+1122,2015-02-01T00:00:00Z,Toronto Raptors at Washington Wizards Tickets,9107392,Toronto Raptors,Washington Wizards,2015_032
+1123,2015-04-13T23:30:00Z,Orlando Magic at Miami Heat Tickets,9107295,Orlando Magic,Miami Heat,2015_103
+1124,2015-03-29T22:00:00Z,Detroit Pistons at Miami Heat Tickets,9107277,Detroit Pistons,Miami Heat,2015_088
+1125,2015-04-01T00:00:00Z,San Antonio Spurs at Miami Heat Tickets,9107279,San Antonio Spurs,Miami Heat,2015_091
+1126,2015-04-07T23:30:00Z,Charlotte Hornets at Miami Heat Tickets,9107283,Charlotte Hornets,Miami Heat,2015_097
+1127,2015-03-11T23:30:00Z,Brooklyn Nets at Miami Heat Tickets,9107268,Brooklyn Nets,Miami Heat,2015_070
+1128,2015-03-05T01:00:00Z,Los Angeles Lakers at Miami Heat Tickets,9107258,Los Angeles Lakers,Miami Heat,2015_064
+1129,2015-03-03T00:30:00Z,Phoenix Suns at Miami Heat Tickets,9107254,Phoenix Suns,Miami Heat,2015_062
+1130,2015-01-03T00:30:00Z,Dallas Mavericks at Boston Celtics Tickets,9107056,Dallas Mavericks,Boston Celtics,2015_003
+1131,2014-12-06T00:00:00Z,Denver Nuggets at Washington Wizards Tickets,9107347,Denver Nuggets,Washington Wizards,2014_340
+1132,2015-03-01T00:30:00Z,Atlanta Hawks at Miami Heat Tickets,9107251,Atlanta Hawks,Miami Heat,2015_060
+1133,2015-02-24T00:30:00Z,Philadelphia 76ers at Miami Heat Tickets,9107250,Philadelphia 76ers,Miami Heat,2015_055
+1134,2014-12-09T00:00:00Z,Boston Celtics at Washington Wizards Tickets,9107351,Boston Celtics,Washington Wizards,2014_343
+1135,2015-01-14T00:00:00Z,San Antonio Spurs at Washington Wizards Tickets,9107378,San Antonio Spurs,Washington Wizards,2015_014
+1136,2015-03-25T23:00:00Z,Indiana Pacers at Washington Wizards Tickets,9107429,Indiana Pacers,Washington Wizards,2015_084
+1137,2015-03-27T23:00:00Z,Charlotte Hornets at Washington Wizards Tickets,9107431,Charlotte Hornets,Washington Wizards,2015_086
+1138,2015-03-29T22:00:00Z,Houston Rockets at Washington Wizards Tickets,9107432,Houston Rockets,Washington Wizards,2015_088
+1139,2015-04-12T22:00:00Z,Atlanta Hawks at Washington Wizards Tickets,9107435,Atlanta Hawks,Washington Wizards,2015_102
+1140,2015-04-01T23:00:00Z,Philadelphia 76ers at Washington Wizards Tickets,9107433,Philadelphia 76ers,Washington Wizards,2015_091
+1141,2015-04-03T23:00:00Z,New York Knicks at Washington Wizards Tickets,9107434,New York Knicks,Washington Wizards,2015_093
+1142,2014-11-09T00:30:00Z,Minnesota Timberwolves at Miami Heat Tickets,9107195,Minnesota Timberwolves,Miami Heat,2014_313
+1143,2014-12-01T02:00:00Z,Minnesota Timberwolves at Portland Trail Blazers Tickets,9107389,Minnesota Timberwolves,Portland Trail Blazers,2014_335
+1144,2014-11-14T01:00:00Z,Sacramento Kings at Memphis Grizzlies Tickets,9107736,Sacramento Kings,Memphis Grizzlies,2014_318
+1145,2014-11-20T02:00:00Z,Oklahoma City Thunder at Denver Nuggets Tickets,9107463,Oklahoma City Thunder,Denver Nuggets,2014_324
+1146,2015-04-02T00:00:00Z,Chicago Bulls at Milwaukee Bucks Tickets,9107664,Chicago Bulls,Milwaukee Bucks,2015_092
+1147,2015-02-28T00:30:00Z,Golden State Warriors at Toronto Raptors Tickets,9107669,Golden State Warriors,Toronto Raptors,2015_059
+1148,2014-11-25T00:30:00Z,Phoenix Suns at Toronto Raptors Tickets,9107604,Phoenix Suns,Toronto Raptors,2014_329
+1149,2014-11-18T00:30:00Z,Phoenix Suns at Boston Celtics Tickets,9107018,Phoenix Suns,Boston Celtics,2014_322
