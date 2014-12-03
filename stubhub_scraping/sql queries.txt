@@ -1,0 +1,9 @@
+SELECT t.*, e.* FROM available_tickets t join events e on t.event_id = e.event_id  LIMIT 5;
+
+| index | event_id | price  | query_time                 | row  | seats             | section                  | zone                 | index | date                 | description                            | event_id |
++-------+----------+--------+----------------------------+------+-------------------+--------------------------+----------------------+-------+----------------------+----------------------------------------+----------+
+|     0 | 9107018  | 408.25 | 2014-11-08 16:01:15.860635 | AAA  | 7,8               | Courtside Center 102     | Courtside Center     |  1149 | 2014-11-18T00:30:00Z | Phoenix Suns at Boston Celtics Tickets | 9107018  |
+|     1 | 9107018  | 277.37 | 2014-11-08 16:01:15.860635 | Y    | 7,8,9,10          | Lower Level Center 102   | Lower Level Center   |  1149 | 2014-11-18T00:30:00Z | Phoenix Suns at Boston Celtics Tickets | 9107018  |
+|     2 | 9107018  | 234.25 | 2014-11-08 16:01:15.860635 | G    | General Admission | Upper Level Center 214   | Upper Level Center   |  1149 | 2014-11-18T00:30:00Z | Phoenix Suns at Boston Celtics Tickets | 9107018  |
+|     3 | 9107018  | 77.65  | 2014-11-08 16:01:15.860635 | F    | 19, 20            | 210                      | Upper Level Baseline |  1149 | 2014-11-18T00:30:00Z | Phoenix Suns at Boston Celtics Tickets | 9107018  |
+|     4 | 9107018  | 148.26 | 2014-11-08 16:01:15.860635 | Y    | General Admission | Lower Level Baseline 119 | Lower Level Baseline |  1149 | 2014-11-18T00:30:00Z | Phoenix Suns at Boston Celtics Tickets | 9107018  |
