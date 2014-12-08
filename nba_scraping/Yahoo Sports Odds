@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 14 22:55:37 2014
+
+@author: Ye Yuan
+"""
+import urllib2 
+from bs4 import BeautifulSoup
+
+optionsUrl = 'http://sports.yahoo.com/nba/odds/moneyline;_ylt=AkdKlHDQq.9GYT7mVAD7fUApWaB4?day=2014-11-15&pg=1'
+nbaOddsPage = urllib2.urlopen(optionsUrl)
+soup = BeautifulSoup(nbaOddsPage)
+
+def extract(soup):
+    table = soup.find('table', {'class' : 'moneyline'})
+    for row in table.findAll('tr')[1:]:
+        col = row.findAll('td')
+        team = col[0].text
+        bova = col[1].text
+        beto = col[2].text
+        dime = col[3].text
+        spor = col[4].text
+        record = (team, bova, beto, dime, spor)
+        print " ".join(record)
+
+extract(soup)
